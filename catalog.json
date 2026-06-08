@@ -286,12 +286,12 @@
       }
     },
     {
-      "id": 1008,
+      "id": 1002,
       "recitationStyleId": null,
-      "sortOrder": 2500,
+      "sortOrder": 9999,
       "names": {
-        "ar": "برامج",
-        "en": "Programs"
+        "ar": "أخرى",
+        "en": "Other"
       }
     }
   ],
@@ -35072,7 +35072,7 @@
     },
     {
       "id": 108,
-      "moshafId": 1008,
+      "moshafId": 1002,
       "url": "https://backup.qurango.net/radio/mix",
       "names": {
         "ar": "الإذاعة العامة • اذاعة متنوعة لمختلف القراء",
@@ -35085,7 +35085,7 @@
     },
     {
       "id": 109,
-      "moshafId": 1008,
+      "moshafId": 1002,
       "url": "https://backup.qurango.net/radio/salma",
       "names": {
         "ar": "تلاوات خاشعة",
@@ -35098,7 +35098,7 @@
     },
     {
       "id": 110,
-      "moshafId": 1008,
+      "moshafId": 1002,
       "url": "https://backup.qurango.net/radio/eid",
       "names": {
         "ar": "تكبيرات العيد",
@@ -35124,7 +35124,7 @@
     },
     {
       "id": 113,
-      "moshafId": 1008,
+      "moshafId": 1002,
       "url": "https://backup.qurango.net/radio/fatwa",
       "names": {
         "ar": "الفتاوى العامة",
@@ -35137,7 +35137,7 @@
     },
     {
       "id": 114,
-      "moshafId": 1008,
+      "moshafId": 1002,
       "url": "https://backup.qurango.net/radio/roqiah",
       "names": {
         "ar": "الرقية الشرعية",
@@ -35150,7 +35150,7 @@
     },
     {
       "id": 115,
-      "moshafId": 1008,
+      "moshafId": 1002,
       "url": "https://backup.qurango.net/radio/albaqarah",
       "names": {
         "ar": "سورة البقرة • لعدد من القراء",
@@ -35254,7 +35254,7 @@
     },
     {
       "id": 123,
-      "moshafId": 1008,
+      "moshafId": 1002,
       "url": "https://backup.qurango.net/radio/tarateel",
       "names": {
         "ar": "تراتيل قصيرة متميزة",
@@ -35475,7 +35475,7 @@
     },
     {
       "id": 21116,
-      "moshafId": 1008,
+      "moshafId": 1002,
       "url": "https://backup.qurango.net/radio/alaikhtiarat_alfiqhayh_bin_baz",
       "names": {
         "ar": "كتاب الاختيارات الفقهية في مسائل العبادات والمعاملات",
@@ -35787,7 +35787,7 @@
     },
     {
       "id": 109060,
-      "moshafId": 1008,
+      "moshafId": 1002,
       "url": "https://backup.qurango.net/radio/Surah_Al-Mulk",
       "names": {
         "ar": "سورة الملك",
@@ -35800,7 +35800,7 @@
     },
     {
       "id": 109061,
-      "moshafId": 1008,
+      "moshafId": 1002,
       "url": "https://backup.qurango.net/radio/ramadan",
       "names": {
         "ar": "فضل شهر رمضان",
@@ -35943,7 +35943,7 @@
     },
     {
       "id": 109082,
-      "moshafId": 1008,
+      "moshafId": 1002,
       "url": "https://stream.radiojar.com/0tpy1h0kxtzuv",
       "names": {
         "ar": "القرآن الكريم • السعودية",
