@@ -2,8 +2,9 @@
   "schemaVersion": 1,
   "stats": {
     "reciters": 239,
-    "moshafs": 21,
+    "moshafs": 29,
     "surahs": 114,
+    "radios": 180,
     "serversChecked": 284,
     "serversRewritten": 0,
     "serversUnverified": 0
@@ -195,15 +196,15 @@
       }
     },
     {
-        "id": 222,
-        "recitationStyleId": 2,
-        "sortOrder": 190,
-        "names": {
-            "ar": "المصحف المجود",
-            "en": "Almusshaf Al Mojawwad"
-        }
+      "id": 222,
+      "recitationStyleId": 2,
+      "sortOrder": 190,
+      "names": {
+        "ar": "المصحف المجود",
+        "en": "Almusshaf Al Mojawwad"
+      }
     },
-      {
+    {
       "id": 213,
       "recitationStyleId": 3,
       "sortOrder": 200,
@@ -213,12 +214,84 @@
       }
     },
     {
-        "id": 14,
-        "recitationStyleId": null,
-        "sortOrder": 210,
+      "id": 14,
+      "recitationStyleId": null,
+      "sortOrder": 210,
       "names": {
-          "ar": "حفص عن عاصم",
-          "en": "Rewayat Hafs A'n Assem"
+        "ar": "حفص عن عاصم",
+        "en": "Rewayat Hafs A'n Assem"
+      }
+    },
+    {
+      "id": 12,
+      "recitationStyleId": 2,
+      "sortOrder": 20,
+      "names": {
+        "ar": "حفص عن عاصم",
+        "en": "Rewayat Hafs A'n Assem"
+      }
+    },
+    {
+      "id": 1001,
+      "recitationStyleId": null,
+      "sortOrder": 0,
+      "names": {
+        "ar": "بث مباشر",
+        "en": "Live Stream"
+      }
+    },
+    {
+      "id": 1003,
+      "recitationStyleId": null,
+      "sortOrder": 2000,
+      "names": {
+        "ar": "الترجمات",
+        "en": "Translations"
+      }
+    },
+    {
+      "id": 1004,
+      "recitationStyleId": null,
+      "sortOrder": 2100,
+      "names": {
+        "ar": "التفسير",
+        "en": "Tafsir"
+      }
+    },
+    {
+      "id": 1005,
+      "recitationStyleId": null,
+      "sortOrder": 2200,
+      "names": {
+        "ar": "الحديث",
+        "en": "Hadith"
+      }
+    },
+    {
+      "id": 1006,
+      "recitationStyleId": null,
+      "sortOrder": 2300,
+      "names": {
+        "ar": "السيرة والقصص",
+        "en": "Seerah & Stories"
+      }
+    },
+    {
+      "id": 1007,
+      "recitationStyleId": null,
+      "sortOrder": 2400,
+      "names": {
+        "ar": "الأذكار",
+        "en": "Adhkar"
+      }
+    },
+    {
+      "id": 1008,
+      "recitationStyleId": null,
+      "sortOrder": 2500,
+      "names": {
+        "ar": "برامج",
+        "en": "Programs"
       }
     }
   ],
@@ -33603,6 +33676,2348 @@
           ]
         }
       ]
+    }
+  ],
+  "radios": [
+    {
+      "id": 1,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/ibrahim_alakdar",
+      "names": {
+        "ar": "إبراهيم الأخضر",
+        "en": "Ibrahim Al-Akdar"
+      },
+      "letters": {
+        "ar": "إ",
+        "en": "I"
+      }
+    },
+    {
+      "id": 2,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/shaik_abu_bakr_al_shatri",
+      "names": {
+        "ar": "أبو بكر الشاطري",
+        "en": "Abu Bakr Al Shatri"
+      },
+      "letters": {
+        "ar": "أ",
+        "en": "A"
+      }
+    },
+    {
+      "id": 3,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/ahmad_alajmy",
+      "names": {
+        "ar": "أحمد العجمي",
+        "en": "Ahmad Al-Ajmy"
+      },
+      "letters": {
+        "ar": "أ",
+        "en": "A"
+      }
+    },
+    {
+      "id": 4,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/ahmad_alhawashi",
+      "names": {
+        "ar": "أحمد الحواشي",
+        "en": "Ahmad Al-Hawashi"
+      },
+      "letters": {
+        "ar": "أ",
+        "en": "A"
+      }
+    },
+    {
+      "id": 5,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/ahmad_saber",
+      "names": {
+        "ar": "أحمد صابر",
+        "en": "Ahmad Saber"
+      },
+      "letters": {
+        "ar": "أ",
+        "en": "A"
+      }
+    },
+    {
+      "id": 6,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/ahmad_nauina",
+      "names": {
+        "ar": "أحمد نعينع",
+        "en": "Ahmad Nauina"
+      },
+      "letters": {
+        "ar": "أ",
+        "en": "A"
+      }
+    },
+    {
+      "id": 7,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/akram_alalaqmi",
+      "names": {
+        "ar": "أكرم العلاقمي",
+        "en": "Akram Alalaqmi"
+      },
+      "letters": {
+        "ar": "أ",
+        "en": "A"
+      }
+    },
+    {
+      "id": 8,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/idrees_abkr",
+      "names": {
+        "ar": "إدريس أبكر",
+        "en": "Idrees Abkr"
+      },
+      "letters": {
+        "ar": "إ",
+        "en": "I"
+      }
+    },
+    {
+      "id": 9,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/alzain_mohammad_ahmad",
+      "names": {
+        "ar": "الزين محمد أحمد",
+        "en": "Alzain Mohammad Ahmad"
+      },
+      "letters": {
+        "ar": "ا",
+        "en": "A"
+      }
+    },
+    {
+      "id": 10,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/alqaria_yassen",
+      "names": {
+        "ar": "القارئ ياسين",
+        "en": "Al-Qaria Yassen"
+      },
+      "letters": {
+        "ar": "ا",
+        "en": "A"
+      }
+    },
+    {
+      "id": 11,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/aloyoon_alkoshi",
+      "names": {
+        "ar": "العيون الكوشي",
+        "en": "Aloyoon Al-Koshi"
+      },
+      "letters": {
+        "ar": "ا",
+        "en": "A"
+      }
+    },
+    {
+      "id": 12,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/tawfeeq_assayegh",
+      "names": {
+        "ar": "توفيق الصايغ",
+        "en": "Tawfeeq As-Sayegh"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "T"
+      }
+    },
+    {
+      "id": 13,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/jamal_shaker_abdullah",
+      "names": {
+        "ar": "جمال شاكر عبدالله",
+        "en": "Jamal Shaker Abdullah"
+      },
+      "letters": {
+        "ar": "ج",
+        "en": "J"
+      }
+    },
+    {
+      "id": 14,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/khaled_alqahtani",
+      "names": {
+        "ar": "خالد القحطاني",
+        "en": "Khaled Al-Qahtani"
+      },
+      "letters": {
+        "ar": "خ",
+        "en": "K"
+      }
+    },
+    {
+      "id": 15,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/khalid_abdulkafi",
+      "names": {
+        "ar": "خالد عبدالكافي",
+        "en": "Khalid Abdulkafi"
+      },
+      "letters": {
+        "ar": "خ",
+        "en": "K"
+      }
+    },
+    {
+      "id": 16,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/khalifa_altunaiji",
+      "names": {
+        "ar": "خليفة الطنيجي",
+        "en": "Khalifa Altunaiji"
+      },
+      "letters": {
+        "ar": "خ",
+        "en": "K"
+      }
+    },
+    {
+      "id": 17,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/saad_alghamdi",
+      "names": {
+        "ar": "سعد الغامدي",
+        "en": "Saad Al-Ghamdi"
+      },
+      "letters": {
+        "ar": "س",
+        "en": "S"
+      }
+    },
+    {
+      "id": 18,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/saud_alshuraim",
+      "names": {
+        "ar": "سعود الشريم",
+        "en": "Saud Al-Shuraim"
+      },
+      "letters": {
+        "ar": "س",
+        "en": "S"
+      }
+    },
+    {
+      "id": 19,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/sahl_yassin",
+      "names": {
+        "ar": "سهل ياسين",
+        "en": "Sahl Yassin"
+      },
+      "letters": {
+        "ar": "س",
+        "en": "S"
+      }
+    },
+    {
+      "id": 20,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/zaki_daghistani",
+      "names": {
+        "ar": "زكي داغستاني",
+        "en": "Zaki Daghistani"
+      },
+      "letters": {
+        "ar": "ز",
+        "en": "Z"
+      }
+    },
+    {
+      "id": 21,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/sayeed_ramadan",
+      "names": {
+        "ar": "سيد رمضان",
+        "en": "Sayeed Ramadan"
+      },
+      "letters": {
+        "ar": "س",
+        "en": "S"
+      }
+    },
+    {
+      "id": 22,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/shirazad_taher",
+      "names": {
+        "ar": "شيرزاد عبدالرحمن طاهر",
+        "en": "Shirazad Taher"
+      },
+      "letters": {
+        "ar": "ش",
+        "en": "S"
+      }
+    },
+    {
+      "id": 23,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/saber_abdulhakm",
+      "names": {
+        "ar": "صابر عبدالحكم",
+        "en": "Saber Abdulhakm"
+      },
+      "letters": {
+        "ar": "ص",
+        "en": "S"
+      }
+    },
+    {
+      "id": 24,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/salah_albudair",
+      "names": {
+        "ar": "صلاح البدير",
+        "en": "Salah Albudair"
+      },
+      "letters": {
+        "ar": "ص",
+        "en": "S"
+      }
+    },
+    {
+      "id": 25,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/salah_alhashim",
+      "names": {
+        "ar": "صلاح الهاشم",
+        "en": "Salah Alhashim"
+      },
+      "letters": {
+        "ar": "ص",
+        "en": "S"
+      }
+    },
+    {
+      "id": 26,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/slaah_bukhatir",
+      "names": {
+        "ar": "صلاح بو خاطر",
+        "en": "Slaah Bukhatir"
+      },
+      "letters": {
+        "ar": "ص",
+        "en": "S"
+      }
+    },
+    {
+      "id": 27,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/adel_ryyan",
+      "names": {
+        "ar": "عادل ريان",
+        "en": "Adel Ryyan"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 28,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/abdelbari_altoubayti",
+      "names": {
+        "ar": "عبدالبارئ الثبيتي",
+        "en": "Abdelbari Al-Thoubayti"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 29,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/abdulbari_mohammad",
+      "names": {
+        "ar": "عبدالبارئ محمد",
+        "en": "Abdulbari Mohammad"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 30,
+      "moshafId": 12,
+      "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
+      "names": {
+        "ar": "عبدالباسط عبدالصمد",
+        "en": "Abdulbasit Abdulsamad"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 31,
+      "moshafId": 21,
+      "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_warsh",
+      "names": {
+        "ar": "عبدالباسط عبدالصمد",
+        "en": "Abdulbasit Abdulsamad"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 32,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad",
+      "names": {
+        "ar": "عبدالباسط عبدالصمد",
+        "en": "Abdulbasit Abdulsamad"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 33,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/abdulrahman_alsudaes",
+      "names": {
+        "ar": "عبدالرحمن السديس",
+        "en": "Abdulrahman Alsudaes"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 34,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/abdul_aziz_alahmad",
+      "names": {
+        "ar": "عبدالعزيز الأحمد",
+        "en": "Abdul Aziz Al-Ahmad"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 35,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/abdullah_almattrod",
+      "names": {
+        "ar": "عبدالله المطرود",
+        "en": "Abdullah Al-Mattrod"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 36,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/abdullah_basfer",
+      "names": {
+        "ar": "عبدالله بصفر",
+        "en": "Abdullah Basfer"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 37,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/abdullah_khayyat",
+      "names": {
+        "ar": "عبدالله خياط",
+        "en": "Abdullah Khayyat"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 38,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/abdullah_aljohany",
+      "names": {
+        "ar": "عبدالله عواد الجهني",
+        "en": "Abdullah Al-Johany"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 39,
+      "moshafId": 31,
+      "url": "https://backup.qurango.net/radio/abdulrasheed_soufi_khalaf",
+      "names": {
+        "ar": "عبدالرشيد صوفي",
+        "en": "Abdulrasheed Soufi"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 40,
+      "moshafId": 71,
+      "url": "https://backup.qurango.net/radio/abdulrasheed_soufi_assosi",
+      "names": {
+        "ar": "عبدالرشيد صوفي",
+        "en": "Abdulrasheed Soufi"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 41,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/abdulmohsin_alharthy",
+      "names": {
+        "ar": "عبدالمحسن الحارثي",
+        "en": "Abdulmohsin Al-Harthy"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 42,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/abdulmohsen_alqasim",
+      "names": {
+        "ar": "عبدالمحسن القاسم",
+        "en": "Abdulmohsen Al-Qasim"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 43,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/abdulmohsin_alobaikan",
+      "names": {
+        "ar": "عبدالمحسن العبيكان",
+        "en": "Abdulmohsin Al-Obaikan"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 44,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/abdulhadi_kanakeri",
+      "names": {
+        "ar": "عبدالهادي أحمد كناكري",
+        "en": "Abdulhadi Kanakeri"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 45,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/abdulwadood_haneef",
+      "names": {
+        "ar": "عبدالودود حنيف",
+        "en": "Abdulwadood Haneef"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 46,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/ali_alhuthaifi",
+      "names": {
+        "ar": "علي بن عبدالرحمن الحذيفي",
+        "en": "Ali Alhuthaifi"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 47,
+      "moshafId": 51,
+      "url": "https://backup.qurango.net/radio/ali_alhuthaifi_qalon",
+      "names": {
+        "ar": "علي الحذيفي",
+        "en": "Ali Alhuthaifi"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 48,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/ali_jaber",
+      "names": {
+        "ar": "علي جابر",
+        "en": "Ali Jaber"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 49,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/ali_hajjaj_alsouasi",
+      "names": {
+        "ar": "علي حجاج السويسي",
+        "en": "Ali Hajjaj Alsouasi"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 50,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/emad_hafez",
+      "names": {
+        "ar": "عماد زهير حافظ",
+        "en": "Emad Hafez"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "E"
+      }
+    },
+    {
+      "id": 51,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/omar_alqazabri",
+      "names": {
+        "ar": "عمر القزابري",
+        "en": "Omar Al-Qazabri"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "O"
+      }
+    },
+    {
+      "id": 52,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/fares_abbad",
+      "names": {
+        "ar": "فارس عباد",
+        "en": "Fares Abbad"
+      },
+      "letters": {
+        "ar": "ف",
+        "en": "F"
+      }
+    },
+    {
+      "id": 53,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/nasser_alqatami",
+      "names": {
+        "ar": "ناصر القطامي",
+        "en": "Nasser Alqatami"
+      },
+      "letters": {
+        "ar": "ن",
+        "en": "N"
+      }
+    },
+    {
+      "id": 54,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/nabil_al_rifay",
+      "names": {
+        "ar": "نبيل الرفاعي",
+        "en": "Nabil Al Rifay"
+      },
+      "letters": {
+        "ar": "ن",
+        "en": "N"
+      }
+    },
+    {
+      "id": 55,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/neamah_alhassan",
+      "names": {
+        "ar": "نعمة الحسان",
+        "en": "Neamah Al-Hassan"
+      },
+      "letters": {
+        "ar": "ن",
+        "en": "N"
+      }
+    },
+    {
+      "id": 56,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/hani_arrifai",
+      "names": {
+        "ar": "هاني الرفاعي",
+        "en": "Hani Arrifai"
+      },
+      "letters": {
+        "ar": "ه",
+        "en": "H"
+      }
+    },
+    {
+      "id": 57,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/waleed_alnaehi",
+      "names": {
+        "ar": "وليد النائحي",
+        "en": "Waleed Alnaehi"
+      },
+      "letters": {
+        "ar": "و",
+        "en": "W"
+      }
+    },
+    {
+      "id": 58,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/yasser_aldosari",
+      "names": {
+        "ar": "ياسر الدوسري",
+        "en": "Yasser Al-Dosari"
+      },
+      "letters": {
+        "ar": "ي",
+        "en": "Y"
+      }
+    },
+    {
+      "id": 59,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/yasser_alqurashi",
+      "names": {
+        "ar": "ياسر القرشي",
+        "en": "Yasser Al-Qurashi"
+      },
+      "letters": {
+        "ar": "ي",
+        "en": "Y"
+      }
+    },
+    {
+      "id": 60,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/yasser_almazroyee",
+      "names": {
+        "ar": "ياسر المزروعي",
+        "en": "Yasser Al-Mazroyee"
+      },
+      "letters": {
+        "ar": "ي",
+        "en": "Y"
+      }
+    },
+    {
+      "id": 61,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/yahya_hawwa",
+      "names": {
+        "ar": "يحيى حوا",
+        "en": "Yahya Hawwa"
+      },
+      "letters": {
+        "ar": "ي",
+        "en": "Y"
+      }
+    },
+    {
+      "id": 62,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/yousef_alshoaey",
+      "names": {
+        "ar": "يوسف الشويعي",
+        "en": "Yousef Alshoaey"
+      },
+      "letters": {
+        "ar": "ي",
+        "en": "Y"
+      }
+    },
+    {
+      "id": 63,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/maher",
+      "names": {
+        "ar": "ماهر المعيقلي",
+        "en": "Maher Al Meaqli"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 64,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/mohammad_altablaway",
+      "names": {
+        "ar": "محمد الطبلاوي",
+        "en": "Mohammad Al-Tablaway"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 65,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/mohammed_allohaidan",
+      "names": {
+        "ar": "محمد اللحيدان",
+        "en": "Mohammed Al-Lohaidan"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 66,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/mohammed_ayyub",
+      "names": {
+        "ar": "محمد أيوب",
+        "en": "Mohammed Ayyub"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 67,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/mohammad_saleh_alim_shah",
+      "names": {
+        "ar": "محمد صالح عالم شاه",
+        "en": "Mohammad Saleh Alim Shah"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 68,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/mohammed_jibreel",
+      "names": {
+        "ar": "محمد جبريل",
+        "en": "Mohammed Jibreel"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 69,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi",
+      "names": {
+        "ar": "محمد صديق المنشاوي",
+        "en": "Mohammed Siddiq Al-Minshawi"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 70,
+      "moshafId": 12,
+      "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad",
+      "names": {
+        "ar": "محمد صديق المنشاوي",
+        "en": "Mohammed Siddiq Al-Minshawi"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 71,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/mohammad_abdullkarem",
+      "names": {
+        "ar": "محمد عبدالكريم",
+        "en": "Mohammad Abdullkarem"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 72,
+      "moshafId": 41,
+      "url": "https://backup.qurango.net/radio/mohammad_alabdullah_albizi",
+      "names": {
+        "ar": "محمد عبدالحكيم سعيد العبدالله",
+        "en": "Mohammad Al-Abdullah"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 73,
+      "moshafId": 121,
+      "url": "https://backup.qurango.net/radio/mohammad_alabdullah_aldorai",
+      "names": {
+        "ar": "محمد عبدالحكيم سعيد العبدالله",
+        "en": "Mohammad Al-Abdullah"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 74,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary",
+      "names": {
+        "ar": "محمود خليل الحصري",
+        "en": "Mahmoud Khalil Al-Hussary"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 75,
+      "moshafId": 12,
+      "url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_mojawwad",
+      "names": {
+        "ar": "محمود خليل الحصري",
+        "en": "Mahmoud Khalil Al-Hussary"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 76,
+      "moshafId": 21,
+      "url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+      "names": {
+        "ar": "محمود خليل الحصري",
+        "en": "Mahmoud Khalil Al-Hussary"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 77,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/mahmoud_ali__albanna",
+      "names": {
+        "ar": "محمود علي البنا",
+        "en": "Mahmoud Ali  Albanna"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 78,
+      "moshafId": 12,
+      "url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_mojawwad",
+      "names": {
+        "ar": "محمود علي البنا",
+        "en": "Mahmoud Ali  Albanna"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 79,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/mishary_alafasi",
+      "names": {
+        "ar": "مشاري العفاسي",
+        "en": "Mishary Alafasi"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 80,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/mustafa_ismail",
+      "names": {
+        "ar": "مصطفى إسماعيل",
+        "en": "Mustafa Ismail"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 81,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/mustafa_allahoni",
+      "names": {
+        "ar": "مصطفى اللاهوني",
+        "en": "Mustafa Al-Lahoni"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 82,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/mustafa_raad_alazawy",
+      "names": {
+        "ar": "مصطفى رعد العزاوي",
+        "en": "Mustafa raad Alazawy"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 83,
+      "moshafId": 131,
+      "url": "https://backup.qurango.net/radio/muftah_alsaltany_aldori_an_abi_amr ",
+      "names": {
+        "ar": "مفتاح السلطني",
+        "en": "Muftah Alsaltany"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 84,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/maher_shakhashero",
+      "names": {
+        "ar": "ماهر شخاشيرو",
+        "en": "Maher Shakhashero"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 85,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/mahmood_alsheimy",
+      "names": {
+        "ar": "محمود الشيمي",
+        "en": "Mahmood AlSheimy"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 86,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/khalid_almohana",
+      "names": {
+        "ar": "خالد المهنا",
+        "en": "Khalid Almohana"
+      },
+      "letters": {
+        "ar": "خ",
+        "en": "K"
+      }
+    },
+    {
+      "id": 87,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/adel_alkhalbany",
+      "names": {
+        "ar": "عادل الكلباني",
+        "en": "Adel Al-Khalbany"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 88,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/mousa_bilal",
+      "names": {
+        "ar": "موسى بلال",
+        "en": "Mousa Bilal"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 89,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/hatem_fareed_alwaer",
+      "names": {
+        "ar": "حاتم فريد الواعر",
+        "en": "Hatem Fareed Alwaer"
+      },
+      "letters": {
+        "ar": "ح",
+        "en": "H"
+      }
+    },
+    {
+      "id": 90,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/mahmood_al_rifai",
+      "names": {
+        "ar": "محمود الرفاعي",
+        "en": "Mahmood Al rifai"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 91,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/ibrahim_aldosari",
+      "names": {
+        "ar": "ابراهيم الدوسري",
+        "en": "Ibrahim Aldosari"
+      },
+      "letters": {
+        "ar": "ا",
+        "en": "I"
+      }
+    },
+    {
+      "id": 92,
+      "moshafId": 121,
+      "url": "https://backup.qurango.net/radio/muftah_alsaltany_aldorai",
+      "names": {
+        "ar": "مفتاح السلطني",
+        "en": "Muftah Alsaltany"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 93,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/jamaan_alosaimi",
+      "names": {
+        "ar": "جمعان العصيمي",
+        "en": "Jamaan Alosaimi"
+      },
+      "letters": {
+        "ar": "ج",
+        "en": "J"
+      }
+    },
+    {
+      "id": 94,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/muftah_alsaltany",
+      "names": {
+        "ar": "مفتاح السلطني",
+        "en": "Muftah Alsaltany"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 95,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/yousef_bin_noah_ahmad",
+      "names": {
+        "ar": "يوسف بن نوح أحمد",
+        "en": "Yousef Bin Noah Ahmad"
+      },
+      "letters": {
+        "ar": "ي",
+        "en": "Y"
+      }
+    },
+    {
+      "id": 96,
+      "moshafId": 161,
+      "url": "https://backup.qurango.net/radio/muftah_alsaltany_ibn_thakwan_an_ibn_amr",
+      "names": {
+        "ar": "مفتاح السلطني",
+        "en": "Muftah Alsaltany"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 97,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/moeedh_alharthi",
+      "names": {
+        "ar": "معيض الحارثي",
+        "en": "Moeedh Alharthi"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 98,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/mohammad_rashad_alshareef",
+      "names": {
+        "ar": "محمد رشاد الشريف",
+        "en": "Mohammad Rashad Alshareef"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 99,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+      "names": {
+        "ar": "أحمد خضر الطرابلسي",
+        "en": "Ahmad Khader Al-Tarabulsi"
+      },
+      "letters": {
+        "ar": "أ",
+        "en": "A"
+      }
+    },
+    {
+      "id": 100,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/ahmed_altrabulsi",
+      "names": {
+        "ar": "أحمد الطرابلسي",
+        "en": "Ahmed Al-trabulsi"
+      },
+      "letters": {
+        "ar": "أ",
+        "en": "A"
+      }
+    },
+    {
+      "id": 101,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/abdullah_alkandari",
+      "names": {
+        "ar": "عبدالله الكندري",
+        "en": "Abdullah Al-Kandari"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 102,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/ahmed_amer",
+      "names": {
+        "ar": "أحمد عامر",
+        "en": "Ahmed Amer"
+      },
+      "letters": {
+        "ar": "أ",
+        "en": "A"
+      }
+    },
+    {
+      "id": 103,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/mohammed_osman_khan",
+      "names": {
+        "ar": "محمد عثمان خان",
+        "en": "Mohammed Osman Khan"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 104,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/addokali_mohammad_alalim",
+      "names": {
+        "ar": "الدوكالي محمد العالم",
+        "en": "Addokali Mohammad Alalim"
+      },
+      "letters": {
+        "ar": "ا",
+        "en": "A"
+      }
+    },
+    {
+      "id": 105,
+      "moshafId": 101,
+      "url": "https://backup.qurango.net/radio/mohammad_abdullkarem_alasbahani",
+      "names": {
+        "ar": "محمد عبدالكريم",
+        "en": "Mohammad Abdullkarem"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 106,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/alfateh_alzubair",
+      "names": {
+        "ar": "الفاتح محمد الزبير",
+        "en": "Alfateh Alzubair"
+      },
+      "letters": {
+        "ar": "ا",
+        "en": "A"
+      }
+    },
+    {
+      "id": 107,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/tareq_abdulgani_daawob",
+      "names": {
+        "ar": "طارق عبدالغني دعوب",
+        "en": "Tareq Abdulgani daawob"
+      },
+      "letters": {
+        "ar": "ط",
+        "en": "T"
+      }
+    },
+    {
+      "id": 108,
+      "moshafId": 1008,
+      "url": "https://backup.qurango.net/radio/mix",
+      "names": {
+        "ar": "الإذاعة العامة • اذاعة متنوعة لمختلف القراء",
+        "en": "Main Radio"
+      },
+      "letters": {
+        "ar": "ا",
+        "en": "M"
+      }
+    },
+    {
+      "id": 109,
+      "moshafId": 1008,
+      "url": "https://backup.qurango.net/radio/salma",
+      "names": {
+        "ar": "تلاوات خاشعة",
+        "en": "Beautiful Recitations"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "B"
+      }
+    },
+    {
+      "id": 110,
+      "moshafId": 1008,
+      "url": "https://backup.qurango.net/radio/eid",
+      "names": {
+        "ar": "تكبيرات العيد",
+        "en": "Eid Takbeer"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "E"
+      }
+    },
+    {
+      "id": 111,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/abdulrahman_almajed",
+      "names": {
+        "ar": "عبدالرحمن الماجد",
+        "en": "Abdulrahman Al-Majed"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 113,
+      "moshafId": 1008,
+      "url": "https://backup.qurango.net/radio/fatwa",
+      "names": {
+        "ar": "الفتاوى العامة",
+        "en": "General Fatwa Radio"
+      },
+      "letters": {
+        "ar": "ا",
+        "en": "G"
+      }
+    },
+    {
+      "id": 114,
+      "moshafId": 1008,
+      "url": "https://backup.qurango.net/radio/roqiah",
+      "names": {
+        "ar": "الرقية الشرعية",
+        "en": "Sharia ruqyah"
+      },
+      "letters": {
+        "ar": "ا",
+        "en": "S"
+      }
+    },
+    {
+      "id": 115,
+      "moshafId": 1008,
+      "url": "https://backup.qurango.net/radio/albaqarah",
+      "names": {
+        "ar": "سورة البقرة • لعدد من القراء",
+        "en": "Surah Al-Baqarah • Many Reciters"
+      },
+      "letters": {
+        "ar": "س",
+        "en": "S"
+      }
+    },
+    {
+      "id": 116,
+      "moshafId": 1004,
+      "url": "https://backup.qurango.net/radio/tafseer",
+      "names": {
+        "ar": "تفسير القران الكريم",
+        "en": "Quran Tafseer"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "Q"
+      }
+    },
+    {
+      "id": 117,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/khalid_aljileel",
+      "names": {
+        "ar": "خالد الجليل",
+        "en": "Khalid Al-Jileel"
+      },
+      "letters": {
+        "ar": "خ",
+        "en": "K"
+      }
+    },
+    {
+      "id": 118,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/nasser_almajed",
+      "names": {
+        "ar": "ناصر الماجد",
+        "en": "Nasser Almajed"
+      },
+      "letters": {
+        "ar": "ن",
+        "en": "N"
+      }
+    },
+    {
+      "id": 119,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/hitham_aljadani",
+      "names": {
+        "ar": "هيثم الجدعاني",
+        "en": "Haitham Aljudaany"
+      },
+      "letters": {
+        "ar": "ه",
+        "en": "H"
+      }
+    },
+    {
+      "id": 120,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/ahmad_shaheen",
+      "names": {
+        "ar": "أحمد خليل شاهين",
+        "en": "Ahmad Shaheen"
+      },
+      "letters": {
+        "ar": "أ",
+        "en": "A"
+      }
+    },
+    {
+      "id": 121,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/abdullah_almousa",
+      "names": {
+        "ar": "عبدالله الموسى",
+        "en": "Abdullah Al-Mousa • Radio"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 122,
+      "moshafId": 31,
+      "url": "https://backup.qurango.net/radio/abdullah_alkhalaf",
+      "names": {
+        "ar": "عبدالله الخلف",
+        "en": "Abdullah Al-Khalaf"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 123,
+      "moshafId": 1008,
+      "url": "https://backup.qurango.net/radio/tarateel",
+      "names": {
+        "ar": "تراتيل قصيرة متميزة",
+        "en": "Amazing short Recitations"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "A"
+      }
+    },
+    {
+      "id": 139,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/majed_alzamel",
+      "names": {
+        "ar": "ماجد الزامل",
+        "en": "Majed Al-Zamil"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 217,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/bandar_balilah",
+      "names": {
+        "ar": "بندر بليلة",
+        "en": "Bandar Balilah"
+      },
+      "letters": {
+        "ar": "ب",
+        "en": "B"
+      }
+    },
+    {
+      "id": 248,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/nasser_alosfor",
+      "names": {
+        "ar": "ناصر العصفور",
+        "en": "Nasser Alosfor"
+      },
+      "letters": {
+        "ar": "ن",
+        "en": "N"
+      }
+    },
+    {
+      "id": 261,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/ayyoub2",
+      "names": {
+        "ar": "محمد أيوب • قراءة مميزة",
+        "en": "Muhammad Ayoub • Distinctive reading"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 265,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/ahmad_deban",
+      "names": {
+        "ar": "أحمد ديبان",
+        "en": "Ahmad Deban"
+      },
+      "letters": {
+        "ar": "أ",
+        "en": "A"
+      }
+    },
+    {
+      "id": 274,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/sneineh",
+      "names": {
+        "ar": "أذاعة محمد أبوسنينة",
+        "en": "Muhammad Abu Sneina"
+      },
+      "letters": {
+        "ar": "أ",
+        "en": "M"
+      }
+    },
+    {
+      "id": 275,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/qeniwa",
+      "names": {
+        "ar": "محمد الأمين قنيوة",
+        "en": "Mohammed Al-Amin Qeniwa"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "M"
+      }
+    },
+    {
+      "id": 287,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/a_alshahhat",
+      "names": {
+        "ar": "عبدالرحمن الشحات",
+        "en": "Abdulrahman Alshahhat"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 307,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/a_sheim",
+      "names": {
+        "ar": "عبدالعزيز سحيم",
+        "en": "Abdulaziz Sheim"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 10902,
+      "moshafId": 1007,
+      "url": "https://backup.qurango.net/radio/sakeenah",
+      "names": {
+        "ar": "آيات السكينة",
+        "en": "Verses of serenity"
+      },
+      "letters": {
+        "ar": "آ",
+        "en": "V"
+      }
+    },
+    {
+      "id": 10903,
+      "moshafId": 1006,
+      "url": "https://backup.qurango.net/radio/sahabah",
+      "names": {
+        "ar": "صور من حياة الصحابة والتابعين رضوان الله عليهم",
+        "en": "Stories from the lives of the SAHABAH and TABE'EEN, may ALLAH be pleased with them"
+      },
+      "letters": {
+        "ar": "ص",
+        "en": "S"
+      }
+    },
+    {
+      "id": 10904,
+      "moshafId": 1004,
+      "url": "https://backup.qurango.net/radio/mukhtasartafsir",
+      "names": {
+        "ar": "المختصر في تفسير القرآن الكريم",
+        "en": "A summary of the interpretation of the Holy Quran"
+      },
+      "letters": {
+        "ar": "ا",
+        "en": "A"
+      }
+    },
+    {
+      "id": 10906,
+      "moshafId": 1007,
+      "url": "https://backup.qurango.net/radio/athkar_sabah",
+      "names": {
+        "ar": "أذكار الصباح",
+        "en": "Words of remembrance for morning"
+      },
+      "letters": {
+        "ar": "أ",
+        "en": "W"
+      }
+    },
+    {
+      "id": 10907,
+      "moshafId": 1007,
+      "url": "https://backup.qurango.net/radio/athkar_masa",
+      "names": {
+        "ar": "أذكار المساء",
+        "en": "Words of remembrance for evening"
+      },
+      "letters": {
+        "ar": "أ",
+        "en": "W"
+      }
+    },
+    {
+      "id": 21114,
+      "moshafId": 1006,
+      "url": "https://backup.qurango.net/radio/fi_zilal_alsiyra",
+      "names": {
+        "ar": "في ظلال السيرة النبوية • 400 حلقة عن سيرة نبينا محمد صلى الله عليه وسلم",
+        "en": "In the shadows of the Prophet’s PBUH biography"
+      },
+      "letters": {
+        "ar": "ف",
+        "en": "I"
+      }
+    },
+    {
+      "id": 21115,
+      "moshafId": 1006,
+      "url": "https://backup.qurango.net/radio/almukhtasar_fi_alsiyra",
+      "names": {
+        "ar": "المختصر في السيرة النبوية",
+        "en": "The Abridged Biography of the Prophet"
+      },
+      "letters": {
+        "ar": "ا",
+        "en": "T"
+      }
+    },
+    {
+      "id": 21116,
+      "moshafId": 1008,
+      "url": "https://backup.qurango.net/radio/alaikhtiarat_alfiqhayh_bin_baz",
+      "names": {
+        "ar": "كتاب الاختيارات الفقهية في مسائل العبادات والمعاملات",
+        "en": "The book of jurisprudential choices in matters of worship and transactions"
+      },
+      "letters": {
+        "ar": "ك",
+        "en": "T"
+      }
+    },
+    {
+      "id": 21117,
+      "moshafId": 1004,
+      "url": "https://backup.qurango.net/radio/tabri",
+      "names": {
+        "ar": "تفسير القران الكريم-الخلاصة من تفسير الطبري",
+        "en": "Interpretation of the Holy Qur’an • Conclusion from Tafsir al-Tabari"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "I"
+      }
+    },
+    {
+      "id": 109038,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/saleh_alhabdan",
+      "names": {
+        "ar": "صالح الهبدان",
+        "en": "Saleh Al-Habdan"
+      },
+      "letters": {
+        "ar": "ص",
+        "en": "S"
+      }
+    },
+    {
+      "id": 109039,
+      "moshafId": 1003,
+      "url": "https://backup.qurango.net/radio/translation_quran_urdu_basit",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة الأوردية • عبدالباسط عبدالصمد",
+        "en": "Quran translation into Urdu • Abdulbasit"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "Q"
+      }
+    },
+    {
+      "id": 109040,
+      "moshafId": 1003,
+      "url": "https://backup.qurango.net/radio/translation_quran_spanish_afs",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة الأسبانية",
+        "en": "Quran translation into Spanish"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "Q"
+      }
+    },
+    {
+      "id": 109041,
+      "moshafId": 1003,
+      "url": "https://backup.qurango.net/radio/translation_quran_albanian",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة الألبانية",
+        "en": "Quran translation into Albanian"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "Q"
+      }
+    },
+    {
+      "id": 109042,
+      "moshafId": 1003,
+      "url": "https://backup.qurango.net/radio/translation_quran_german",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة الألمانية",
+        "en": "Quran translation into German"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "Q"
+      }
+    },
+    {
+      "id": 109043,
+      "moshafId": 1003,
+      "url": "https://backup.qurango.net/radio/translation_quran_tamazight",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة الأمازيغية",
+        "en": "Quran translation into Amazigh"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "Q"
+      }
+    },
+    {
+      "id": 109044,
+      "moshafId": 1003,
+      "url": "https://backup.qurango.net/radio/translation_quran_urdu_sds_shur",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة الأوردية",
+        "en": "Quran in Urdu • Al-Sharim and Al-Sadis"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "Q"
+      }
+    },
+    {
+      "id": 109045,
+      "moshafId": 1003,
+      "url": "https://backup.qurango.net/radio/translation_quran_urdu_minsh",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة الأوردية",
+        "en": "Quran in Urdu • Qari Muhammad Manshawi"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "Q"
+      }
+    },
+    {
+      "id": 109046,
+      "moshafId": 1003,
+      "url": "https://backup.qurango.net/radio/translation_quran_english_basit",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة الإنجليزية",
+        "en": "Quran translation into English • AbdulBasit Abdul Samad"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "Q"
+      }
+    },
+    {
+      "id": 109047,
+      "moshafId": 1003,
+      "url": "https://backup.qurango.net/radio/translation_quran_english_bsfr",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة الإنجليزية",
+        "en": "Quran translation into English • Abdullah Basfar"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "Q"
+      }
+    },
+    {
+      "id": 109048,
+      "moshafId": 1003,
+      "url": "https://backup.qurango.net/radio/translation_quran_english_walk_basit",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة الإنجليزية • ترجمة والك",
+        "en": "Quran translation into English • translated by Walk"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "Q"
+      }
+    },
+    {
+      "id": 109049,
+      "moshafId": 1003,
+      "url": "https://backup.qurango.net/radio/translation_quran_portuguese",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة البرتغالية",
+        "en": "Quran translation into Portuguese"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "Q"
+      }
+    },
+    {
+      "id": 109050,
+      "moshafId": 1003,
+      "url": "https://backup.qurango.net/radio/translation_quran_bosnia",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة البوسنية",
+        "en": "Quran translation into Bosnian"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "Q"
+      }
+    },
+    {
+      "id": 109051,
+      "moshafId": 1003,
+      "url": "https://backup.qurango.net/radio/translation_quran_turkish",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة التركية",
+        "en": "Quran translation into Turkish"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "Q"
+      }
+    },
+    {
+      "id": 109052,
+      "moshafId": 1003,
+      "url": "https://backup.qurango.net/radio/translation_quran_Russia",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة الروسية",
+        "en": "Quran translation into Russian"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "Q"
+      }
+    },
+    {
+      "id": 109053,
+      "moshafId": 1003,
+      "url": "https://backup.qurango.net/radio/translation_quran_chinese",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة الصينية",
+        "en": "Quran translation into Chinese"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "Q"
+      }
+    },
+    {
+      "id": 109054,
+      "moshafId": 1003,
+      "url": "https://backup.qurango.net/radio/translation_quran_farsi",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة الفارسية",
+        "en": "Quran translation into Persian"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "Q"
+      }
+    },
+    {
+      "id": 109055,
+      "moshafId": 1003,
+      "url": "https://backup.qurango.net/radio/translation_quran_french",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة الفرنسية",
+        "en": "Quran translation into French"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "Q"
+      }
+    },
+    {
+      "id": 109056,
+      "moshafId": 1003,
+      "url": "https://backup.qurango.net/radio/translation_quran_kurdish",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة الكردية",
+        "en": "Quran translation into Kurdish"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "Q"
+      }
+    },
+    {
+      "id": 109057,
+      "moshafId": 1003,
+      "url": "https://backup.qurango.net/radio/translation_quran_Korean",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة الكورية",
+        "en": "Quran translation into Korean"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "Q"
+      }
+    },
+    {
+      "id": 109058,
+      "moshafId": 1003,
+      "url": "https://backup.qurango.net/radio/translation_quran_hungarian",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة المجرية",
+        "en": "Quran translation into Hungarian"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "Q"
+      }
+    },
+    {
+      "id": 109059,
+      "moshafId": 1003,
+      "url": "https://backup.qurango.net/radio/translation_quran_greek",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة اليونانية",
+        "en": "Quran translation into Greek"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "Q"
+      }
+    },
+    {
+      "id": 109060,
+      "moshafId": 1008,
+      "url": "https://backup.qurango.net/radio/Surah_Al-Mulk",
+      "names": {
+        "ar": "سورة الملك",
+        "en": "Al-Mulk Surah"
+      },
+      "letters": {
+        "ar": "س",
+        "en": "A"
+      }
+    },
+    {
+      "id": 109061,
+      "moshafId": 1008,
+      "url": "https://backup.qurango.net/radio/ramadan",
+      "names": {
+        "ar": "فضل شهر رمضان",
+        "en": "The virtue of the month of Ramadan"
+      },
+      "letters": {
+        "ar": "ف",
+        "en": "T"
+      }
+    },
+    {
+      "id": 109062,
+      "moshafId": 1003,
+      "url": "https://backup.qurango.net/radio/Translation_Quran_Hausa",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة الهوسا",
+        "en": "Translation of the meanings of the Quran in Hausa"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "T"
+      }
+    },
+    {
+      "id": 109066,
+      "moshafId": 1005,
+      "url": "https://backup.qurango.net/radio/saheh-muslim",
+      "names": {
+        "ar": "صحيح مسلم",
+        "en": "Sahih Muslim"
+      },
+      "letters": {
+        "ar": "ص",
+        "en": "S"
+      }
+    },
+    {
+      "id": 109067,
+      "moshafId": 1005,
+      "url": "https://backup.qurango.net/radio/saheh-bokharee",
+      "names": {
+        "ar": "صحيح البخاري",
+        "en": "Sahih al-Bukhari"
+      },
+      "letters": {
+        "ar": "ص",
+        "en": "S"
+      }
+    },
+    {
+      "id": 109069,
+      "moshafId": 1006,
+      "url": "https://backup.qurango.net/radio/alanbiya",
+      "names": {
+        "ar": "قصص الأنبياء",
+        "en": "Stories of the Prophets"
+      },
+      "letters": {
+        "ar": "ق",
+        "en": "S"
+      }
+    },
+    {
+      "id": 109073,
+      "moshafId": 1005,
+      "url": "https://backup.qurango.net/radio/riyad",
+      "names": {
+        "ar": "رياض الصالحين",
+        "en": "Riyadh as-Salihin"
+      },
+      "letters": {
+        "ar": "ر",
+        "en": "R"
+      }
+    },
+    {
+      "id": 109074,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/buajan",
+      "names": {
+        "ar": "عبدالله البعيجان",
+        "en": "Abdullah Albuajan"
+      },
+      "letters": {
+        "ar": "ع",
+        "en": "A"
+      }
+    },
+    {
+      "id": 109075,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/a_binhameed",
+      "names": {
+        "ar": "أحمد طالب بن حميد",
+        "en": "Ahmad Talib bin Humaid"
+      },
+      "letters": {
+        "ar": "أ",
+        "en": "A"
+      }
+    },
+    {
+      "id": 109076,
+      "moshafId": 1004,
+      "url": "https://backup.qurango.net/radio/gareeb-quran",
+      "names": {
+        "ar": "تفسير غريب القرآن",
+        "en": "Tafsir Ghareeb al-Quran"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "T"
+      }
+    },
+    {
+      "id": 109077,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/bader",
+      "names": {
+        "ar": "بدر التركي",
+        "en": "Bader Alturki"
+      },
+      "letters": {
+        "ar": "ب",
+        "en": "B"
+      }
+    },
+    {
+      "id": 109078,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/hazza",
+      "names": {
+        "ar": "هزاع البلوشي",
+        "en": "Hazza Al-Balushi"
+      },
+      "letters": {
+        "ar": "ه",
+        "en": "H"
+      }
+    },
+    {
+      "id": 109082,
+      "moshafId": 1008,
+      "url": "https://stream.radiojar.com/0tpy1h0kxtzuv",
+      "names": {
+        "ar": "القرآن الكريم • السعودية",
+        "en": "Holy Quran from Saudia Arabia"
+      },
+      "letters": {
+        "ar": "ا",
+        "en": "H"
+      }
+    },
+    {
+      "id": 109083,
+      "moshafId": 1005,
+      "url": "https://backup.qurango.net/radio/shmaeel",
+      "names": {
+        "ar": "الشمائل المحمدية",
+        "en": "Al-Shama'il al-Muhammadiyah"
+      },
+      "letters": {
+        "ar": "ا",
+        "en": "A"
+      }
+    },
+    {
+      "id": 900001,
+      "moshafId": 1001,
+      "url": "https://n03.radiojar.com/8s5u5tpdtwzuv",
+      "names": {
+        "ar": "إذاعة القرآن الكريم من القاهرة",
+        "en": "Al Quran Al Kareem Cairo Radio"
+      },
+      "letters": {
+        "ar": "إ",
+        "en": "A"
+      }
+    },
+    {
+      "id": 900002,
+      "moshafId": 1001,
+      "url": "https://n03.radiojar.com/v33ay8543d0uv",
+      "names": {
+        "ar": "إذاعة القرآن الكريم من القاهرة [متأخر ساعة]",
+        "en": "Al Quran Al Kareem Cairo Radio [1 hour late]"
+      },
+      "letters": {
+        "ar": "إ",
+        "en": "A"
+      }
+    },
+    {
+      "id": 900003,
+      "moshafId": 1001,
+      "url": "https://stream.radiojar.com/4wqre23fytzuv",
+      "names": {
+        "ar": "إذاعة القرآن الكريم من السعودية",
+        "en": "Al Quran Al Kareem KSA Radio"
+      },
+      "letters": {
+        "ar": "إ",
+        "en": "A"
+      }
+    },
+    {
+      "id": 900004,
+      "moshafId": 1001,
+      "url": "https://l3.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio",
+      "names": {
+        "ar": "إذاعة القرآن الكريم من الشارقة",
+        "en": "Al Quran Al Kareem Sharjah Radio"
+      },
+      "letters": {
+        "ar": "إ",
+        "en": "A"
+      }
     }
   ]
 }
