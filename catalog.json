@@ -4,7 +4,7 @@
     "reciters": 239,
     "moshafs": 29,
     "surahs": 114,
-    "radios": 180,
+    "radios": 186,
     "serversChecked": 284,
     "serversRewritten": 0,
     "serversUnverified": 0
@@ -35309,7 +35309,7 @@
       "moshafId": 11,
       "url": "https://backup.qurango.net/radio/ayyoub2",
       "names": {
-        "ar": "محمد أيوب • قراءة مميزة",
+        "ar": "محمد أيوب • قراءة متميزة",
         "en": "Muhammad Ayoub • Distinctive reading"
       },
       "letters": {
@@ -35400,7 +35400,7 @@
       "moshafId": 1006,
       "url": "https://backup.qurango.net/radio/sahabah",
       "names": {
-        "ar": "صور من حياة الصحابة والتابعين رضوان الله عليهم",
+        "ar": "صور من حياة الصحابة رضوان الله عليهم",
         "en": "Stories from the lives of the SAHABAH and TABE'EEN, may ALLAH be pleased with them"
       },
       "letters": {
@@ -35478,7 +35478,7 @@
       "moshafId": 1002,
       "url": "https://backup.qurango.net/radio/alaikhtiarat_alfiqhayh_bin_baz",
       "names": {
-        "ar": "كتاب الاختيارات الفقهية في مسائل العبادات والمعاملات",
+        "ar": "كتاب الاختيارات الفقهية في مسائل العبادات والمعاملات من فتاوى الشيخ ابن باز",
         "en": "The book of jurisprudential choices in matters of worship and transactions"
       },
       "letters": {
@@ -35517,7 +35517,7 @@
       "moshafId": 1003,
       "url": "https://backup.qurango.net/radio/translation_quran_urdu_basit",
       "names": {
-        "ar": "ترجمة معاني القرآن باللغة الأوردية • عبدالباسط عبدالصمد",
+        "ar": "ترجمة معاني القرآن باللغة الأوردية • القارئ عبدالباسط عبدالصمد",
         "en": "Quran translation into Urdu • Abdulbasit"
       },
       "letters": {
@@ -35530,7 +35530,7 @@
       "moshafId": 1003,
       "url": "https://backup.qurango.net/radio/translation_quran_spanish_afs",
       "names": {
-        "ar": "ترجمة معاني القرآن باللغة الأسبانية",
+        "ar": "ترجمة معاني القرآن باللغة الأسبانية • القارئ مشاري العفاسي",
         "en": "Quran translation into Spanish"
       },
       "letters": {
@@ -35582,7 +35582,7 @@
       "moshafId": 1003,
       "url": "https://backup.qurango.net/radio/translation_quran_urdu_sds_shur",
       "names": {
-        "ar": "ترجمة معاني القرآن باللغة الأوردية",
+        "ar": "ترجمة معاني القرآن باللغة الأوردية • القارئ سعود الشريم و عبدالرحمن السديس",
         "en": "Quran in Urdu • Al-Sharim and Al-Sadis"
       },
       "letters": {
@@ -35595,7 +35595,7 @@
       "moshafId": 1003,
       "url": "https://backup.qurango.net/radio/translation_quran_urdu_minsh",
       "names": {
-        "ar": "ترجمة معاني القرآن باللغة الأوردية",
+        "ar": "ترجمة معاني القرآن باللغة الأوردية • القارئ محمد المنشاوي",
         "en": "Quran in Urdu • Qari Muhammad Manshawi"
       },
       "letters": {
@@ -35608,7 +35608,7 @@
       "moshafId": 1003,
       "url": "https://backup.qurango.net/radio/translation_quran_english_basit",
       "names": {
-        "ar": "ترجمة معاني القرآن باللغة الإنجليزية",
+        "ar": "ترجمة معاني القرآن باللغة الإنجليزية • القارئ عبدالباسط عبدالصمد",
         "en": "Quran translation into English • AbdulBasit Abdul Samad"
       },
       "letters": {
@@ -35621,7 +35621,7 @@
       "moshafId": 1003,
       "url": "https://backup.qurango.net/radio/translation_quran_english_bsfr",
       "names": {
-        "ar": "ترجمة معاني القرآن باللغة الإنجليزية",
+        "ar": "ترجمة معاني القرآن باللغة الإنجليزية • القارئ عبدالله بصفر",
         "en": "Quran translation into English • Abdullah Basfar"
       },
       "letters": {
@@ -35825,6 +35825,45 @@
       }
     },
     {
+      "id": 109063,
+      "moshafId": 1002,
+      "url": "https://backup.qurango.net/radio/farsi-trans",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة الفارسية • أهل القرآن",
+        "en": "ترجمة معاني القرآن باللغة الفارسية • أهل القرآن"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "ت"
+      }
+    },
+    {
+      "id": 109064,
+      "moshafId": 1002,
+      "url": "https://backup.qurango.net/radio/farsi-tadabor",
+      "names": {
+        "ar": "تدبر معاني القرآن باللغة الفارسية • أهل القرآن",
+        "en": "تدبر معاني القرآن باللغة الفارسية • أهل القرآن"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "ت"
+      }
+    },
+    {
+      "id": 109065,
+      "moshafId": 1002,
+      "url": "https://backup.qurango.net/radio/mokhtasr-french",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة الفرنسية",
+        "en": "ترجمة معاني القرآن باللغة الفرنسية"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "ت"
+      }
+    },
+    {
       "id": 109066,
       "moshafId": 1005,
       "url": "https://backup.qurango.net/radio/saheh-muslim",
@@ -35942,6 +35981,32 @@
       }
     },
     {
+      "id": 109079,
+      "moshafId": 1002,
+      "url": "http://backup.qurango.net/radio/mokhtasr-english",
+      "names": {
+        "ar": "ترجمة معاني القرآن باللغة الإجليزية ( المختصر )",
+        "en": "ترجمة معاني القرآن باللغة الإجليزية ( المختصر )"
+      },
+      "letters": {
+        "ar": "ت",
+        "en": "ت"
+      }
+    },
+    {
+      "id": 109080,
+      "moshafId": 1002,
+      "url": "https://backup.qurango.net/radio/M_Alfaqih",
+      "names": {
+        "ar": "محمد الفقيه",
+        "en": "محمد الفقيه"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "م"
+      }
+    },
+    {
       "id": 109082,
       "moshafId": 1002,
       "url": "https://stream.radiojar.com/0tpy1h0kxtzuv",
@@ -35965,6 +36030,19 @@
       "letters": {
         "ar": "ا",
         "en": "A"
+      }
+    },
+    {
+      "id": 109084,
+      "moshafId": 1002,
+      "url": "https://backup.qurango.net/radio/nourin_siddig",
+      "names": {
+        "ar": "نورين محمد صديق",
+        "en": "Noreen Mohammed Siddiq"
+      },
+      "letters": {
+        "ar": "ن",
+        "en": "N"
       }
     },
     {
