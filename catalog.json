@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "stats": {
     "reciters": 239,
-    "moshafs": 29,
+    "moshafs": 28,
     "surahs": 114,
-    "radios": 186,
+    "radios": 158,
     "serversChecked": 284,
     "serversRewritten": 0,
     "serversUnverified": 0
@@ -238,15 +238,6 @@
       "names": {
         "ar": "بث مباشر",
         "en": "Live Stream"
-      }
-    },
-    {
-      "id": 1003,
-      "recitationStyleId": null,
-      "sortOrder": 2000,
-      "names": {
-        "ar": "الترجمات",
-        "en": "Translations"
       }
     },
     {
@@ -35513,279 +35504,6 @@
       }
     },
     {
-      "id": 109039,
-      "moshafId": 1003,
-      "url": "https://backup.qurango.net/radio/translation_quran_urdu_basit",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة الأوردية • القارئ عبدالباسط عبدالصمد",
-        "en": "Quran translation into Urdu • Abdulbasit"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "Q"
-      }
-    },
-    {
-      "id": 109040,
-      "moshafId": 1003,
-      "url": "https://backup.qurango.net/radio/translation_quran_spanish_afs",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة الأسبانية • القارئ مشاري العفاسي",
-        "en": "Quran translation into Spanish"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "Q"
-      }
-    },
-    {
-      "id": 109041,
-      "moshafId": 1003,
-      "url": "https://backup.qurango.net/radio/translation_quran_albanian",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة الألبانية",
-        "en": "Quran translation into Albanian"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "Q"
-      }
-    },
-    {
-      "id": 109042,
-      "moshafId": 1003,
-      "url": "https://backup.qurango.net/radio/translation_quran_german",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة الألمانية",
-        "en": "Quran translation into German"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "Q"
-      }
-    },
-    {
-      "id": 109043,
-      "moshafId": 1003,
-      "url": "https://backup.qurango.net/radio/translation_quran_tamazight",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة الأمازيغية",
-        "en": "Quran translation into Amazigh"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "Q"
-      }
-    },
-    {
-      "id": 109044,
-      "moshafId": 1003,
-      "url": "https://backup.qurango.net/radio/translation_quran_urdu_sds_shur",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة الأوردية • القارئ سعود الشريم و عبدالرحمن السديس",
-        "en": "Quran in Urdu • Al-Sharim and Al-Sadis"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "Q"
-      }
-    },
-    {
-      "id": 109045,
-      "moshafId": 1003,
-      "url": "https://backup.qurango.net/radio/translation_quran_urdu_minsh",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة الأوردية • القارئ محمد المنشاوي",
-        "en": "Quran in Urdu • Qari Muhammad Manshawi"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "Q"
-      }
-    },
-    {
-      "id": 109046,
-      "moshafId": 1003,
-      "url": "https://backup.qurango.net/radio/translation_quran_english_basit",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة الإنجليزية • القارئ عبدالباسط عبدالصمد",
-        "en": "Quran translation into English • AbdulBasit Abdul Samad"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "Q"
-      }
-    },
-    {
-      "id": 109047,
-      "moshafId": 1003,
-      "url": "https://backup.qurango.net/radio/translation_quran_english_bsfr",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة الإنجليزية • القارئ عبدالله بصفر",
-        "en": "Quran translation into English • Abdullah Basfar"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "Q"
-      }
-    },
-    {
-      "id": 109048,
-      "moshafId": 1003,
-      "url": "https://backup.qurango.net/radio/translation_quran_english_walk_basit",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة الإنجليزية • ترجمة والك",
-        "en": "Quran translation into English • translated by Walk"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "Q"
-      }
-    },
-    {
-      "id": 109049,
-      "moshafId": 1003,
-      "url": "https://backup.qurango.net/radio/translation_quran_portuguese",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة البرتغالية",
-        "en": "Quran translation into Portuguese"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "Q"
-      }
-    },
-    {
-      "id": 109050,
-      "moshafId": 1003,
-      "url": "https://backup.qurango.net/radio/translation_quran_bosnia",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة البوسنية",
-        "en": "Quran translation into Bosnian"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "Q"
-      }
-    },
-    {
-      "id": 109051,
-      "moshafId": 1003,
-      "url": "https://backup.qurango.net/radio/translation_quran_turkish",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة التركية",
-        "en": "Quran translation into Turkish"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "Q"
-      }
-    },
-    {
-      "id": 109052,
-      "moshafId": 1003,
-      "url": "https://backup.qurango.net/radio/translation_quran_Russia",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة الروسية",
-        "en": "Quran translation into Russian"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "Q"
-      }
-    },
-    {
-      "id": 109053,
-      "moshafId": 1003,
-      "url": "https://backup.qurango.net/radio/translation_quran_chinese",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة الصينية",
-        "en": "Quran translation into Chinese"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "Q"
-      }
-    },
-    {
-      "id": 109054,
-      "moshafId": 1003,
-      "url": "https://backup.qurango.net/radio/translation_quran_farsi",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة الفارسية",
-        "en": "Quran translation into Persian"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "Q"
-      }
-    },
-    {
-      "id": 109055,
-      "moshafId": 1003,
-      "url": "https://backup.qurango.net/radio/translation_quran_french",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة الفرنسية",
-        "en": "Quran translation into French"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "Q"
-      }
-    },
-    {
-      "id": 109056,
-      "moshafId": 1003,
-      "url": "https://backup.qurango.net/radio/translation_quran_kurdish",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة الكردية",
-        "en": "Quran translation into Kurdish"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "Q"
-      }
-    },
-    {
-      "id": 109057,
-      "moshafId": 1003,
-      "url": "https://backup.qurango.net/radio/translation_quran_Korean",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة الكورية",
-        "en": "Quran translation into Korean"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "Q"
-      }
-    },
-    {
-      "id": 109058,
-      "moshafId": 1003,
-      "url": "https://backup.qurango.net/radio/translation_quran_hungarian",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة المجرية",
-        "en": "Quran translation into Hungarian"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "Q"
-      }
-    },
-    {
-      "id": 109059,
-      "moshafId": 1003,
-      "url": "https://backup.qurango.net/radio/translation_quran_greek",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة اليونانية",
-        "en": "Quran translation into Greek"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "Q"
-      }
-    },
-    {
       "id": 109060,
       "moshafId": 1002,
       "url": "https://backup.qurango.net/radio/Surah_Al-Mulk",
@@ -35809,58 +35527,6 @@
       "letters": {
         "ar": "ف",
         "en": "T"
-      }
-    },
-    {
-      "id": 109062,
-      "moshafId": 1003,
-      "url": "https://backup.qurango.net/radio/Translation_Quran_Hausa",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة الهوسا",
-        "en": "Translation of the meanings of the Quran in Hausa"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "T"
-      }
-    },
-    {
-      "id": 109063,
-      "moshafId": 1002,
-      "url": "https://backup.qurango.net/radio/farsi-trans",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة الفارسية • أهل القرآن",
-        "en": "ترجمة معاني القرآن باللغة الفارسية • أهل القرآن"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "ت"
-      }
-    },
-    {
-      "id": 109064,
-      "moshafId": 1002,
-      "url": "https://backup.qurango.net/radio/farsi-tadabor",
-      "names": {
-        "ar": "تدبر معاني القرآن باللغة الفارسية • أهل القرآن",
-        "en": "تدبر معاني القرآن باللغة الفارسية • أهل القرآن"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "ت"
-      }
-    },
-    {
-      "id": 109065,
-      "moshafId": 1002,
-      "url": "https://backup.qurango.net/radio/mokhtasr-french",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة الفرنسية",
-        "en": "ترجمة معاني القرآن باللغة الفرنسية"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "ت"
       }
     },
     {
@@ -35981,21 +35647,8 @@
       }
     },
     {
-      "id": 109079,
-      "moshafId": 1002,
-      "url": "http://backup.qurango.net/radio/mokhtasr-english",
-      "names": {
-        "ar": "ترجمة معاني القرآن باللغة الإجليزية ( المختصر )",
-        "en": "ترجمة معاني القرآن باللغة الإجليزية ( المختصر )"
-      },
-      "letters": {
-        "ar": "ت",
-        "en": "ت"
-      }
-    },
-    {
       "id": 109080,
-      "moshafId": 1002,
+      "moshafId": 11,
       "url": "https://backup.qurango.net/radio/M_Alfaqih",
       "names": {
         "ar": "محمد الفقيه",
@@ -36004,19 +35657,6 @@
       "letters": {
         "ar": "م",
         "en": "م"
-      }
-    },
-    {
-      "id": 109082,
-      "moshafId": 1002,
-      "url": "https://stream.radiojar.com/0tpy1h0kxtzuv",
-      "names": {
-        "ar": "القرآن الكريم • السعودية",
-        "en": "Holy Quran from Saudia Arabia"
-      },
-      "letters": {
-        "ar": "ا",
-        "en": "H"
       }
     },
     {
@@ -36033,38 +35673,12 @@
       }
     },
     {
-      "id": 109084,
-      "moshafId": 1002,
-      "url": "https://backup.qurango.net/radio/nourin_siddig",
-      "names": {
-        "ar": "نورين محمد صديق",
-        "en": "Noreen Mohammed Siddiq"
-      },
-      "letters": {
-        "ar": "ن",
-        "en": "N"
-      }
-    },
-    {
       "id": 900001,
       "moshafId": 1001,
       "url": "https://n03.radiojar.com/8s5u5tpdtwzuv",
       "names": {
         "ar": "إذاعة القرآن الكريم من القاهرة",
         "en": "Al Quran Al Kareem Cairo Radio"
-      },
-      "letters": {
-        "ar": "إ",
-        "en": "A"
-      }
-    },
-    {
-      "id": 900002,
-      "moshafId": 1001,
-      "url": "https://n03.radiojar.com/v33ay8543d0uv",
-      "names": {
-        "ar": "إذاعة القرآن الكريم من القاهرة [متأخر ساعة]",
-        "en": "Al Quran Al Kareem Cairo Radio [1 hour late]"
       },
       "letters": {
         "ar": "إ",
@@ -36091,6 +35705,19 @@
       "names": {
         "ar": "إذاعة القرآن الكريم من الشارقة",
         "en": "Al Quran Al Kareem Sharjah Radio"
+      },
+      "letters": {
+        "ar": "إ",
+        "en": "A"
+      }
+    },
+    {
+      "id": 900005,
+      "moshafId": 1001,
+      "url": "https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eCxOS4PStqG9DuEjAr2ZjZQtvS3d4y9r0cvRhvS17SGN/a_7a4vuubc6mo8.m3u8",
+      "names": {
+        "ar": "إذاعة القرآن الكريم من القاهرة 2",
+        "en": "Al Quran Al Kareem Cairo Radio 2"
       },
       "letters": {
         "ar": "إ",
