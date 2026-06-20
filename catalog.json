@@ -4,7 +4,7 @@
     "reciters": 239,
     "moshafs": 28,
     "surahs": 114,
-    "radios": 158,
+    "radios": 157,
     "serversChecked": 284,
     "serversRewritten": 0,
     "serversUnverified": 0
@@ -31827,11 +31827,11 @@
       "id": 21136,
       "names": {
         "ar": "عبدالله القرافي",
-        "en": "عبدالله القرافي"
+        "en": "Abdullah Alqarafi"
       },
       "letters": {
         "ar": "ع",
-        "en": "ع"
+        "en": "A"
       },
       "moshafs": [
         {
@@ -32771,11 +32771,11 @@
       "id": 21187,
       "names": {
         "ar": "خالد الزيادي",
-        "en": "خالد الزيادي"
+        "en": "Khalid Alziyadi"
       },
       "letters": {
         "ar": "خ",
-        "en": "خ"
+        "en": "K"
       },
       "moshafs": [
         {
@@ -35300,7 +35300,7 @@
       "moshafId": 11,
       "url": "https://backup.qurango.net/radio/ayyoub2",
       "names": {
-        "ar": "محمد أيوب • قراءة متميزة",
+        "ar": "محمد أيوب • قراءة مميزة",
         "en": "Muhammad Ayoub • Distinctive reading"
       },
       "letters": {
@@ -35391,7 +35391,7 @@
       "moshafId": 1006,
       "url": "https://backup.qurango.net/radio/sahabah",
       "names": {
-        "ar": "صور من حياة الصحابة رضوان الله عليهم",
+        "ar": "صور من حياة الصحابة والتابعين رضوان الله عليهم",
         "en": "Stories from the lives of the SAHABAH and TABE'EEN, may ALLAH be pleased with them"
       },
       "letters": {
@@ -35469,7 +35469,7 @@
       "moshafId": 1002,
       "url": "https://backup.qurango.net/radio/alaikhtiarat_alfiqhayh_bin_baz",
       "names": {
-        "ar": "كتاب الاختيارات الفقهية في مسائل العبادات والمعاملات من فتاوى الشيخ ابن باز",
+        "ar": "كتاب الاختيارات الفقهية في مسائل العبادات والمعاملات",
         "en": "The book of jurisprudential choices in matters of worship and transactions"
       },
       "letters": {
@@ -35644,19 +35644,6 @@
       "letters": {
         "ar": "ه",
         "en": "H"
-      }
-    },
-    {
-      "id": 109080,
-      "moshafId": 11,
-      "url": "https://backup.qurango.net/radio/M_Alfaqih",
-      "names": {
-        "ar": "محمد الفقيه",
-        "en": "محمد الفقيه"
-      },
-      "letters": {
-        "ar": "م",
-        "en": "م"
       }
     },
     {
