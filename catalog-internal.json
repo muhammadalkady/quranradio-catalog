@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "stats": {
-    "reciters": 240,
+    "reciters": 239,
     "moshafs": 28,
     "surahs": 114,
-    "radios": 157,
-    "serversChecked": 285,
+    "radios": 158,
+    "serversChecked": 284,
     "serversRewritten": 0,
     "serversUnverified": 0
   },
@@ -18443,15 +18443,9 @@
           "id": 135,
           "moshafId": 11,
           "server": "https://server16.mp3quran.net/a_swaiyd/Rewayat-Hafs-A-n-Assem",
-          "surahTotal": 113,
+          "surahTotal": 107,
           "surahList": [
-            1,
             2,
-            3,
-            4,
-            5,
-            6,
-            7,
             8,
             9,
             11,
@@ -24383,7 +24377,7 @@
           "id": 231,
           "moshafId": 11,
           "server": "https://server11.mp3quran.net/hazza",
-          "surahTotal": 91,
+          "surahTotal": 90,
           "surahList": [
             1,
             6,
@@ -24415,7 +24409,6 @@
             43,
             44,
             45,
-            46,
             47,
             49,
             50,
@@ -26060,7 +26053,7 @@
           "id": 253,
           "moshafId": 11,
           "server": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem",
-          "surahTotal": 109,
+          "surahTotal": 107,
           "surahList": [
             1,
             2,
@@ -26068,9 +26061,7 @@
             4,
             5,
             6,
-            7,
             8,
-            9,
             10,
             11,
             12,
@@ -26852,7 +26843,7 @@
           "id": 260,
           "moshafId": 11,
           "server": "https://server16.mp3quran.net/darweez/Rewayat-Hafs-A-n-Assem",
-          "surahTotal": 114,
+          "surahTotal": 110,
           "surahList": [
             1,
             2,
@@ -26937,14 +26928,10 @@
             81,
             82,
             83,
-            84,
             85,
-            86,
-            87,
             88,
             89,
             90,
-            91,
             92,
             93,
             94,
@@ -31840,11 +31827,11 @@
       "id": 21136,
       "names": {
         "ar": "عبدالله القرافي",
-        "en": "Abdullah Alqarafi"
+        "en": "عبدالله القرافي"
       },
       "letters": {
         "ar": "ع",
-        "en": "A"
+        "en": "ع"
       },
       "moshafs": [
         {
@@ -32256,7 +32243,7 @@
           "id": 10904,
           "moshafId": 14,
           "server": "https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem",
-          "surahTotal": 114,
+          "surahTotal": 113,
           "surahList": [
             1,
             2,
@@ -32280,7 +32267,6 @@
             20,
             21,
             22,
-            23,
             24,
             25,
             26,
@@ -32785,11 +32771,11 @@
       "id": 21187,
       "names": {
         "ar": "خالد الزيادي",
-        "en": "Khalid Alziyadi"
+        "en": "خالد الزيادي"
       },
       "letters": {
         "ar": "خ",
-        "en": "K"
+        "en": "خ"
       },
       "moshafs": [
         {
@@ -33562,141 +33548,6 @@
           "id": 10920,
           "moshafId": 21,
           "server": "https://server16.mp3quran.net/A-Benkirane/Rewayat-Warsh-A-n-Nafi",
-          "surahTotal": 114,
-          "surahList": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75,
-            76,
-            77,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            86,
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94,
-            95,
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114
-          ]
-        }
-      ]
-    },
-    {
-      "id": 21201,
-      "names": {
-        "ar": "عاصم اللحیدان",
-        "en": "Asim Al-Luhaidan"
-      },
-      "letters": {
-        "ar": "ع",
-        "en": "A"
-      },
-      "moshafs": [
-        {
-          "id": 10922,
-          "moshafId": 11,
-          "server": "https://server7.mp3quran.net/asim/Rewayat-Hafs-A-n-Assem",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -35449,7 +35300,7 @@
       "moshafId": 11,
       "url": "https://backup.qurango.net/radio/ayyoub2",
       "names": {
-        "ar": "محمد أيوب • قراءة مميزة",
+        "ar": "محمد أيوب • قراءة متميزة",
         "en": "Muhammad Ayoub • Distinctive reading"
       },
       "letters": {
@@ -35540,7 +35391,7 @@
       "moshafId": 1006,
       "url": "https://backup.qurango.net/radio/sahabah",
       "names": {
-        "ar": "صور من حياة الصحابة والتابعين رضوان الله عليهم",
+        "ar": "صور من حياة الصحابة رضوان الله عليهم",
         "en": "Stories from the lives of the SAHABAH and TABE'EEN, may ALLAH be pleased with them"
       },
       "letters": {
@@ -35618,7 +35469,7 @@
       "moshafId": 1002,
       "url": "https://backup.qurango.net/radio/alaikhtiarat_alfiqhayh_bin_baz",
       "names": {
-        "ar": "كتاب الاختيارات الفقهية في مسائل العبادات والمعاملات",
+        "ar": "كتاب الاختيارات الفقهية في مسائل العبادات والمعاملات من فتاوى الشيخ ابن باز",
         "en": "The book of jurisprudential choices in matters of worship and transactions"
       },
       "letters": {
@@ -35793,6 +35644,19 @@
       "letters": {
         "ar": "ه",
         "en": "H"
+      }
+    },
+    {
+      "id": 109080,
+      "moshafId": 11,
+      "url": "https://backup.qurango.net/radio/M_Alfaqih",
+      "names": {
+        "ar": "محمد الفقيه",
+        "en": "محمد الفقيه"
+      },
+      "letters": {
+        "ar": "م",
+        "en": "م"
       }
     },
     {
