@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "stats": {
     "reciters": 241,
-    "moshafs": 28,
+    "moshafs": 29,
     "surahs": 114,
-    "radios": 158,
-    "serversChecked": 286,
+    "radios": 157,
+    "serversChecked": 287,
     "serversRewritten": 0,
     "serversUnverified": 0
   },
@@ -217,6 +217,15 @@
       "id": 14,
       "recitationStyleId": null,
       "sortOrder": 210,
+      "names": {
+        "ar": "حفص عن عاصم",
+        "en": "Rewayat Hafs A'n Assem"
+      }
+    },
+    {
+      "id": 120,
+      "recitationStyleId": null,
+      "sortOrder": 220,
       "names": {
         "ar": "حفص عن عاصم",
         "en": "Rewayat Hafs A'n Assem"
@@ -15604,6 +15613,16 @@
             112,
             113,
             114
+          ]
+        },
+        {
+          "id": 10924,
+          "moshafId": 120,
+          "server": "https://server10.mp3quran.net/minsh1387",
+          "surahTotal": 2,
+          "surahList": [
+            1,
+            2
           ]
         }
       ]
@@ -35584,7 +35603,7 @@
       "moshafId": 11,
       "url": "https://backup.qurango.net/radio/ayyoub2",
       "names": {
-        "ar": "محمد أيوب • قراءة متميزة",
+        "ar": "محمد أيوب • قراءة مميزة",
         "en": "Muhammad Ayoub • Distinctive reading"
       },
       "letters": {
@@ -35675,7 +35694,7 @@
       "moshafId": 1006,
       "url": "https://backup.qurango.net/radio/sahabah",
       "names": {
-        "ar": "صور من حياة الصحابة رضوان الله عليهم",
+        "ar": "صور من حياة الصحابة والتابعين رضوان الله عليهم",
         "en": "Stories from the lives of the SAHABAH and TABE'EEN, may ALLAH be pleased with them"
       },
       "letters": {
@@ -35753,7 +35772,7 @@
       "moshafId": 1002,
       "url": "https://backup.qurango.net/radio/alaikhtiarat_alfiqhayh_bin_baz",
       "names": {
-        "ar": "كتاب الاختيارات الفقهية في مسائل العبادات والمعاملات من فتاوى الشيخ ابن باز",
+        "ar": "كتاب الاختيارات الفقهية في مسائل العبادات والمعاملات",
         "en": "The book of jurisprudential choices in matters of worship and transactions"
       },
       "letters": {
@@ -35928,19 +35947,6 @@
       "letters": {
         "ar": "ه",
         "en": "H"
-      }
-    },
-    {
-      "id": 109080,
-      "moshafId": 11,
-      "url": "https://backup.qurango.net/radio/M_Alfaqih",
-      "names": {
-        "ar": "محمد الفقيه",
-        "en": "محمد الفقيه"
-      },
-      "letters": {
-        "ar": "م",
-        "en": "م"
       }
     },
     {
