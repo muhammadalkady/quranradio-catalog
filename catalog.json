@@ -227,8 +227,8 @@
       "recitationStyleId": null,
       "sortOrder": 220,
       "names": {
-        "ar": "حفص عن عاصم",
-        "en": "Rewayat Hafs A'n Assem"
+        "ar": "حفص عن عاصم (نادر)",
+        "en": "Hafs 'an Assem (Rare)"
       }
     },
     {
@@ -33813,11 +33813,11 @@
       "id": 21200,
       "names": {
         "en": "Mohammad Dibirov",
-        "ar": "Mohammad Dibirov"
+        "ar": "محمد ديبيروف"
       },
       "letters": {
         "en": "M",
-        "ar": "M"
+        "ar": "م"
       },
       "moshafs": [
         {
