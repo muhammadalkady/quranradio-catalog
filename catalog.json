@@ -6,7 +6,7 @@
     "surahs": 114,
     "radios": 157,
     "serversChecked": 288,
-    "serversRewritten": 0,
+    "serversRewritten": 288,
     "serversUnverified": 0
   },
   "recitationStyles": [
@@ -1452,7 +1452,7 @@
         {
           "id": 1,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/akdr",
+          "server": "https://cdn.mp3quran.net/audio/ibrahim-akhdar/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -1587,7 +1587,7 @@
         {
           "id": 2,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/jbreen",
+          "server": "https://cdn.mp3quran.net/audio/ibrahim-jibreen/r1",
           "surahTotal": 107,
           "surahList": [
             1,
@@ -1715,7 +1715,7 @@
         {
           "id": 3,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/3siri",
+          "server": "https://cdn.mp3quran.net/audio/ibrahim-asiri/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -1850,7 +1850,7 @@
         {
           "id": 4,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/shatri",
+          "server": "https://cdn.mp3quran.net/audio/abubakr-shatri/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -1985,7 +1985,7 @@
         {
           "id": 5,
           "moshafId": 11,
-          "server": "https://server10.mp3quran.net/ajm",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-ajmi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -2120,7 +2120,7 @@
         {
           "id": 6,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/hawashi",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-hawashi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -2255,7 +2255,7 @@
         {
           "id": 7,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/saud",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-saud/r1",
           "surahTotal": 30,
           "surahList": [
             85,
@@ -2306,7 +2306,7 @@
         {
           "id": 8,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/saber",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-saber/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -2441,7 +2441,7 @@
         {
           "id": 9,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/ahmad_nu",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-naina/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -2576,7 +2576,7 @@
         {
           "id": 10,
           "moshafId": 11,
-          "server": "https://server9.mp3quran.net/akrm",
+          "server": "https://cdn.mp3quran.net/audio/akram-alaqmi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -2711,7 +2711,7 @@
         {
           "id": 11,
           "moshafId": 213,
-          "server": "https://server8.mp3quran.net/3zazi",
+          "server": "https://cdn.mp3quran.net/audio/husayni-azazi/r1",
           "surahTotal": 57,
           "surahList": [
             58,
@@ -2789,7 +2789,7 @@
         {
           "id": 12,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/abkr",
+          "server": "https://cdn.mp3quran.net/audio/idrees-abkar/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -2924,7 +2924,7 @@
         {
           "id": 13,
           "moshafId": 11,
-          "server": "https://server9.mp3quran.net/alzain",
+          "server": "https://cdn.mp3quran.net/audio/zain-ahmad/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -3059,7 +3059,7 @@
         {
           "id": 14,
           "moshafId": 21,
-          "server": "https://server11.mp3quran.net/qari",
+          "server": "https://cdn.mp3quran.net/audio/yassen-jazairi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -3194,7 +3194,7 @@
         {
           "id": 15,
           "moshafId": 11,
-          "server": "https://server9.mp3quran.net/omran",
+          "server": "https://cdn.mp3quran.net/audio/ashri-omran/r1",
           "surahTotal": 113,
           "surahList": [
             1,
@@ -3328,7 +3328,7 @@
         {
           "id": 16,
           "moshafId": 21,
-          "server": "https://server11.mp3quran.net/koshi",
+          "server": "https://cdn.mp3quran.net/audio/laayoun-kouchi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -3463,7 +3463,7 @@
         {
           "id": 17,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/twfeeq",
+          "server": "https://cdn.mp3quran.net/audio/tawfeeq-sayegh/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -3598,7 +3598,7 @@
         {
           "id": 18,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/jamal",
+          "server": "https://cdn.mp3quran.net/audio/jamal-abdullah/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -3733,7 +3733,7 @@
         {
           "id": 19,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/hamad",
+          "server": "https://cdn.mp3quran.net/audio/hamad-daghriri/r1",
           "surahTotal": 88,
           "surahList": [
             1,
@@ -3842,7 +3842,7 @@
         {
           "id": 20,
           "moshafId": 11,
-          "server": "https://server10.mp3quran.net/jleel",
+          "server": "https://cdn.mp3quran.net/audio/khalid-jalil/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -3977,7 +3977,7 @@
         {
           "id": 21,
           "moshafId": 11,
-          "server": "https://server10.mp3quran.net/qht",
+          "server": "https://cdn.mp3quran.net/audio/khalid-qahtani/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -4112,7 +4112,7 @@
         {
           "id": 22,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/kafi",
+          "server": "https://cdn.mp3quran.net/audio/khalid-abdulkafi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -4247,7 +4247,7 @@
         {
           "id": 23,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/whabi",
+          "server": "https://cdn.mp3quran.net/audio/khalid-wahaibi/r1",
           "surahTotal": 25,
           "surahList": [
             1,
@@ -4293,7 +4293,7 @@
         {
           "id": 24,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/tnjy",
+          "server": "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -4428,7 +4428,7 @@
         {
           "id": 25,
           "moshafId": 11,
-          "server": "https://server9.mp3quran.net/hamza",
+          "server": "https://cdn.mp3quran.net/audio/dawood-hamza/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -4563,7 +4563,7 @@
         {
           "id": 26,
           "moshafId": 21,
-          "server": "https://server12.mp3quran.net/ifrad",
+          "server": "https://cdn.mp3quran.net/audio/rachid-ifrad/r1",
           "surahTotal": 50,
           "surahList": [
             1,
@@ -4634,7 +4634,7 @@
         {
           "id": 27,
           "moshafId": 21,
-          "server": "https://server6.mp3quran.net/bl3/Rewayat-Warsh-A-n-Nafi",
+          "server": "https://cdn.mp3quran.net/audio/rachid-belalia/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -4756,7 +4756,7 @@
         {
           "id": 261,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/bl3",
+          "server": "https://cdn.mp3quran.net/audio/rachid-belalia/r2",
           "surahTotal": 5,
           "surahList": [
             46,
@@ -4782,7 +4782,7 @@
         {
           "id": 28,
           "moshafId": 11,
-          "server": "https://server9.mp3quran.net/zakariya",
+          "server": "https://cdn.mp3quran.net/audio/zakaria-hamama/r1",
           "surahTotal": 7,
           "surahList": [
             32,
@@ -4810,7 +4810,7 @@
         {
           "id": 281,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/a_bukhari/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/abdullah-bukhari/r1",
           "surahTotal": 80,
           "surahList": [
             1,
@@ -4911,7 +4911,7 @@
         {
           "id": 30,
           "moshafId": 11,
-          "server": "https://server7.mp3quran.net/s_gmd",
+          "server": "https://cdn.mp3quran.net/audio/saad-ghamdi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -5046,7 +5046,7 @@
         {
           "id": 31,
           "moshafId": 11,
-          "server": "https://server7.mp3quran.net/shur",
+          "server": "https://cdn.mp3quran.net/audio/saud-shuraim/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -5181,7 +5181,7 @@
         {
           "id": 32,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/shl",
+          "server": "https://cdn.mp3quran.net/audio/sahl-yassin/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -5316,7 +5316,7 @@
         {
           "id": 33,
           "moshafId": 11,
-          "server": "https://server9.mp3quran.net/zaki",
+          "server": "https://cdn.mp3quran.net/audio/zaki-daghistani/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -5451,7 +5451,7 @@
         {
           "id": 34,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/sami_hsn",
+          "server": "https://cdn.mp3quran.net/audio/sami-hassan/r1",
           "surahTotal": 28,
           "surahList": [
             1,
@@ -5500,7 +5500,7 @@
         {
           "id": 35,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/sami_dosr",
+          "server": "https://cdn.mp3quran.net/audio/sami-dosari/r1",
           "surahTotal": 53,
           "surahList": [
             2,
@@ -5574,7 +5574,7 @@
         {
           "id": 36,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/sayed",
+          "server": "https://cdn.mp3quran.net/audio/sayed-ramadan/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -5709,7 +5709,7 @@
         {
           "id": 37,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/shaban",
+          "server": "https://cdn.mp3quran.net/audio/shaban-sayyad/r1",
           "surahTotal": 65,
           "surahList": [
             2,
@@ -5795,7 +5795,7 @@
         {
           "id": 38,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/taher",
+          "server": "https://cdn.mp3quran.net/audio/shirzad-taher/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -5930,7 +5930,7 @@
         {
           "id": 39,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/hkm",
+          "server": "https://cdn.mp3quran.net/audio/saber-abdulhakam/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -6065,7 +6065,7 @@
         {
           "id": 40,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/sahood",
+          "server": "https://cdn.mp3quran.net/audio/saleh-sahood/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -6200,7 +6200,7 @@
         {
           "id": 41,
           "moshafId": 11,
-          "server": "https://server9.mp3quran.net/tlb",
+          "server": "https://cdn.mp3quran.net/audio/saleh-talib/r1",
           "surahTotal": 33,
           "surahList": [
             1,
@@ -6254,7 +6254,7 @@
         {
           "id": 42,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/habdan",
+          "server": "https://cdn.mp3quran.net/audio/saleh-habdan/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -6389,7 +6389,7 @@
         {
           "id": 43,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/s_bud",
+          "server": "https://cdn.mp3quran.net/audio/salah-budair/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -6524,7 +6524,7 @@
         {
           "id": 44,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/salah_hashim_m",
+          "server": "https://cdn.mp3quran.net/audio/salah-hashim/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -6646,7 +6646,7 @@
         {
           "id": 45,
           "moshafId": 51,
-          "server": "https://server12.mp3quran.net/salah_hashim_m/Rewayat-Qalon-A-n-Nafi",
+          "server": "https://cdn.mp3quran.net/audio/salah-hashim/r2",
           "surahTotal": 7,
           "surahList": [
             1,
@@ -6674,7 +6674,7 @@
         {
           "id": 46,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/bu_khtr",
+          "server": "https://cdn.mp3quran.net/audio/salah-bukhatir/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -6809,7 +6809,7 @@
         {
           "id": 283,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/mukhtar_haj/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/mukhtar-haj/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -6944,7 +6944,7 @@
         {
           "id": 48,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/ryan",
+          "server": "https://cdn.mp3quran.net/audio/adel-rayyan/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -7079,7 +7079,7 @@
         {
           "id": 49,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/thubti",
+          "server": "https://cdn.mp3quran.net/audio/abdulbari-thubaiti/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -7214,7 +7214,7 @@
         {
           "id": 50,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/bari",
+          "server": "https://cdn.mp3quran.net/audio/abdulbari-muhammad/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -7336,7 +7336,7 @@
         {
           "id": 169,
           "moshafId": 213,
-          "server": "https://server12.mp3quran.net/bari/Almusshaf-Al-Mo-lim",
+          "server": "https://cdn.mp3quran.net/audio/abdulbari-muhammad/r2",
           "surahTotal": 91,
           "surahList": [
             1,
@@ -7448,7 +7448,7 @@
         {
           "id": 51,
           "moshafId": 222,
-          "server": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad",
+          "server": "https://cdn.mp3quran.net/audio/abdulbasit-abdulsamad/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -7570,7 +7570,7 @@
         {
           "id": 52,
           "moshafId": 21,
-          "server": "https://server7.mp3quran.net/basit/Rewayat-Warsh-A-n-Nafi",
+          "server": "https://cdn.mp3quran.net/audio/abdulbasit-abdulsamad/r2",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -7692,7 +7692,7 @@
         {
           "id": 53,
           "moshafId": 11,
-          "server": "https://server7.mp3quran.net/basit",
+          "server": "https://cdn.mp3quran.net/audio/abdulbasit-abdulsamad/r3",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -7827,7 +7827,7 @@
         {
           "id": 54,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/sds",
+          "server": "https://cdn.mp3quran.net/audio/abdulrahman-sudais/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -7962,7 +7962,7 @@
         {
           "id": 55,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/a_ahmed",
+          "server": "https://cdn.mp3quran.net/audio/abdulaziz-ahmad/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -8097,7 +8097,7 @@
         {
           "id": 56,
           "moshafId": 11,
-          "server": "https://server9.mp3quran.net/zahrani",
+          "server": "https://cdn.mp3quran.net/audio/abdulaziz-zahrani/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -8232,7 +8232,7 @@
         {
           "id": 57,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/brmi",
+          "server": "https://cdn.mp3quran.net/audio/abdullah-buraimi/r1",
           "surahTotal": 69,
           "surahList": [
             1,
@@ -8322,7 +8322,7 @@
         {
           "id": 58,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/buajan",
+          "server": "https://cdn.mp3quran.net/audio/abdullah-buaijan/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -8457,7 +8457,7 @@
         {
           "id": 59,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/mtrod",
+          "server": "https://cdn.mp3quran.net/audio/abdullah-matrood/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -8592,7 +8592,7 @@
         {
           "id": 60,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/bsfr",
+          "server": "https://cdn.mp3quran.net/audio/abdullah-basfar/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -8727,7 +8727,7 @@
         {
           "id": 61,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/kyat",
+          "server": "https://cdn.mp3quran.net/audio/abdullah-khayyat/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -8862,7 +8862,7 @@
         {
           "id": 62,
           "moshafId": 11,
-          "server": "https://server13.mp3quran.net/jhn",
+          "server": "https://cdn.mp3quran.net/audio/abdullah-juhani/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -8997,7 +8997,7 @@
         {
           "id": 63,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/gulan",
+          "server": "https://cdn.mp3quran.net/audio/abdullah-ghailan/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -9132,7 +9132,7 @@
         {
           "id": 64,
           "moshafId": 31,
-          "server": "https://server16.mp3quran.net/soufi/Rewayat-Khalaf-A-n-Hamzah",
+          "server": "https://cdn.mp3quran.net/audio/abdulrasheed-sufi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -9254,7 +9254,7 @@
         {
           "id": 65,
           "moshafId": 71,
-          "server": "https://server16.mp3quran.net/soufi/Rewayat-Assosi-A-n-Abi-Amr",
+          "server": "https://cdn.mp3quran.net/audio/abdulrasheed-sufi/r2",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -9376,7 +9376,7 @@
         {
           "id": 258,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/soufi/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/abdulrasheed-sufi/r3",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -9511,7 +9511,7 @@
         {
           "id": 66,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/mohsin_harthi",
+          "server": "https://cdn.mp3quran.net/audio/abdulmohsen-harthi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -9646,7 +9646,7 @@
         {
           "id": 67,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/qasm",
+          "server": "https://cdn.mp3quran.net/audio/abdulmohsen-qasim/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -9781,7 +9781,7 @@
         {
           "id": 68,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/askr",
+          "server": "https://cdn.mp3quran.net/audio/abdulmohsen-askar/r1",
           "surahTotal": 4,
           "surahList": [
             1,
@@ -9806,7 +9806,7 @@
         {
           "id": 69,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/obk",
+          "server": "https://cdn.mp3quran.net/audio/abdulmohsen-obaikan/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -9941,7 +9941,7 @@
         {
           "id": 70,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/kanakeri",
+          "server": "https://cdn.mp3quran.net/audio/abdulhadi-kanakeri/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -10076,7 +10076,7 @@
         {
           "id": 71,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/wdod",
+          "server": "https://cdn.mp3quran.net/audio/abdulwadood-haneef/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -10211,7 +10211,7 @@
         {
           "id": 72,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/arkani",
+          "server": "https://cdn.mp3quran.net/audio/abdulwali-arkani/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -10346,7 +10346,7 @@
         {
           "id": 73,
           "moshafId": 11,
-          "server": "https://server9.mp3quran.net/abo_hashim",
+          "server": "https://cdn.mp3quran.net/audio/ali-abuhashim/r1",
           "surahTotal": 14,
           "surahList": [
             11,
@@ -10381,7 +10381,7 @@
         {
           "id": 74,
           "moshafId": 11,
-          "server": "https://server9.mp3quran.net/hthfi",
+          "server": "https://cdn.mp3quran.net/audio/ali-hudhaifi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -10503,7 +10503,7 @@
         {
           "id": 75,
           "moshafId": 51,
-          "server": "https://server9.mp3quran.net/huthifi_qalon",
+          "server": "https://cdn.mp3quran.net/audio/ali-hudhaifi/r2",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -10625,7 +10625,7 @@
         {
           "id": 305,
           "moshafId": 151,
-          "server": "https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim",
+          "server": "https://cdn.mp3quran.net/audio/ali-hudhaifi/r3",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -10760,7 +10760,7 @@
         {
           "id": 76,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/a_jbr",
+          "server": "https://cdn.mp3quran.net/audio/ali-jaber/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -10895,7 +10895,7 @@
         {
           "id": 77,
           "moshafId": 11,
-          "server": "https://server9.mp3quran.net/hajjaj",
+          "server": "https://cdn.mp3quran.net/audio/ali-souissi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -11030,7 +11030,7 @@
         {
           "id": 78,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/hafz",
+          "server": "https://cdn.mp3quran.net/audio/imad-hafez/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -11165,7 +11165,7 @@
         {
           "id": 282,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/a_turki/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/abdulaziz-turki/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -11300,7 +11300,7 @@
         {
           "id": 80,
           "moshafId": 21,
-          "server": "https://server9.mp3quran.net/omar_warsh",
+          "server": "https://cdn.mp3quran.net/audio/omar-kazabri/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -11435,7 +11435,7 @@
         {
           "id": 81,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/frs_a",
+          "server": "https://cdn.mp3quran.net/audio/fares-abbad/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -11570,7 +11570,7 @@
         {
           "id": 82,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/fahad_otibi",
+          "server": "https://cdn.mp3quran.net/audio/fahad-otaibi/r1",
           "surahTotal": 8,
           "surahList": [
             50,
@@ -11599,7 +11599,7 @@
         {
           "id": 83,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/kndri",
+          "server": "https://cdn.mp3quran.net/audio/fahad-kandari/r1",
           "surahTotal": 77,
           "surahList": [
             1,
@@ -11697,7 +11697,7 @@
         {
           "id": 84,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/fawaz",
+          "server": "https://cdn.mp3quran.net/audio/fawaz-kaabi/r1",
           "surahTotal": 49,
           "surahList": [
             1,
@@ -11767,7 +11767,7 @@
         {
           "id": 85,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/lafi",
+          "server": "https://cdn.mp3quran.net/audio/lafi-oni/r1",
           "surahTotal": 84,
           "surahList": [
             3,
@@ -11872,7 +11872,7 @@
         {
           "id": 86,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/qtm",
+          "server": "https://cdn.mp3quran.net/audio/nasser-qatami/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -12007,7 +12007,7 @@
         {
           "id": 87,
           "moshafId": 11,
-          "server": "https://server9.mp3quran.net/nabil",
+          "server": "https://cdn.mp3quran.net/audio/nabil-rifai/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -12142,7 +12142,7 @@
         {
           "id": 88,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/namh",
+          "server": "https://cdn.mp3quran.net/audio/neama-hassan/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -12277,7 +12277,7 @@
         {
           "id": 89,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/hani",
+          "server": "https://cdn.mp3quran.net/audio/hani-rifai/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -12412,7 +12412,7 @@
         {
           "id": 90,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/dlami",
+          "server": "https://cdn.mp3quran.net/audio/waleed-dulaimi/r1",
           "surahTotal": 58,
           "surahList": [
             1,
@@ -12491,7 +12491,7 @@
         {
           "id": 91,
           "moshafId": 81,
-          "server": "https://server9.mp3quran.net/waleed",
+          "server": "https://cdn.mp3quran.net/audio/waleed-naehi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -12626,7 +12626,7 @@
         {
           "id": 92,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/yasser",
+          "server": "https://cdn.mp3quran.net/audio/yasser-dosari/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -12761,7 +12761,7 @@
         {
           "id": 93,
           "moshafId": 11,
-          "server": "https://server9.mp3quran.net/qurashi",
+          "server": "https://cdn.mp3quran.net/audio/yasser-qurashi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -12896,7 +12896,7 @@
         {
           "id": 94,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/fyl",
+          "server": "https://cdn.mp3quran.net/audio/yasser-faylakawi/r1",
           "surahTotal": 88,
           "surahList": [
             1,
@@ -13005,7 +13005,7 @@
         {
           "id": 95,
           "moshafId": 91,
-          "server": "https://server9.mp3quran.net/mzroyee",
+          "server": "https://cdn.mp3quran.net/audio/yasser-mazrouei/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -13140,7 +13140,7 @@
         {
           "id": 96,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/yahya",
+          "server": "https://cdn.mp3quran.net/audio/yahya-hawwa/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -13275,7 +13275,7 @@
         {
           "id": 97,
           "moshafId": 11,
-          "server": "https://server9.mp3quran.net/yousef",
+          "server": "https://cdn.mp3quran.net/audio/yousef-shoaey/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -13410,7 +13410,7 @@
         {
           "id": 284,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/a_abdl/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/abdullah-abdal/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -13545,7 +13545,7 @@
         {
           "id": 100,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/majd_onazi",
+          "server": "https://cdn.mp3quran.net/audio/majed-anazi/r1",
           "surahTotal": 113,
           "surahList": [
             1,
@@ -13679,7 +13679,7 @@
         {
           "id": 102,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/maher",
+          "server": "https://cdn.mp3quran.net/audio/maher-muaiqly/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -13801,7 +13801,7 @@
         {
           "id": 103,
           "moshafId": 213,
-          "server": "https://server12.mp3quran.net/maher/Almusshaf-Al-Mo-lim",
+          "server": "https://cdn.mp3quran.net/audio/maher-muaiqly/r2",
           "surahTotal": 38,
           "surahList": [
             1,
@@ -13847,7 +13847,7 @@
         {
           "id": 133,
           "moshafId": 222,
-          "server": "https://server12.mp3quran.net/maher/Almusshaf-Al-Mojawwad",
+          "server": "https://cdn.mp3quran.net/audio/maher-muaiqly/r3",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -13982,7 +13982,7 @@
         {
           "id": 104,
           "moshafId": 181,
-          "server": "https://server6.mp3quran.net/earawi",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-iraoui/r1",
           "surahTotal": 111,
           "surahList": [
             1,
@@ -14114,7 +14114,7 @@
         {
           "id": 105,
           "moshafId": 11,
-          "server": "https://server13.mp3quran.net/braak",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-barrak/r1",
           "surahTotal": 63,
           "surahList": [
             1,
@@ -14198,7 +14198,7 @@
         {
           "id": 106,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/tblawi",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-tablawi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -14320,7 +14320,7 @@
         {
           "id": 10912,
           "moshafId": 222,
-          "server": "https://server12.mp3quran.net/tblawi/Al-Mojawwad",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-tablawi/r2",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -14455,7 +14455,7 @@
         {
           "id": 107,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/lhdan",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -14590,7 +14590,7 @@
         {
           "id": 108,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/mhsny",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-muhaisni/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -14725,7 +14725,7 @@
         {
           "id": 109,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/ayyub",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-ayyub/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -14847,7 +14847,7 @@
         {
           "id": 320,
           "moshafId": 14,
-          "server": "https://server16.mp3quran.net/ayyoub2/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-ayyub/r2",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -14982,7 +14982,7 @@
         {
           "id": 110,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/shah",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-shah/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -15117,7 +15117,7 @@
         {
           "id": 111,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/jbrl",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-jibreel/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -15252,7 +15252,7 @@
         {
           "id": 112,
           "moshafId": 11,
-          "server": "https://server10.mp3quran.net/minsh",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-minshawi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -15374,7 +15374,7 @@
         {
           "id": 113,
           "moshafId": 222,
-          "server": "https://server10.mp3quran.net/minsh/Almusshaf-Al-Mojawwad",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-minshawi/r2",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -15496,7 +15496,7 @@
         {
           "id": 114,
           "moshafId": 213,
-          "server": "https://server10.mp3quran.net/minsh/Almusshaf-Al-Mo-lim",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-minshawi/r3",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -15618,7 +15618,7 @@
         {
           "id": 10924,
           "moshafId": 120,
-          "server": "https://server10.mp3quran.net/minsh1387",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-minshawi/r4",
           "surahTotal": 110,
           "surahList": [
             1,
@@ -15749,7 +15749,7 @@
         {
           "id": 115,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/m_krm",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-abdulkareem/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -15871,7 +15871,7 @@
         {
           "id": 210,
           "moshafId": 101,
-          "server": "https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-abdulkareem/r2",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -16006,7 +16006,7 @@
         {
           "id": 116,
           "moshafId": 111,
-          "server": "https://server9.mp3quran.net/abdullah",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-abdullah/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -16128,7 +16128,7 @@
         {
           "id": 117,
           "moshafId": 121,
-          "server": "https://server9.mp3quran.net/abdullah/Rewayat-AlDorai-A-n-Al-Kisa-ai",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-abdullah/r2",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -16263,7 +16263,7 @@
         {
           "id": 118,
           "moshafId": 11,
-          "server": "https://server13.mp3quran.net/husr",
+          "server": "https://cdn.mp3quran.net/audio/mahmoud-husary/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -16385,7 +16385,7 @@
         {
           "id": 119,
           "moshafId": 222,
-          "server": "https://server13.mp3quran.net/husr/Almusshaf-Al-Mojawwad",
+          "server": "https://cdn.mp3quran.net/audio/mahmoud-husary/r2",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -16507,7 +16507,7 @@
         {
           "id": 120,
           "moshafId": 21,
-          "server": "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi",
+          "server": "https://cdn.mp3quran.net/audio/mahmoud-husary/r3",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -16629,7 +16629,7 @@
         {
           "id": 269,
           "moshafId": 131,
-          "server": "https://server13.mp3quran.net/husr/Rewayat-Aldori-A-n-Abi-Amr",
+          "server": "https://cdn.mp3quran.net/audio/mahmoud-husary/r4",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -16751,7 +16751,7 @@
         {
           "id": 270,
           "moshafId": 51,
-          "server": "https://server13.mp3quran.net/husr/Rewayat-Qalon-A-n-Nafi",
+          "server": "https://cdn.mp3quran.net/audio/mahmoud-husary/r5",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -16886,7 +16886,7 @@
         {
           "id": 121,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/bna",
+          "server": "https://cdn.mp3quran.net/audio/mahmoud-banna/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -17008,7 +17008,7 @@
         {
           "id": 122,
           "moshafId": 222,
-          "server": "https://server8.mp3quran.net/bna/Almusshaf-Al-Mojawwad",
+          "server": "https://cdn.mp3quran.net/audio/mahmoud-banna/r2",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -17143,7 +17143,7 @@
         {
           "id": 123,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/afs",
+          "server": "https://cdn.mp3quran.net/audio/mishary-alafasy/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -17265,7 +17265,7 @@
         {
           "id": 124,
           "moshafId": 121,
-          "server": "https://server8.mp3quran.net/afs/Rewayat-AlDorai-A-n-Al-Kisa-ai",
+          "server": "https://cdn.mp3quran.net/audio/mishary-alafasy/r2",
           "surahTotal": 6,
           "surahList": [
             12,
@@ -17292,7 +17292,7 @@
         {
           "id": 125,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/mustafa",
+          "server": "https://cdn.mp3quran.net/audio/mustafa-ismail/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -17414,7 +17414,7 @@
         {
           "id": 288,
           "moshafId": 222,
-          "server": "https://server8.mp3quran.net/mustafa/Almusshaf-Al-Mojawwad",
+          "server": "https://cdn.mp3quran.net/audio/mustafa-ismail/r2",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -17549,7 +17549,7 @@
         {
           "id": 126,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/lahoni",
+          "server": "https://cdn.mp3quran.net/audio/mustafa-lahouni/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -17684,7 +17684,7 @@
         {
           "id": 127,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/ra3ad",
+          "server": "https://cdn.mp3quran.net/audio/mustafa-azzawi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -17819,7 +17819,7 @@
         {
           "id": 128,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/muamr",
+          "server": "https://cdn.mp3quran.net/audio/muammar-za/r1",
           "surahTotal": 8,
           "surahList": [
             36,
@@ -17848,7 +17848,7 @@
         {
           "id": 129,
           "moshafId": 131,
-          "server": "https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr",
+          "server": "https://cdn.mp3quran.net/audio/muftah-saltani/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -17970,7 +17970,7 @@
         {
           "id": 180,
           "moshafId": 121,
-          "server": "https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai",
+          "server": "https://cdn.mp3quran.net/audio/muftah-saltani/r2",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -18092,7 +18092,7 @@
         {
           "id": 182,
           "moshafId": 11,
-          "server": "https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/muftah-saltani/r3",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -18214,7 +18214,7 @@
         {
           "id": 195,
           "moshafId": 151,
-          "server": "https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim",
+          "server": "https://cdn.mp3quran.net/audio/muftah-saltani/r4",
           "surahTotal": 77,
           "surahList": [
             1,
@@ -18299,7 +18299,7 @@
         {
           "id": 196,
           "moshafId": 161,
-          "server": "https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer",
+          "server": "https://cdn.mp3quran.net/audio/muftah-saltani/r5",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -18434,7 +18434,7 @@
         {
           "id": 134,
           "moshafId": 21,
-          "server": "https://server16.mp3quran.net/m_sayed/Rewayat-Warsh-A-n-Nafi",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-saayed/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -18569,7 +18569,7 @@
         {
           "id": 135,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/a_swaiyd/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/abdulrahman-suwayid/r1",
           "surahTotal": 113,
           "surahList": [
             1,
@@ -18703,7 +18703,7 @@
         {
           "id": 136,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/a_binaoun/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/abdulelah-aoun/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -18838,7 +18838,7 @@
         {
           "id": 137,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/a_binhameed/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-humaid/r1",
           "surahTotal": 107,
           "surahList": [
             1,
@@ -18966,7 +18966,7 @@
         {
           "id": 138,
           "moshafId": 131,
-          "server": "https://server16.mp3quran.net/nourin_siddig/Rewayat-Aldori-A-n-Abi-Amr",
+          "server": "https://cdn.mp3quran.net/audio/noreen-siddiq/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -19101,7 +19101,7 @@
         {
           "id": 139,
           "moshafId": 11,
-          "server": "https://server9.mp3quran.net/zaml",
+          "server": "https://cdn.mp3quran.net/audio/majed-zamil/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -19236,7 +19236,7 @@
         {
           "id": 149,
           "moshafId": 11,
-          "server": "https://server10.mp3quran.net/shaksh",
+          "server": "https://cdn.mp3quran.net/audio/maher-shakhashiro/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -19371,7 +19371,7 @@
         {
           "id": 150,
           "moshafId": 11,
-          "server": "https://server10.mp3quran.net/monshed",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-monshed/r1",
           "surahTotal": 110,
           "surahList": [
             1,
@@ -19502,7 +19502,7 @@
         {
           "id": 151,
           "moshafId": 121,
-          "server": "https://server10.mp3quran.net/sheimy",
+          "server": "https://cdn.mp3quran.net/audio/mahmoud-sheimy/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -19637,7 +19637,7 @@
         {
           "id": 152,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/salamah/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/yasser-salama/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -19772,7 +19772,7 @@
         {
           "id": 153,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/malaysia/akil",
+          "server": "https://cdn.mp3quran.net/audio/akhil-rawa/r1",
           "surahTotal": 4,
           "surahList": [
             50,
@@ -19797,7 +19797,7 @@
         {
           "id": 154,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/malaysia/zamri",
+          "server": "https://cdn.mp3quran.net/audio/zamri-abdullah/r1",
           "surahTotal": 7,
           "surahList": [
             32,
@@ -19825,7 +19825,7 @@
         {
           "id": 159,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/mohna",
+          "server": "https://cdn.mp3quran.net/audio/khalid-mohanna/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -19960,7 +19960,7 @@
         {
           "id": 160,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/a_klb",
+          "server": "https://cdn.mp3quran.net/audio/adel-kalbani/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -20095,7 +20095,7 @@
         {
           "id": 161,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/bilal",
+          "server": "https://cdn.mp3quran.net/audio/musa-bilal/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -20230,7 +20230,7 @@
         {
           "id": 162,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/alshaik",
+          "server": "https://cdn.mp3quran.net/audio/hussain-sheikh/r1",
           "surahTotal": 59,
           "surahList": [
             2,
@@ -20310,7 +20310,7 @@
         {
           "id": 163,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/hatem",
+          "server": "https://cdn.mp3quran.net/audio/hatem-waer/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -20445,7 +20445,7 @@
         {
           "id": 164,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/jormy",
+          "server": "https://cdn.mp3quran.net/audio/ibrahim-jormy/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -20580,7 +20580,7 @@
         {
           "id": 165,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/mrifai",
+          "server": "https://cdn.mp3quran.net/audio/mahmoud-rifai/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -20715,7 +20715,7 @@
         {
           "id": 166,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/obaid",
+          "server": "https://cdn.mp3quran.net/audio/nasser-obaid/r1",
           "surahTotal": 67,
           "surahList": [
             3,
@@ -20803,7 +20803,7 @@
         {
           "id": 167,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/wasel/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/wasel-methen/r1",
           "surahTotal": 9,
           "surahList": [
             8,
@@ -20833,7 +20833,7 @@
         {
           "id": 178,
           "moshafId": 21,
-          "server": "https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi",
+          "server": "https://cdn.mp3quran.net/audio/ibrahim-dosari/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -20955,7 +20955,7 @@
         {
           "id": 232,
           "moshafId": 11,
-          "server": "https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/ibrahim-dosari/r2",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -21090,7 +21090,7 @@
         {
           "id": 181,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/jaman",
+          "server": "https://cdn.mp3quran.net/audio/jamaan-osaimi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -21225,7 +21225,7 @@
         {
           "id": 183,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/malaysia/rziah",
+          "server": "https://cdn.mp3quran.net/audio/rodziah-abdulrahman/r1",
           "surahTotal": 4,
           "surahList": [
             3,
@@ -21250,7 +21250,7 @@
         {
           "id": 184,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/malaysia/rogiah",
+          "server": "https://cdn.mp3quran.net/audio/rogayah-sulong/r1",
           "surahTotal": 1,
           "surahList": [
             36
@@ -21272,7 +21272,7 @@
         {
           "id": 185,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/malaysia/mamat",
+          "server": "https://cdn.mp3quran.net/audio/sapinah-mamat/r1",
           "surahTotal": 4,
           "surahList": [
             3,
@@ -21297,7 +21297,7 @@
         {
           "id": 187,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/malaysia/sideen",
+          "server": "https://cdn.mp3quran.net/audio/saidin-abdulrahman/r1",
           "surahTotal": 4,
           "surahList": [
             17,
@@ -21322,7 +21322,7 @@
         {
           "id": 188,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/malaysia/abdulgani",
+          "server": "https://cdn.mp3quran.net/audio/abdulghani-abdullah/r1",
           "surahTotal": 13,
           "surahList": [
             1,
@@ -21356,7 +21356,7 @@
         {
           "id": 189,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/malaysia/fhmi",
+          "server": "https://cdn.mp3quran.net/audio/abdullah-fahmi/r1",
           "surahTotal": 4,
           "surahList": [
             1,
@@ -21381,7 +21381,7 @@
         {
           "id": 190,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/malaysia/hafz",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-hafiz/r1",
           "surahTotal": 3,
           "surahList": [
             1,
@@ -21405,7 +21405,7 @@
         {
           "id": 191,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/malaysia/hfs",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-ali/r1",
           "surahTotal": 5,
           "surahList": [
             1,
@@ -21431,7 +21431,7 @@
         {
           "id": 192,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/malaysia/nor",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-anuar/r1",
           "surahTotal": 4,
           "surahList": [
             1,
@@ -21456,7 +21456,7 @@
         {
           "id": 193,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/noah",
+          "server": "https://cdn.mp3quran.net/audio/yousef-ahmad/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -21591,7 +21591,7 @@
         {
           "id": 194,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/zilaie",
+          "server": "https://cdn.mp3quran.net/audio/jamaluddin-zailai/r1",
           "surahTotal": 8,
           "surahList": [
             1,
@@ -21620,7 +21620,7 @@
         {
           "id": 197,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/harthi",
+          "server": "https://cdn.mp3quran.net/audio/moeedh-harthi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -21755,7 +21755,7 @@
         {
           "id": 198,
           "moshafId": 11,
-          "server": "https://server10.mp3quran.net/rashad",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-shareef/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -21890,7 +21890,7 @@
         {
           "id": 199,
           "moshafId": 51,
-          "server": "https://server10.mp3quran.net/trablsi",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-tarabulsi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -22012,7 +22012,7 @@
         {
           "id": 201,
           "moshafId": 11,
-          "server": "https://server10.mp3quran.net/trabulsi",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-tarabulsi/r2",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -22147,7 +22147,7 @@
         {
           "id": 202,
           "moshafId": 11,
-          "server": "https://server10.mp3quran.net/Abdullahk",
+          "server": "https://cdn.mp3quran.net/audio/abdullah-kandari/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -22282,7 +22282,7 @@
         {
           "id": 203,
           "moshafId": 11,
-          "server": "https://server10.mp3quran.net/Aamer",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-amer/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -22417,7 +22417,7 @@
         {
           "id": 204,
           "moshafId": 11,
-          "server": "https://server10.mp3quran.net/IbrahemSadan",
+          "server": "https://cdn.mp3quran.net/audio/ibrahim-saadan/r1",
           "surahTotal": 50,
           "surahList": [
             1,
@@ -22488,7 +22488,7 @@
         {
           "id": 205,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/ahmad_huth",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-hudhaifi/r1",
           "surahTotal": 110,
           "surahList": [
             1,
@@ -22619,7 +22619,7 @@
         {
           "id": 206,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/khan",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-khan/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -22754,7 +22754,7 @@
         {
           "id": 207,
           "moshafId": 11,
-          "server": "https://server7.mp3quran.net/dgsh",
+          "server": "https://cdn.mp3quran.net/audio/youssef-edghouch/r1",
           "surahTotal": 26,
           "surahList": [
             1,
@@ -22801,7 +22801,7 @@
         {
           "id": 208,
           "moshafId": 51,
-          "server": "https://server7.mp3quran.net/dokali",
+          "server": "https://cdn.mp3quran.net/audio/dokali-alim/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -22936,7 +22936,7 @@
         {
           "id": 209,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/wishear",
+          "server": "https://cdn.mp3quran.net/audio/wishear-arbili/r1",
           "surahTotal": 2,
           "surahList": [
             55,
@@ -22959,7 +22959,7 @@
         {
           "id": 211,
           "moshafId": 131,
-          "server": "https://server6.mp3quran.net/fateh",
+          "server": "https://cdn.mp3quran.net/audio/fateh-zubair/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -23094,7 +23094,7 @@
         {
           "id": 212,
           "moshafId": 51,
-          "server": "https://server10.mp3quran.net/tareq",
+          "server": "https://cdn.mp3quran.net/audio/tareq-daawob/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -23229,7 +23229,7 @@
         {
           "id": 216,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/Othmn",
+          "server": "https://cdn.mp3quran.net/audio/othman-ansari/r1",
           "surahTotal": 76,
           "surahList": [
             1,
@@ -23326,7 +23326,7 @@
         {
           "id": 217,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/balilah",
+          "server": "https://cdn.mp3quran.net/audio/bandar-baleela/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -23461,7 +23461,7 @@
         {
           "id": 218,
           "moshafId": 11,
-          "server": "https://server12.mp3quran.net/shoraimy",
+          "server": "https://cdn.mp3quran.net/audio/khalid-shuraimi/r1",
           "surahTotal": 73,
           "surahList": [
             1,
@@ -23555,7 +23555,7 @@
         {
           "id": 219,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/wdee3",
+          "server": "https://cdn.mp3quran.net/audio/wadee-yamani/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -23690,7 +23690,7 @@
         {
           "id": 221,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/kurdi",
+          "server": "https://cdn.mp3quran.net/audio/raad-kurdi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -23825,7 +23825,7 @@
         {
           "id": 225,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/aloosi",
+          "server": "https://cdn.mp3quran.net/audio/abdulrahman-oosi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -23960,7 +23960,7 @@
         {
           "id": 226,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/ghamdi",
+          "server": "https://cdn.mp3quran.net/audio/khalid-ghamdi/r1",
           "surahTotal": 102,
           "surahList": [
             1,
@@ -24083,7 +24083,7 @@
         {
           "id": 227,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/shakoor",
+          "server": "https://cdn.mp3quran.net/audio/ramadan-shakoor/r1",
           "surahTotal": 65,
           "surahList": [
             1,
@@ -24169,7 +24169,7 @@
         {
           "id": 228,
           "moshafId": 11,
-          "server": "https://server7.mp3quran.net/m_arkani",
+          "server": "https://cdn.mp3quran.net/audio/abdulmajeed-arkani/r1",
           "surahTotal": 49,
           "surahList": [
             1,
@@ -24239,7 +24239,7 @@
         {
           "id": 229,
           "moshafId": 11,
-          "server": "https://server8.mp3quran.net/m_qari",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-khalil/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -24374,7 +24374,7 @@
         {
           "id": 230,
           "moshafId": 11,
-          "server": "https://server6.mp3quran.net/rami",
+          "server": "https://cdn.mp3quran.net/audio/rami-duais/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -24509,7 +24509,7 @@
         {
           "id": 231,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/hazza",
+          "server": "https://cdn.mp3quran.net/audio/hazza-balushi/r1",
           "surahTotal": 91,
           "surahList": [
             1,
@@ -24621,7 +24621,7 @@
         {
           "id": 236,
           "moshafId": 11,
-          "server": "https://server10.mp3quran.net/a_majed",
+          "server": "https://cdn.mp3quran.net/audio/abdulrahman-majed/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -24756,7 +24756,7 @@
         {
           "id": 287,
           "moshafId": 51,
-          "server": "https://server16.mp3quran.net/m_akri/Rewayat-Qalon-A-n-Nafi",
+          "server": "https://cdn.mp3quran.net/audio/marwan-akri/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -24891,7 +24891,7 @@
         {
           "id": 240,
           "moshafId": 11,
-          "server": "https://server11.mp3quran.net/salman",
+          "server": "https://cdn.mp3quran.net/audio/salman-otaibi/r1",
           "surahTotal": 76,
           "surahList": [
             1,
@@ -24988,7 +24988,7 @@
         {
           "id": 241,
           "moshafId": 11,
-          "server": "https://server14.mp3quran.net/refat",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-refaat/r1",
           "surahTotal": 31,
           "surahList": [
             1,
@@ -25040,7 +25040,7 @@
         {
           "id": 243,
           "moshafId": 11,
-          "server": "https://server14.mp3quran.net/mousa/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/abdullah-mousa/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -25162,7 +25162,7 @@
         {
           "id": 286,
           "moshafId": 213,
-          "server": "https://server14.mp3quran.net/mousa/Almusshaf-Al-Mo-lim",
+          "server": "https://cdn.mp3quran.net/audio/abdullah-mousa/r2",
           "surahTotal": 38,
           "surahList": [
             1,
@@ -25221,7 +25221,7 @@
         {
           "id": 244,
           "moshafId": 11,
-          "server": "https://server14.mp3quran.net/khalf",
+          "server": "https://cdn.mp3quran.net/audio/abdullah-khalaf/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -25356,7 +25356,7 @@
         {
           "id": 245,
           "moshafId": 11,
-          "server": "https://server14.mp3quran.net/mansor",
+          "server": "https://cdn.mp3quran.net/audio/mansour-salimi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -25491,7 +25491,7 @@
         {
           "id": 246,
           "moshafId": 11,
-          "server": "https://server14.mp3quran.net/musali",
+          "server": "https://cdn.mp3quran.net/audio/salah-musalli/r1",
           "surahTotal": 49,
           "surahList": [
             50,
@@ -25561,7 +25561,7 @@
         {
           "id": 247,
           "moshafId": 11,
-          "server": "https://server14.mp3quran.net/sharekh",
+          "server": "https://cdn.mp3quran.net/audio/khalid-sharekh/r1",
           "surahTotal": 64,
           "surahList": [
             2,
@@ -25646,7 +25646,7 @@
         {
           "id": 248,
           "moshafId": 11,
-          "server": "https://server14.mp3quran.net/alosfor",
+          "server": "https://cdn.mp3quran.net/audio/nasser-asfour/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -25781,7 +25781,7 @@
         {
           "id": 250,
           "moshafId": 11,
-          "server": "https://server14.mp3quran.net/bukheet",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-bukhait/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -25916,7 +25916,7 @@
         {
           "id": 251,
           "moshafId": 11,
-          "server": "https://server14.mp3quran.net/nasser_almajed",
+          "server": "https://cdn.mp3quran.net/audio/nasser-majed/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -26051,7 +26051,7 @@
         {
           "id": 252,
           "moshafId": 11,
-          "server": "https://server14.mp3quran.net/swlim/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-suwailem/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -26186,7 +26186,7 @@
         {
           "id": 253,
           "moshafId": 11,
-          "server": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/islam-sobhi/r1",
           "surahTotal": 109,
           "surahList": [
             1,
@@ -26316,7 +26316,7 @@
         {
           "id": 254,
           "moshafId": 11,
-          "server": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/badr-turki/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -26451,7 +26451,7 @@
         {
           "id": 255,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/hitham/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/haitham-jadani/r1",
           "surahTotal": 101,
           "surahList": [
             1,
@@ -26573,7 +26573,7 @@
         {
           "id": 256,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/shaheen/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-shaheen/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -26708,7 +26708,7 @@
         {
           "id": 257,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/saad/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/saad-muqrin/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -26843,7 +26843,7 @@
         {
           "id": 259,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-nufais/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -26978,7 +26978,7 @@
         {
           "id": 260,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/darweez/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/omar-duraiwiz/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -27113,7 +27113,7 @@
         {
           "id": 263,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/abdulazizasiri/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/abdulaziz-asiri/r1",
           "surahTotal": 72,
           "surahList": [
             1,
@@ -27206,7 +27206,7 @@
         {
           "id": 264,
           "moshafId": 21,
-          "server": "https://server16.mp3quran.net/souilass/Rewayat-Warsh-A-n-Nafi",
+          "server": "https://cdn.mp3quran.net/audio/younes-souilass/r1",
           "surahTotal": 65,
           "surahList": [
             1,
@@ -27292,7 +27292,7 @@
         {
           "id": 265,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-deeban/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -27414,7 +27414,7 @@
         {
           "id": 276,
           "moshafId": 151,
-          "server": "https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-deeban/r2",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -27536,7 +27536,7 @@
         {
           "id": 278,
           "moshafId": 61,
-          "server": "https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-deeban/r3",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -27658,7 +27658,7 @@
         {
           "id": 279,
           "moshafId": 41,
-          "server": "https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-deeban/r4",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -27780,7 +27780,7 @@
         {
           "id": 280,
           "moshafId": 51,
-          "server": "https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-deeban/r5",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -27902,7 +27902,7 @@
         {
           "id": 285,
           "moshafId": 131,
-          "server": "https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-deeban/r6",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -28024,7 +28024,7 @@
         {
           "id": 301,
           "moshafId": 181,
-          "server": "https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-deeban/r7",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -28146,7 +28146,7 @@
         {
           "id": 308,
           "moshafId": 161,
-          "server": "https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-deeban/r8",
           "surahTotal": 33,
           "surahList": [
             1,
@@ -28187,7 +28187,7 @@
         {
           "id": 309,
           "moshafId": 71,
-          "server": "https://server16.mp3quran.net/deban/Rewayat-Assosi-A-n-Abi-Amr",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-deeban/r9",
           "surahTotal": 19,
           "surahList": [
             1,
@@ -28214,7 +28214,7 @@
         {
           "id": 310,
           "moshafId": 121,
-          "server": "https://server16.mp3quran.net/deban/Rewayat-AlDorai-A-n-Al-Kisa-ai",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-deeban/r10",
           "surahTotal": 13,
           "surahList": [
             1,
@@ -28235,7 +28235,7 @@
         {
           "id": 311,
           "moshafId": 31,
-          "server": "https://server16.mp3quran.net/deban/Rewayat-Khalaf-A-n-Hamzah",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-deeban/r11",
           "surahTotal": 6,
           "surahList": [
             94,
@@ -28249,7 +28249,7 @@
         {
           "id": 312,
           "moshafId": 191,
-          "server": "https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-deeban/r12",
           "surahTotal": 27,
           "surahList": [
             1,
@@ -28284,7 +28284,7 @@
         {
           "id": 313,
           "moshafId": 201,
-          "server": "https://server16.mp3quran.net/deban/Rewayat-Ibn-Jammaz-A-n-Abi-Ja-far",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-deeban/r13",
           "surahTotal": 11,
           "surahList": [
             1,
@@ -28316,7 +28316,7 @@
         {
           "id": 267,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/kamel/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/abdullah-kamel/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -28451,7 +28451,7 @@
         {
           "id": 268,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/peshawa-kurdi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -28586,7 +28586,7 @@
         {
           "id": 271,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net//nathier/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/nadhir-maliki/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -28721,7 +28721,7 @@
         {
           "id": 272,
           "moshafId": 121,
-          "server": "https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai",
+          "server": "https://cdn.mp3quran.net/audio/okasha-kameny/r1",
           "surahTotal": 38,
           "surahList": [
             17,
@@ -28767,7 +28767,7 @@
         {
           "id": 296,
           "moshafId": 41,
-          "server": "https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer",
+          "server": "https://cdn.mp3quran.net/audio/okasha-kameny/r2",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -28902,7 +28902,7 @@
         {
           "id": 273,
           "moshafId": 14,
-          "server": "https://server16.mp3quran.net/h_dukhain/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/haitham-dukhain/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -29037,7 +29037,7 @@
         {
           "id": 274,
           "moshafId": 51,
-          "server": "https://server16.mp3quran.net/sneineh/Rewayat-Qalon-A-n-Nafi",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-abusnaina/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -29172,7 +29172,7 @@
         {
           "id": 275,
           "moshafId": 51,
-          "server": "https://server16.mp3quran.net/qeniwa/Rewayat-Qalon-A-n-Nafi",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-qeniwa/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -29307,7 +29307,7 @@
         {
           "id": 277,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/m_abdelhakam/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/mahmoud-abdulhakam/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -29442,7 +29442,7 @@
         {
           "id": 289,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/a_maasaraawi/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-masarawi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -29564,7 +29564,7 @@
         {
           "id": 290,
           "moshafId": 91,
-          "server": "https://server16.mp3quran.net/a_maasaraawi/Rewayat-Rawh-A-n-Yakoob-Alhadrami",
+          "server": "https://cdn.mp3quran.net/audio/ahmad-masarawi/r2",
           "surahTotal": 64,
           "surahList": [
             51,
@@ -29649,7 +29649,7 @@
         {
           "id": 291,
           "moshafId": 51,
-          "server": "https://server16.mp3quran.net/i_kshidan/Rewayat-Qalon-A-n-Nafi",
+          "server": "https://cdn.mp3quran.net/audio/ibrahim-kshidan/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -29784,7 +29784,7 @@
         {
           "id": 292,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/h_abudalal/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/hashim-abudalal/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -29919,7 +29919,7 @@
         {
           "id": 293,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/f_khamery/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/fouad-khamiri/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -30054,7 +30054,7 @@
         {
           "id": 294,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/s_hashemi/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/sayed-hashemi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -30189,7 +30189,7 @@
         {
           "id": 295,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/kh_mohammadi/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/khalid-mohammadi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -30324,7 +30324,7 @@
         {
           "id": 297,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/mal-allah_jaber/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/malallah-jaber/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -30459,7 +30459,7 @@
         {
           "id": 298,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/s_sadeiq/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/salman-siddiq/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -30594,7 +30594,7 @@
         {
           "id": 299,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/h_saleh/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/hassan-saleh/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -30729,7 +30729,7 @@
         {
           "id": 302,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/a_alshahhat/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/abdulrahman-shahat/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -30864,7 +30864,7 @@
         {
           "id": 303,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/issa-sanankoua/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -30999,7 +30999,7 @@
         {
           "id": 304,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/h_baqai/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/haroon-baqai/r1",
           "surahTotal": 51,
           "surahList": [
             1,
@@ -31071,7 +31071,7 @@
         {
           "id": 306,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/s_alquraishi/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/saleh-quraishi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -31206,7 +31206,7 @@
         {
           "id": 300,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/shamrani/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/saleh-shamrani/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -31341,7 +31341,7 @@
         {
           "id": 307,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/f_hajry/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/faisal-hajri/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -31476,7 +31476,7 @@
         {
           "id": 314,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/a_alemadi/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/anas-emadi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -31611,7 +31611,7 @@
         {
           "id": 315,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/a_alaskar/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/abdulmalik-askar/r1",
           "surahTotal": 7,
           "surahList": [
             30,
@@ -31639,7 +31639,7 @@
         {
           "id": 316,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/a_alhazmi/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/abdulkareem-hazmi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -31774,7 +31774,7 @@
         {
           "id": 317,
           "moshafId": 21,
-          "server": "https://server16.mp3quran.net/H-Lharraz/Rewayat-Warsh-A-n-Nafi",
+          "server": "https://cdn.mp3quran.net/audio/hicham-lharraz/r1",
           "surahTotal": 113,
           "surahList": [
             1,
@@ -31908,7 +31908,7 @@
         {
           "id": 318,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/a-almishal/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/abdullah-mishal/r1",
           "surahTotal": 11,
           "surahList": [
             8,
@@ -31940,7 +31940,7 @@
         {
           "id": 319,
           "moshafId": 21,
-          "server": "https://server16.mp3quran.net/a_sheim/Rewayat-Warsh-A-n-Nafi",
+          "server": "https://cdn.mp3quran.net/audio/abdelaziz-sheim/r1",
           "surahTotal": 16,
           "surahList": [
             1,
@@ -31977,7 +31977,7 @@
         {
           "id": 10914,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/a_alqrafi/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/abdullah-qarafi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -32112,7 +32112,7 @@
         {
           "id": 10915,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/A-Ghailan/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/abdulbadi-ghailan/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -32247,7 +32247,7 @@
         {
           "id": 340,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/M_Burhaji/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-burhaji/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -32382,7 +32382,7 @@
         {
           "id": 10904,
           "moshafId": 14,
-          "server": "https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/yousef-aidarous/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -32517,7 +32517,7 @@
         {
           "id": 10905,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/H-Aldaghriri/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/hassan-daghriri/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -32652,7 +32652,7 @@
         {
           "id": 10906,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/M_Alfaqih/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-faqih/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -32787,7 +32787,7 @@
         {
           "id": 10908,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/J-Abdullah/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/junaid-abdullah/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -32922,7 +32922,7 @@
         {
           "id": 10909,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/K-Alzadi/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/khalid-ziyadi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -33057,7 +33057,7 @@
         {
           "id": 10910,
           "moshafId": 11,
-          "server": "https://server14.mp3quran.net/shamsan/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/waleed-shamsan/r1",
           "surahTotal": 71,
           "surahList": [
             1,
@@ -33149,7 +33149,7 @@
         {
           "id": 10911,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/Ibrahim-Al-Shahri/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/ibrahim-shahri/r1",
           "surahTotal": 113,
           "surahList": [
             1,
@@ -33283,7 +33283,7 @@
         {
           "id": 10913,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/A-AlBadr/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/abdulrahman-badr/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -33418,7 +33418,7 @@
         {
           "id": 10917,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/Alijon/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/alijon-hamdan/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -33553,7 +33553,7 @@
         {
           "id": 10918,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/M-AlZubaidi/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-zubaidi/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -33688,7 +33688,7 @@
         {
           "id": 10920,
           "moshafId": 21,
-          "server": "https://server16.mp3quran.net/A-Benkirane/Rewayat-Warsh-A-n-Nafi",
+          "server": "https://cdn.mp3quran.net/audio/abdelmoujib-benkirane/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -33823,7 +33823,7 @@
         {
           "id": 10921,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/m-dibirov/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/muhammad-dibirov/r1",
           "surahTotal": 24,
           "surahList": [
             2,
@@ -33868,7 +33868,7 @@
         {
           "id": 10922,
           "moshafId": 11,
-          "server": "https://server7.mp3quran.net/asim/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/asim-luhaidan/r1",
           "surahTotal": 114,
           "surahList": [
             1,
@@ -34003,7 +34003,7 @@
         {
           "id": 10923,
           "moshafId": 11,
-          "server": "https://server16.mp3quran.net/M-Harfoush/Rewayat-Hafs-A-n-Assem",
+          "server": "https://cdn.mp3quran.net/audio/mahmoud-harfoush/r1",
           "surahTotal": 114,
           "surahList": [
             1,
