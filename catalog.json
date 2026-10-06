@@ -4,7 +4,7 @@
     "reciters": 242,
     "moshafs": 29,
     "surahs": 114,
-    "radios": 157,
+    "radios": 158,
     "serversChecked": 288,
     "serversRewritten": 0,
     "serversUnverified": 0
@@ -36165,6 +36165,19 @@
       "letters": {
         "ar": "إ",
         "en": "A"
+      }
+    },
+    {
+      "id": 900006,
+      "moshafId": 1001,
+      "url": "https://live.kwikmotion.com/sbrksanedaradiolive/ksanedaradio/playlist.m3u8",
+      "names": {
+        "ar": "إذاعة نداء الإسلام",
+        "en": "Nidaa Al Islam Radio"
+      },
+      "letters": {
+        "ar": "إ",
+        "en": "N"
       }
     }
   ]
