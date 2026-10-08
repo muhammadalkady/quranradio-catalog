@@ -4811,7 +4811,7 @@
           "id": 281,
           "moshafId": 11,
           "server": "https://cdn.mp3quran.net/audio/abdullah-bukhari/r1",
-          "surahTotal": 80,
+          "surahTotal": 79,
           "surahList": [
             1,
             2,
@@ -4836,7 +4836,6 @@
             55,
             56,
             57,
-            58,
             59,
             60,
             61,
