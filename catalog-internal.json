@@ -6209,10 +6209,9 @@
           "id": 41,
           "moshafId": 11,
           "server": "https://cdn.mp3quran.net/audio/saleh-talib/r1",
-          "surahTotal": 33,
+            "surahTotal": 32,
           "surahList": [
             1,
-            2,
             25,
             34,
             38,
@@ -24899,7 +24898,7 @@
           "id": 240,
           "moshafId": 11,
           "server": "https://cdn.mp3quran.net/audio/salman-otaibi/r1",
-          "surahTotal": 76,
+            "surahTotal": 75,
           "surahList": [
             1,
             2,
@@ -24907,7 +24906,6 @@
             10,
             11,
             14,
-            16,
             19,
             23,
             25,
@@ -34135,7 +34133,7 @@
       "id": 21203,
       "names": {
         "ar": "أيمن رشدي سويد",
-        "en": "Ayman Rushdi"
+          "en": "Ayman Rushdi Swaid"
       },
       "letters": {
         "ar": "أ",
