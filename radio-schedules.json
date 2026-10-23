@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAtMs": 1792713325676,
+  "generatedAtMs": 1792799379595,
   "schedules": [
     {
       "source": "cairo",
@@ -9,860 +9,6 @@
         900005
       ],
       "programmes": [
-        {
-          "title": "مع الصحابة والتابعين",
-          "description": "يقدم البرنامج أهم الحكم والعبارات التى قالها الصحابة والتابعين مع بيان المواقف التى قيلت فيها والمعنى العام لهذه الأقوال\r\nتقديم عمر سلامة",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/dbb8c873-768b-4cd0-97ee-10c413678d52-%D9%85%D8%B9%20%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D8%A8%D9%87%20%D9%88%D8%A7%D9%84%D8%AA%D8%A7%D8%A8%D8%B9%D9%8A%D9%86.jpg",
-          "startMs": 1792702800000,
-          "endMs": 1792703340000
-        },
-        {
-          "title": "موسوعة الفقه الإسلامى",
-          "description": "عرض للمذاهب الفقهية المختلفة للقضايا الدينية بأسلوب ميسر مبسط\r\nتقديم د. هاجر سعد الدين",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/94480499-4e91-4510-8dd5-78129ca9bf55-%D9%85%D9%88%D8%B3%D9%88%D8%B9%D8%A9%20%D8%A7%D9%84%D9%81%D9%82%D9%87.jpg",
-          "startMs": 1792703400000,
-          "endMs": 1792703640000
-        },
-        {
-          "title": "القرآن المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792703700000,
-          "endMs": 1792706220000
-        },
-        {
-          "title": "ربط",
-          "description": "إطلالة على محتوى برامج اليوم",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c8eb29a9-59d1-4bbf-a82d-3fefbf230b17-%D9%81%D9%82%D8%B1%D8%A7%D8%AA%20%D8%B1%D8%A8%D8%B7.webp",
-          "startMs": 1792706280000,
-          "endMs": 1792706340000
-        },
-        {
-          "title": "المصحف المرتل للقارئ الشيخ محمد صديق المنشاوي",
-          "description": "{ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا } المزمل 4",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/f9561421-1a00-4196-b008-9e8d17aa0091-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%84%20%D9%84%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%89.jpg",
-          "startMs": 1792706400000,
-          "endMs": 1792708080000
-        },
-        {
-          "title": "ابتهال",
-          "description": "فاصل من الابتهالات الدينية",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c0e28a89-45ea-4e40-9d87-46f4e4ee14de-WhatsApp%20Image%202025-04-11%20at%204.27.48%20PM.jpeg",
-          "startMs": 1792708140000,
-          "endMs": 1792708320000
-        },
-        {
-          "title": "الختمة المرتلة",
-          "description": "ختمة مرتلة تذاع يوميا بأصوات كبار القراء",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/9c057d45-4a9d-4851-914d-5bec013ab1a5-radio.jpeg",
-          "startMs": 1792708380000,
-          "endMs": 1792710060000
-        },
-        {
-          "title": "الصلاة على النبي صلى الله عليه وسلم",
-          "description": "عَن أَبِي هُرَيرَةَ رضي الله عنه أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ: ((مَنْ صَلَّى عَلَيَّ وَاحِدَةً، صَلَّى الله عَلَيْهِ عَشْرًا))؛ رواه مسلم.",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8b5018df-cc3c-4c14-806d-10a544ac9795-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D9%87%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%86%D8%A8%D9%89.jpg",
-          "startMs": 1792710120000,
-          "endMs": 1792710180000
-        },
-        {
-          "title": "القرآن المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792710240000,
-          "endMs": 1792711980000
-        },
-        {
-          "title": "قيم وسلوكيات",
-          "description": "شرح للسنن والأخلاق والأحاديث النبوية",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/f8b8f821-6f2e-42cb-93bb-3a819c94b5fc-%D9%82%D9%8A%D9%85%20%D9%88%D8%B3%D9%84%D9%88%D9%83%D9%8A%D8%A7%D8%AA.jpg",
-          "startMs": 1792712040000,
-          "endMs": 1792712100000
-        },
-        {
-          "title": "القرآن المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792712160000,
-          "endMs": 1792713000000
-        },
-        {
-          "title": "أدعية للشيخ الشعراوي",
-          "description": "فاصل من الدعاء بصوت الشيخ محمد متولي الشعراوي",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/d1ac42d9-65e4-4144-943b-3d6cdfc89205-%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D8%A7%D9%88%D9%89.jpg",
-          "startMs": 1792713060000,
-          "endMs": 1792713120000
-        },
-        {
-          "title": "القرآن المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792713180000,
-          "endMs": 1792714020000
-        },
-        {
-          "title": "الصلاة على النبي صلى الله عليه وسلم",
-          "description": "عَن أَبِي هُرَيرَةَ رضي الله عنه أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ: ((مَنْ صَلَّى عَلَيَّ وَاحِدَةً، صَلَّى الله عَلَيْهِ عَشْرًا))؛ رواه مسلم.",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8b5018df-cc3c-4c14-806d-10a544ac9795-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D9%87%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%86%D8%A8%D9%89.jpg",
-          "startMs": 1792714080000,
-          "endMs": 1792714140000
-        },
-        {
-          "title": "المصحف المرتل للقارئ الشيخ محمد صديق المنشاوي",
-          "description": "{ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا } المزمل 4",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/f9561421-1a00-4196-b008-9e8d17aa0091-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%84%20%D9%84%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%89.jpg",
-          "startMs": 1792714200000,
-          "endMs": 1792715940000
-        },
-        {
-          "title": "الصلاة على النبي صلى الله عليه وسلم",
-          "description": "عَن أَبِي هُرَيرَةَ رضي الله عنه أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ: ((مَنْ صَلَّى عَلَيَّ وَاحِدَةً، صَلَّى الله عَلَيْهِ عَشْرًا))؛ رواه مسلم.",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8b5018df-cc3c-4c14-806d-10a544ac9795-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D9%87%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%86%D8%A8%D9%89.jpg",
-          "startMs": 1792716000000,
-          "endMs": 1792716060000
-        },
-        {
-          "title": "المصحف المرتل للقارئ الشيخ محمد صديق المنشاوي",
-          "description": "{ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا } المزمل 4",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/f9561421-1a00-4196-b008-9e8d17aa0091-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%84%20%D9%84%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%89.jpg",
-          "startMs": 1792716120000,
-          "endMs": 1792717860000
-        },
-        {
-          "title": "الصلاة على النبي صلى الله عليه وسلم",
-          "description": "عَن أَبِي هُرَيرَةَ رضي الله عنه أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ: ((مَنْ صَلَّى عَلَيَّ وَاحِدَةً، صَلَّى الله عَلَيْهِ عَشْرًا))؛ رواه مسلم.",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8b5018df-cc3c-4c14-806d-10a544ac9795-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D9%87%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%86%D8%A8%D9%89.jpg",
-          "startMs": 1792717920000,
-          "endMs": 1792717980000
-        },
-        {
-          "title": "القرآن المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792718040000,
-          "endMs": 1792719420000
-        },
-        {
-          "title": "تسابيح",
-          "description": "تقديم  شحاتة العرابي",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/7b3ef674-8f49-466c-90e0-be32b4e147b0-%D8%AA%D8%B3%D8%A7%D8%A8%D9%8A%D8%AD.jpg",
-          "startMs": 1792719480000,
-          "endMs": 1792719720000
-        },
-        {
-          "title": "تواشيح دينية",
-          "description": "فاصل من التواشيح الدينية لأحد كبار المبتهلين وبطانته",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/e81660d3-b21f-4aaf-8e88-d27ed2285ecf-%D8%AA%D9%88%D8%A7%D8%B4%D9%8A%D8%AD%20%D8%AF%D9%8A%D9%86%D9%8A%D8%A9.jpeg",
-          "startMs": 1792719780000,
-          "endMs": 1792719960000
-        },
-        {
-          "title": "صلاة الفجر",
-          "description": "{أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ وَقُرْآنَ الْفَجْرِ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا}.. [الإسراء: 78]\r\n  صلاة الفجر من رحاب الجامع الأزهر الشريف",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/6e404947-fcef-40f4-933f-c0e77df66fc1-%D8%B4%D8%B9%D8%A7%D8%A6%D8%B1%20%D8%B5%D9%84%D8%A7%D8%A9%20%D8%A7%D9%84%D9%81%D8%AC%D8%B1.webp",
-          "startMs": 1792720020000,
-          "endMs": 1792723980000
-        },
-        {
-          "title": "انفصال الموجات",
-          "description": "التنوية عن انفصال الموجات",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/d1ffbe04-58f7-47b4-935b-471e043d55e1-%D8%A7%D9%84%D8%AA%D9%86%D9%88%D9%8A%D9%87%20%D8%B9%D9%86%20%D8%A7%D9%86%D9%81%D8%B5%D8%A7%D9%84%20%D8%A7%D9%84%D9%85%D9%88%D8%AC%D8%A7%D8%AA.jpg",
-          "startMs": 1792724040000,
-          "endMs": 1792724100000
-        },
-        {
-          "title": "أذكار الصباح",
-          "description": "من دعاء النبى صلى الله عليه وسلم \" أصبحنا على فطرة الإسلام وكلِمة الإخلاص، ودين نبينا محمد صلى الله عليه وسلم، ومِلَّةِ أبينا إبراهيم، حنيفاً مسلماً، وما كان من المشركين\". رواه أحمد.",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/bb2eed97-498a-49b4-b7f8-290bc9b3332d-%D8%A7%D8%B0%D9%83%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD%20%281%29.jpg",
-          "startMs": 1792724160000,
-          "endMs": 1792724220000
-        },
-        {
-          "title": "الموجات والشروق",
-          "description": "التنويه عن الموجات والشروق + ابتهال",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/470af9cc-44c8-40a3-876a-d13831b49138-radio.jpeg",
-          "startMs": 1792724280000,
-          "endMs": 1792724340000
-        },
-        {
-          "title": "المصحف المرتل للقارئ الشيخ محمد صديق المنشاوي",
-          "description": "{ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا } المزمل 4",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/f9561421-1a00-4196-b008-9e8d17aa0091-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%84%20%D9%84%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%89.jpg",
-          "startMs": 1792724400000,
-          "endMs": 1792726140000
-        },
-        {
-          "title": "بريد الإسلام",
-          "description": "برنامج يجيب عن أسئلة واستفسارات المستمعين فى مختلف مسائل الفقه والفتوى",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/b4010d05-c8d2-4c92-87ea-b6d708b23618-%D8%A8%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85.jpg",
-          "startMs": 1792726200000,
-          "endMs": 1792726740000
-        },
-        {
-          "title": "القرآن المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792726800000,
-          "endMs": 1792727040000
-        },
-        {
-          "title": "دلالات في ختام الآيات",
-          "description": "يقدم البرنامج أهم الدلالات البلاغية واللغوية مع تفسير خواتيم الآيات القرآنية \r\nتقديم خالد عبد القادر الزنفلي",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/fee63fde-379b-45e7-9a7d-c30fec2c77c1-%D8%AF%D9%84%D8%A7%D9%84%D8%A7%D8%AA%20%D9%81%20%D8%AE%D8%AA%D8%A7%D9%85%20%D8%A7%D9%84%D8%A7%D9%8A%D8%A7%D8%AA.jpg",
-          "startMs": 1792727100000,
-          "endMs": 1792727340000
-        },
-        {
-          "title": "حديث الصباح",
-          "description": "يقدم البرنامج أحاديث  متعلقة بأركان الإسلام وأخلاقيات المسلم بصوت كبار العلماء\r\nتقديم محمد عبد الحق",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/b3e4ed85-5eb2-48b3-97fd-be932384cceb-%D8%AD%D8%AF%D9%8A%D8%AB%20%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD.jpg",
-          "startMs": 1792727400000,
-          "endMs": 1792727580000
-        },
-        {
-          "title": "الصلاة على النبي صلى الله عليه وسلم",
-          "description": "عَن أَبِي هُرَيرَةَ رضي الله عنه أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ: ((مَنْ صَلَّى عَلَيَّ وَاحِدَةً، صَلَّى الله عَلَيْهِ عَشْرًا))؛ رواه مسلم.",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8b5018df-cc3c-4c14-806d-10a544ac9795-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D9%87%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%86%D8%A8%D9%89.jpg",
-          "startMs": 1792727640000,
-          "endMs": 1792727700000
-        },
-        {
-          "title": "دعاء الخروج من المنزل",
-          "description": "قال النبي صلى الله عليه وسلم : إذا خرج الرجل من بيته فقال: بسم الله توكلت على الله ولا حول ولا قوة إلا بالله قال: يقال حينئذ: هديت وكفيت ووقيت فتتنحى له الشياطين، فيقول له شيطان آخر: كيف لك برجل قد هدي وكفي ووقي.",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/e45bbb72-a281-421e-a5cc-8662d05ea83e-%D8%AF%D8%B9%D8%A7%D8%A1%20%D8%A7%D9%84%D8%AE%D8%B1%D9%88%D8%AC.jpg",
-          "startMs": 1792727760000,
-          "endMs": 1792727820000
-        },
-        {
-          "title": "الموجات",
-          "description": "التنويه عن الموجات",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/6a03899e-721c-4fd4-96a3-cf34003594c0-%D8%A7%D9%84%D8%AA%D9%86%D9%88%D9%8A%D9%87%20%D8%B9%D9%86%20%D8%A7%D9%84%D8%A7%D8%B1%D8%B3%D8%A7%D9%84.jpg",
-          "startMs": 1792727880000,
-          "endMs": 1792727940000
-        },
-        {
-          "title": "القرآن المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792728000000,
-          "endMs": 1792729740000
-        },
-        {
-          "title": "فى ظلال الهدي النبوي",
-          "description": "برنامج يقدم شرحا للأحاديث النبوية الشريفة ويستضيف البرنامج فضيلة أ.د أحمد عمر هاشم",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c70cff56-3b70-441c-972e-bc233c689653-%D9%81%D9%89%20%D8%B8%D9%84%D8%A7%D9%84%20%D8%A7%D9%84%D9%87%D8%AF%D9%89%20%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%89.jpg",
-          "startMs": 1792729800000,
-          "endMs": 1792730340000
-        },
-        {
-          "title": "ابتهال",
-          "description": "فاصل من الابتهالات الدينية",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c0e28a89-45ea-4e40-9d87-46f4e4ee14de-WhatsApp%20Image%202025-04-11%20at%204.27.48%20PM.jpeg",
-          "startMs": 1792730400000,
-          "endMs": 1792730640000
-        },
-        {
-          "title": "خواطر الشيخ محمد متولي الشعراوي",
-          "description": "تقديم عماد الدين عبد الخالق",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c3ddf07f-9bcc-47d6-949d-ebc4e3ddb54f-%D9%85%D9%86%20%D8%AE%D9%88%D8%A7%D8%B7%D8%B1%20%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85%20%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D8%A7%D9%88%D9%89.jpg",
-          "startMs": 1792730700000,
-          "endMs": 1792731420000
-        },
-        {
-          "title": "دقيقة فقهية",
-          "description": "تقديم :د حسن سليمان - الضيف :د مجدى عاشور",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/cdfc24ed-bf1e-404b-bef2-59cadae84b17-WhatsApp%20Image%202025-11-08%20at%208.50.24%20PM%20%281%29.jpeg",
-          "startMs": 1792731480000,
-          "endMs": 1792731540000
-        },
-        {
-          "title": "القرآن المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792731600000,
-          "endMs": 1792733220000
-        },
-        {
-          "title": "منبر الفكر",
-          "description": "يتناول أهم القضايا المجتمعية نظرة الإسلام إليها مثل قضايا التطرف وتصحيح المفاهيم المغلوطة\r\nتقديم  محمد عبد الحق",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/16e6176e-1c64-4938-b3e3-21e314b46b2b-%D9%85%D9%86%D8%A8%D8%B1%20%D8%A7%D9%84%D9%81%D9%83%D8%B1.jpg",
-          "startMs": 1792733400000,
-          "endMs": 1792733700000
-        },
-        {
-          "title": "عرض لبعض فقرات البرنامج اليومي والتلاوات القرآنية",
-          "description": "يقدمه مذيع الهواء",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/09b4f5e1-8dbc-4b2b-9338-b4b73450486c-radio.jpeg",
-          "startMs": 1792733760000,
-          "endMs": 1792733820000
-        },
-        {
-          "title": "القرآن المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792733880000,
-          "endMs": 1792734720000
-        },
-        {
-          "title": "ربط",
-          "description": "إطلالة على محتوى برامج اليوم",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c8eb29a9-59d1-4bbf-a82d-3fefbf230b17-%D9%81%D9%82%D8%B1%D8%A7%D8%AA%20%D8%B1%D8%A8%D8%B7.webp",
-          "startMs": 1792734780000,
-          "endMs": 1792734840000
-        },
-        {
-          "title": "المصحف المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/5f424620-0913-480c-9be2-6dc9dedb5bdf-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792734900000,
-          "endMs": 1792737180000
-        },
-        {
-          "title": "سئل فأجاب",
-          "description": "يتناول سؤال وجه للنبى مع الإجابة عليه ورقائق ومواقف للصحابة والتابعين \r\nتقديم د محمد مصطفى يحيى",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/d6052058-a78b-44ce-aaf2-4d8621004a6c-%D8%B3%D8%A6%D9%84%20%D9%81%D8%A7%D8%AC%D8%A7%D8%A8.jpg",
-          "startMs": 1792737240000,
-          "endMs": 1792737360000
-        },
-        {
-          "title": "ومضة تفسيرية",
-          "description": "يتضمن هذا البرنامج تفسيرا لبعض معاني آيات القرآن الكريم - تقديم د. حسن سليمان - الضيف د: عصام الروبي من علماء الأزهر الشريف",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ae4a2f2d-2fc3-47fe-86cd-f0706c18566f-%D9%88%D9%85%D8%B6%D8%A9%20%D8%AA%D9%81%D8%B3%D9%8A%D8%B1%D9%8A%D8%A9%20Image%202025-11-12%20at%2011.21.47%20AM%20%281%29.jpeg",
-          "startMs": 1792737420000,
-          "endMs": 1792737540000
-        },
-        {
-          "title": "ابتهال",
-          "description": "فاصل من الابتهالات الدينية",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c0e28a89-45ea-4e40-9d87-46f4e4ee14de-WhatsApp%20Image%202025-04-11%20at%204.27.48%20PM.jpeg",
-          "startMs": 1792737600000,
-          "endMs": 1792737840000
-        },
-        {
-          "title": "القرآن المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792737900000,
-          "endMs": 1792738440000
-        },
-        {
-          "title": "تقدمة التلاوة",
-          "description": "تفسير لآيات الذكر الحكيم يقدمها كبار العلماء والمفسرين",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/f0c64b36-5c99-4f9f-810c-73ebd982ce15-WhatsApp%20Image%202025-11-15%20at%202.39.26%20PM.jpeg",
-          "startMs": 1792738500000,
-          "endMs": 1792738740000
-        },
-        {
-          "title": "المصحف المرتل للقارئ الشيخ مصطفى إسماعيل",
-          "description": "{ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا } المزمل 4",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/f477cd80-fdcd-477a-827a-023b8b232d0e-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%84%20%D9%84%D9%84%D9%82%D8%A7%D8%B1%D9%8A%D8%A1%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D9%85%D8%B5%D8%B7%D9%81%D9%8A%20%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84.jpg",
-          "startMs": 1792738800000,
-          "endMs": 1792741260000
-        },
-        {
-          "title": "من كنوز المعرفة",
-          "description": "إعداد أمل سعد",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/fd806478-59c3-4397-bc75-81e90b3a5c51-WhatsApp%20Image%202025-12-09%20at%208.54.41%20AM%20%286%29.jpeg",
-          "startMs": 1792741320000,
-          "endMs": 1792741560000
-        },
-        {
-          "title": "المصحف المرتل للقارئ الشيخ محمد صديق المنشاوي",
-          "description": "{ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا } المزمل 4",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/f9561421-1a00-4196-b008-9e8d17aa0091-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%84%20%D9%84%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%89.jpg",
-          "startMs": 1792741620000,
-          "endMs": 1792743420000
-        },
-        {
-          "title": "لقاء الإيمان",
-          "description": "نركز فيه على القضايا المهمة والمؤثرة فى حياة المجتمع ونحرص على ضبط السلوك وتوجيه الأخلاق وتربية النفوس على قيم الإسلام السمحة\r\nتقديم د كمال نصر الدين - مع ضيفه أ.د شوقى علام مفتى الجمهورية السابق",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/25ed8da8-2d15-4a1a-8ce7-93847b1bb375-%D9%84%D9%82%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D9%8A%D9%85%D8%A7%D9%86%20%20%20PM.jpeg",
-          "startMs": 1792743480000,
-          "endMs": 1792744020000
-        },
-        {
-          "title": "القرآن المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792744080000,
-          "endMs": 1792744320000
-        },
-        {
-          "title": "كلمات من نور",
-          "description": "تقديم  محمد أبو الوفا",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/653554ec-5a05-45f7-951a-d1510c059e68-%D9%83%D9%84%D9%85%D8%A7%D8%AA%20%D9%85%D9%86%20%D9%86%D9%88%D8%B1.jpg",
-          "startMs": 1792744380000,
-          "endMs": 1792744620000
-        },
-        {
-          "title": "القرآن المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792744680000,
-          "endMs": 1792744920000
-        },
-        {
-          "title": "الدين القيم",
-          "description": "يتحدث البرنامح عن أخلاق الإسلام وتشريعاته التي تهذب النفس البشرية",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/b732afea-adee-442c-9fec-51794d64e60f-%D8%A7%D9%84%D8%AF%D9%8A%D9%86%20%D8%A7%D9%84%D9%82%D9%8A%D9%85.jpg",
-          "startMs": 1792744980000,
-          "endMs": 1792745520000
-        },
-        {
-          "title": "القرآن المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792745580000,
-          "endMs": 1792745820000
-        },
-        {
-          "title": "من أقوال الرسول (صلى الله عليه وسلم)",
-          "description": "قراءة يومية لعدد من أحاديث رسول الله صلى الله عليه وسلم تقديم د حسن مدني",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8e857361-a2da-423e-9fa1-0aaf4aad2c6a-%D9%85%D9%86%20%D8%A7%D9%82%D9%88%D8%A7%D9%84%20%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%84.jpg",
-          "startMs": 1792745880000,
-          "endMs": 1792745940000
-        },
-        {
-          "title": "الصلاة على النبي صلى الله عليه وسلم",
-          "description": "عَن أَبِي هُرَيرَةَ رضي الله عنه أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ: ((مَنْ صَلَّى عَلَيَّ وَاحِدَةً، صَلَّى الله عَلَيْهِ عَشْرًا))؛ رواه مسلم.",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8b5018df-cc3c-4c14-806d-10a544ac9795-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D9%87%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%86%D8%A8%D9%89.jpg",
-          "startMs": 1792746000000,
-          "endMs": 1792746060000
-        },
-        {
-          "title": "ابتهال",
-          "description": "فاصل من الابتهالات الدينية",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c0e28a89-45ea-4e40-9d87-46f4e4ee14de-WhatsApp%20Image%202025-04-11%20at%204.27.48%20PM.jpeg",
-          "startMs": 1792746120000,
-          "endMs": 1792746240000
-        },
-        {
-          "title": "نقل صلاة الجمعة",
-          "description": "{ يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَى ذِكْرِ اللَّهِ وَذَرُوا الْبَيْعَ ذَلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ } الآية 9 من سورة الجمعة",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/858164a9-90da-46f9-af15-f6c0bdc75d91-%D8%B4%D8%B9%D8%A7%D8%A6%D8%B1%20%D8%B5%D9%84%D8%A7%D9%87%20%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D9%87.jpg",
-          "startMs": 1792746300000,
-          "endMs": 1792750440000
-        },
-        {
-          "title": "تواشيح دينية",
-          "description": "فاصل من التواشيح الدينية لأحد كبار المبتهلين وبطانته",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/e81660d3-b21f-4aaf-8e88-d27ed2285ecf-%D8%AA%D9%88%D8%A7%D8%B4%D9%8A%D8%AD%20%D8%AF%D9%8A%D9%86%D9%8A%D8%A9.jpeg",
-          "startMs": 1792750500000,
-          "endMs": 1792750740000
-        },
-        {
-          "title": "كتابات إسلامية",
-          "description": "يعرض البرنامج مقالا دينيا نُشر بإحدى المجلات الدينية أو المواقع الإسلامية",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/0e27cc2b-321a-47b8-b469-4ee29ae6b1c6-%D9%83%D8%AA%D8%A7%D8%A8%D8%A7%D8%AA%20%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D9%87%20%283%29.jpg",
-          "startMs": 1792750800000,
-          "endMs": 1792751040000
-        },
-        {
-          "title": "القرآن المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792751100000,
-          "endMs": 1792752840000
-        },
-        {
-          "title": "طلائع الإيمان",
-          "description": "يستضيف البرنامج أطفالا وشبابا من حفظة القرآن وأصحاب المواهب، لتشجيعهم على الإبداع والالتزام بدينهم",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/4e776d5d-8584-4b0b-85b2-e7e8197e91ac-8de764d8-6548-47ad-ac98-8c69c24a5d33-WhatsApp%20Image%202025-01-02%20at%205.14.28%20PM.jpeg",
-          "startMs": 1792752900000,
-          "endMs": 1792753440000
-        },
-        {
-          "title": "القرآن المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792753500000,
-          "endMs": 1792755240000
-        },
-        {
-          "title": "الأسرة والمجتمع",
-          "description": "برنامج يتناول كل ما يخص الأسرة المسلمة وتربية الأبناء",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/6032d0e2-c2da-47da-bcbf-d47a1c1c86f4-%D8%A7%D9%84%D8%A7%D8%B3%D8%B1%D8%A9%20%D9%88%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B92.jpg",
-          "startMs": 1792755300000,
-          "endMs": 1792755840000
-        },
-        {
-          "title": "القرآن المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792755900000,
-          "endMs": 1792756440000
-        },
-        {
-          "title": "رسالة إلى الشباب",
-          "description": "تقديم د. علاء عرابي",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/807dcb67-ca04-44ed-a088-742639a8e573-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9%20%D8%A5%D9%84%D9%89%20%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8.webp",
-          "startMs": 1792756500000,
-          "endMs": 1792756740000
-        },
-        {
-          "title": "القرآن المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792756800000,
-          "endMs": 1792757040000
-        },
-        {
-          "title": "سئل فأجاب",
-          "description": "يتناول سؤال وجه للنبى مع الإجابة عليه ورقائق ومواقف للصحابة والتابعين \r\nتقديم د محمد مصطفى يحيى",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/d6052058-a78b-44ce-aaf2-4d8621004a6c-%D8%B3%D8%A6%D9%84%20%D9%81%D8%A7%D8%AC%D8%A7%D8%A8.jpg",
-          "startMs": 1792757100000,
-          "endMs": 1792757220000
-        },
-        {
-          "title": "من أقوال الرسول (صلى الله عليه وسلم)",
-          "description": "قراءة يومية لعدد من أحاديث رسول الله صلى الله عليه وسلم تقديم د حسن مدني",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8e857361-a2da-423e-9fa1-0aaf4aad2c6a-%D9%85%D9%86%20%D8%A7%D9%82%D9%88%D8%A7%D9%84%20%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%84.jpg",
-          "startMs": 1792757280000,
-          "endMs": 1792757340000
-        },
-        {
-          "title": "الصلاة على النبي صلى الله عليه وسلم",
-          "description": "عَن أَبِي هُرَيرَةَ رضي الله عنه أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ: ((مَنْ صَلَّى عَلَيَّ وَاحِدَةً، صَلَّى الله عَلَيْهِ عَشْرًا))؛ رواه مسلم.",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8b5018df-cc3c-4c14-806d-10a544ac9795-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D9%87%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%86%D8%A8%D9%89.jpg",
-          "startMs": 1792757400000,
-          "endMs": 1792757460000
-        },
-        {
-          "title": "تقدمة التلاوة",
-          "description": "تفسير لآيات الذكر الحكيم يقدمها كبار العلماء والمفسرين",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/f0c64b36-5c99-4f9f-810c-73ebd982ce15-WhatsApp%20Image%202025-11-15%20at%202.39.26%20PM.jpeg",
-          "startMs": 1792757520000,
-          "endMs": 1792757760000
-        },
-        {
-          "title": "المصحف المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/5f424620-0913-480c-9be2-6dc9dedb5bdf-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792757820000,
-          "endMs": 1792759560000
-        },
-        {
-          "title": "ابتهال",
-          "description": "فاصل من الابتهالات الدينية",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c0e28a89-45ea-4e40-9d87-46f4e4ee14de-WhatsApp%20Image%202025-04-11%20at%204.27.48%20PM.jpeg",
-          "startMs": 1792759620000,
-          "endMs": 1792759800000
-        },
-        {
-          "title": "أذان العصر",
-          "description": "حسب التوقيت المحلي لمدينة القاهرة",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/f25468bf-0ec1-4fc8-aefe-6edf674f2db2-%D8%A3%D8%B0%D8%A7%D9%86%20%D8%A7%D9%84%D8%B9%D8%B5%D8%B1.jpeg",
-          "startMs": 1792759860000,
-          "endMs": 1792760040000
-        },
-        {
-          "title": "دعاء ختم الأذان للشيخ محمد متولي الشعراوي",
-          "description": "\"اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلَاةِ الْقَائِمَةِ، آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ، حَلَّتْ لَهُ شَفَاعَتِي يَوْمَ الْقِيَامَةِ\".",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/fea41ec4-6d3e-4a5f-a63b-cd9a7f20d717-%D8%AF%D8%B9%D8%A7%D8%A1%20%D8%AE%D8%AA%D9%85%20%D8%A7%D9%84%D8%A7%D8%B0%D8%A7%D9%86%20%D9%84%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D8%A7%D9%88%D9%8A.jpeg",
-          "startMs": 1792760100000,
-          "endMs": 1792760160000
-        },
-        {
-          "title": "القرآن المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792760220000,
-          "endMs": 1792760700000
-        },
-        {
-          "title": "دقيقة فقهية",
-          "description": "تقديم :د حسن سليمان - الضيف :د مجدى عاشور",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/cdfc24ed-bf1e-404b-bef2-59cadae84b17-WhatsApp%20Image%202025-11-08%20at%208.50.24%20PM%20%281%29.jpeg",
-          "startMs": 1792760760000,
-          "endMs": 1792760820000
-        },
-        {
-          "title": "مع القرآن الكريم",
-          "description": "يقدم البرنامج تفسيرا ميسرا لكتاب الله تعالى بصوت أ.د محمد سيد طنطاوى شيخ الأزهر السابق \r\nتقديم  سعد المطعني",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/bb76050d-39ff-4580-82e6-b38cbaef64cd-%D9%85%D8%B9%20%D8%A7%D9%84%D9%82%D8%B1%D8%A3%D9%86%20%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.jpg",
-          "startMs": 1792760880000,
-          "endMs": 1792761540000
-        },
-        {
-          "title": "فترة بين السائل والفقيه",
-          "description": "فترة مفتوحة على الهواء تجيب على أسئلة المستمعين في مختلف مسائل الفتوى وتستضيف أساتذة الفقه من جامعة الأزهر ودار الإفتاء المصرية",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/d5bea876-f464-4283-83cc-7dfdfa57b5d4-%D8%A8%D9%80%D9%8A%D9%86%20%D8%A7%D9%84%D8%B3%D8%A7%D8%A6%D9%84%20%D9%88%D8%A7%D9%84%D9%81%D9%82%D9%8A%D9%87.jpg",
-          "startMs": 1792761600000,
-          "endMs": 1792764240000
-        },
-        {
-          "title": "ليعلموا",
-          "description": "تقديم الدكتور محمد عبد الدايم الجندي ( أمين عام مجمع البحوث الإسلامية )",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/9ef3e105-0e4b-4430-a939-373edc97244e-%D9%84%D9%8A%D8%B9%D9%84%D9%85%D9%88%D8%A7%20Image%20%20at%20%20PM.jpeg",
-          "startMs": 1792764300000,
-          "endMs": 1792764540000
-        },
-        {
-          "title": "القرآن المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792764600000,
-          "endMs": 1792765440000
-        },
-        {
-          "title": "أذكار المساء",
-          "description": "قال رسول الله صلى الله عليه وسلم  \" اللّهُـمَّ ما أَمسى بي مِـنْ نِعْـمَةٍ أَو بِأَحَـدٍ مِـنْ خَلْـقِك ، فَمِـنْكَ وَحْـدَكَ لا شريكَ لَـك ، فَلَـكَ الْحَمْـدُ وَلَـكَ الشُّكْـر.\r\nمن قالها حين يمسى أدى شكر يومه\"",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/770e6c1c-1ea9-4a4a-9cb1-39bb1e72da05-%D8%A7%D8%B0%D9%83%D8%A7%D8%B1%20%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A1.jpg",
-          "startMs": 1792765500000,
-          "endMs": 1792765560000
-        },
-        {
-          "title": "من أقوال الرسول (صلى الله عليه وسلم)",
-          "description": "قراءة يومية لعدد من أحاديث رسول الله صلى الله عليه وسلم تقديم د حسن مدني",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8e857361-a2da-423e-9fa1-0aaf4aad2c6a-%D9%85%D9%86%20%D8%A7%D9%82%D9%88%D8%A7%D9%84%20%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%84.jpg",
-          "startMs": 1792765620000,
-          "endMs": 1792765680000
-        },
-        {
-          "title": "الصلاة على النبي صلى الله عليه وسلم",
-          "description": "عَن أَبِي هُرَيرَةَ رضي الله عنه أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ: ((مَنْ صَلَّى عَلَيَّ وَاحِدَةً، صَلَّى الله عَلَيْهِ عَشْرًا))؛ رواه مسلم.",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8b5018df-cc3c-4c14-806d-10a544ac9795-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D9%87%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%86%D8%A8%D9%89.jpg",
-          "startMs": 1792765740000,
-          "endMs": 1792765800000
-        },
-        {
-          "title": "ابتهال",
-          "description": "فاصل من الابتهالات الدينية",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c0e28a89-45ea-4e40-9d87-46f4e4ee14de-WhatsApp%20Image%202025-04-11%20at%204.27.48%20PM.jpeg",
-          "startMs": 1792765860000,
-          "endMs": 1792765980000
-        },
-        {
-          "title": "قرآن المغرب",
-          "description": "تلاوة قرآنية مجودة لآيات الذكر الحكيم",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/928c6e78-44a4-4db0-a2ae-f26bc10f6e16-%D9%82%D8%B1%D8%A2%D9%86%20%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8.webp",
-          "startMs": 1792766040000,
-          "endMs": 1792768500000
-        },
-        {
-          "title": "أذان المغرب",
-          "description": "حسب التوقيت المحلي لمدينة القاهرة",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/5ae92fe9-8c40-4596-ad48-2fb33a8e8995-%D8%A7%D8%B0%D8%A7%D9%86%20%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%20%281%29.jpg",
-          "startMs": 1792768560000,
-          "endMs": 1792768740000
-        },
-        {
-          "title": "دعاء ختم الأذان للشيخ محمد متولي الشعراوي",
-          "description": "\"اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلَاةِ الْقَائِمَةِ، آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ، حَلَّتْ لَهُ شَفَاعَتِي يَوْمَ الْقِيَامَةِ\".",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/fea41ec4-6d3e-4a5f-a63b-cd9a7f20d717-%D8%AF%D8%B9%D8%A7%D8%A1%20%D8%AE%D8%AA%D9%85%20%D8%A7%D9%84%D8%A7%D8%B0%D8%A7%D9%86%20%D9%84%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D8%A7%D9%88%D9%8A.jpeg",
-          "startMs": 1792768800000,
-          "endMs": 1792768860000
-        },
-        {
-          "title": "القرآن المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792768920000,
-          "endMs": 1792769400000
-        },
-        {
-          "title": "علوم السنة",
-          "description": "يتناول دراسة سنة النبي صلى الله عليه وسلم من خلال سند ومتن الحديث  من حيث صحة الأحاديث وضعفها- والرد على الشبهات الي تثار حول السنة وتوضيح وبيان مصطلحات الحديث.\r\nإعداد وتقديم : محمد جمعة",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/f4a3b6ac-40e6-4548-a9bd-37395cb9e2fb-%D8%B9%D9%84%D9%88%D9%85%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%20at%20%20AM.webp",
-          "startMs": 1792769460000,
-          "endMs": 1792770000000
-        },
-        {
-          "title": "ربط",
-          "description": "إطلالة على محتوى برامج اليوم",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c8eb29a9-59d1-4bbf-a82d-3fefbf230b17-%D9%81%D9%82%D8%B1%D8%A7%D8%AA%20%D8%B1%D8%A8%D8%B7.webp",
-          "startMs": 1792770060000,
-          "endMs": 1792770120000
-        },
-        {
-          "title": "تقدمة التلاوة",
-          "description": "تفسير لآيات الذكر الحكيم يقدمها كبار العلماء والمفسرين",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/f0c64b36-5c99-4f9f-810c-73ebd982ce15-WhatsApp%20Image%202025-11-15%20at%202.39.26%20PM.jpeg",
-          "startMs": 1792770180000,
-          "endMs": 1792770420000
-        },
-        {
-          "title": "المصحف المرتل للقارئ الشيخ محمود خليل الحصري",
-          "description": "{ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا } المزمل 4",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/157e6128-cc9f-4992-b48a-92477bd25292-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%84%20%D9%84%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D8%AD%D8%B5%D8%B1%D9%8A.jpeg",
-          "startMs": 1792770480000,
-          "endMs": 1792772160000
-        },
-        {
-          "title": "وبشر الصابرين",
-          "description": "تقديم د. أحمد القاضي",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/55e81b8f-c5b4-4492-8271-614152a64b5a-%D9%88%D8%A8%D8%B4%D8%B1%20%D8%A7%D9%84%D8%B5%D8%A7%D8%A8%D8%B1%D9%8A%D9%86.jpg",
-          "startMs": 1792772220000,
-          "endMs": 1792773060000
-        },
-        {
-          "title": "ابتهال",
-          "description": "فاصل من الابتهالات الدينية",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c0e28a89-45ea-4e40-9d87-46f4e4ee14de-WhatsApp%20Image%202025-04-11%20at%204.27.48%20PM.jpeg",
-          "startMs": 1792773120000,
-          "endMs": 1792773180000
-        },
-        {
-          "title": "أذان العشاء",
-          "description": "حسب التوقيت المحلي لمدينة القاهرة",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/4d01c010-e676-41f1-ad48-7d1c6c4d0914-%D8%A7%D8%B0%D8%A7%D9%86%20%D8%A7%D9%84%D8%B9%D8%B4%D8%A7%D8%A1%20%281%29.jpg",
-          "startMs": 1792773240000,
-          "endMs": 1792773420000
-        },
-        {
-          "title": "دعاء ختم الأذان للشيخ محمد متولي الشعراوي",
-          "description": "\"اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلَاةِ الْقَائِمَةِ، آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ، حَلَّتْ لَهُ شَفَاعَتِي يَوْمَ الْقِيَامَةِ\".",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/fea41ec4-6d3e-4a5f-a63b-cd9a7f20d717-%D8%AF%D8%B9%D8%A7%D8%A1%20%D8%AE%D8%AA%D9%85%20%D8%A7%D9%84%D8%A7%D8%B0%D8%A7%D9%86%20%D9%84%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D8%A7%D9%88%D9%8A.jpeg",
-          "startMs": 1792773480000,
-          "endMs": 1792773540000
-        },
-        {
-          "title": "القرآن المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792773600000,
-          "endMs": 1792774380000
-        },
-        {
-          "title": "كتابات إسلامية",
-          "description": "يعرض البرنامج مقالا دينيا نُشر بإحدى المجلات الدينية أو المواقع الإسلامية",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/0e27cc2b-321a-47b8-b469-4ee29ae6b1c6-%D9%83%D8%AA%D8%A7%D8%A8%D8%A7%D8%AA%20%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D9%87%20%283%29.jpg",
-          "startMs": 1792774440000,
-          "endMs": 1792774680000
-        },
-        {
-          "title": "الدين المعاملة",
-          "description": "يتحدث البرنامج عن الأخلاق والمعاملات الإسلامية",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/6ad5b883-2705-49ac-ad2d-35bb77326a1f-%D8%A7%D9%84%D8%AF%D9%8A%D9%86%20%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87.jpg",
-          "startMs": 1792774740000,
-          "endMs": 1792775280000
-        },
-        {
-          "title": "القرآن المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792775340000,
-          "endMs": 1792776180000
-        },
-        {
-          "title": "المصحف المعلم",
-          "description": "شرح لأحكام تلاوة القرآن الكريم برواية حفص عن عاصم",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/19ecc574-b8d9-4148-9f7e-0d01d1144535-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85%20%20Image%202025-11-27%20at%204.29.21%20PM.jpeg",
-          "startMs": 1792776240000,
-          "endMs": 1792776780000
-        },
-        {
-          "title": "ومضة تفسيرية",
-          "description": "يتضمن هذا البرنامج تفسيرا لبعض معاني آيات القرآن الكريم - تقديم د. حسن سليمان - الضيف د: عصام الروبي من علماء الأزهر الشريف",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ae4a2f2d-2fc3-47fe-86cd-f0706c18566f-%D9%88%D9%85%D8%B6%D8%A9%20%D8%AA%D9%81%D8%B3%D9%8A%D8%B1%D9%8A%D8%A9%20Image%202025-11-12%20at%2011.21.47%20AM%20%281%29.jpeg",
-          "startMs": 1792776840000,
-          "endMs": 1792776960000
-        },
-        {
-          "title": "ربط",
-          "description": "إطلالة على محتوى برامج اليوم",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c8eb29a9-59d1-4bbf-a82d-3fefbf230b17-%D9%81%D9%82%D8%B1%D8%A7%D8%AA%20%D8%B1%D8%A8%D8%B7.webp",
-          "startMs": 1792777020000,
-          "endMs": 1792777080000
-        },
-        {
-          "title": "تقدمة التلاوة",
-          "description": "تفسير لآيات الذكر الحكيم يقدمها كبار العلماء والمفسرين",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/f0c64b36-5c99-4f9f-810c-73ebd982ce15-WhatsApp%20Image%202025-11-15%20at%202.39.26%20PM.jpeg",
-          "startMs": 1792777140000,
-          "endMs": 1792777380000
-        },
-        {
-          "title": "المصحف المرتل للقارئ الشيخ عبد الباسط عبد الصمد",
-          "description": "{ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا } المزمل 4",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/dbf3c1df-bf58-4d06-83df-9b4ef85e29a3-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%84%20%D9%84%D9%84%D9%82%D8%A7%D8%B1%D9%8A%D8%A1%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D8%B7%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B5%D9%85%D8%AF.jpg",
-          "startMs": 1792777440000,
-          "endMs": 1792778820000
-        },
-        {
-          "title": "حديث ديني",
-          "description": "\"إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ\" (فاطر: 28)",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/608304b0-f720-4d72-90c2-a29a32583edf-%D8%AD%D8%AF%D9%8A%D8%AB%20%D8%AF%D9%8A%D9%86%D9%8A.jpg",
-          "startMs": 1792778880000,
-          "endMs": 1792779120000
-        },
-        {
-          "title": "القرآن المجود",
-          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1792779180000,
-          "endMs": 1792780020000
-        },
-        {
-          "title": "الصلاة على النبي صلى الله عليه وسلم",
-          "description": "عَن أَبِي هُرَيرَةَ رضي الله عنه أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ: ((مَنْ صَلَّى عَلَيَّ وَاحِدَةً، صَلَّى الله عَلَيْهِ عَشْرًا))؛ رواه مسلم.",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8b5018df-cc3c-4c14-806d-10a544ac9795-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D9%87%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%86%D8%A8%D9%89.jpg",
-          "startMs": 1792780080000,
-          "endMs": 1792780140000
-        },
-        {
-          "title": "المصحف المرتل للقارئ الشيخ محمد صديق المنشاوي",
-          "description": "{ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا } المزمل 4",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/f9561421-1a00-4196-b008-9e8d17aa0091-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%84%20%D9%84%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%89.jpg",
-          "startMs": 1792780200000,
-          "endMs": 1792781940000
-        },
-        {
-          "title": "الموجات",
-          "description": "التنويه عن الموجات",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/6a03899e-721c-4fd4-96a3-cf34003594c0-%D8%A7%D9%84%D8%AA%D9%86%D9%88%D9%8A%D9%87%20%D8%B9%D9%86%20%D8%A7%D9%84%D8%A7%D8%B1%D8%B3%D8%A7%D9%84.jpg",
-          "startMs": 1792782000000,
-          "endMs": 1792782060000
-        },
-        {
-          "title": "بريد الإسلام",
-          "description": "برنامج يجيب عن أسئلة واستفسارات المستمعين فى مختلف مسائل الفقه والفتوى",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/b4010d05-c8d2-4c92-87ea-b6d708b23618-%D8%A8%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85.jpg",
-          "startMs": 1792782120000,
-          "endMs": 1792782660000
-        },
-        {
-          "title": "ابتهال",
-          "description": "فاصل من الابتهالات الدينية",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c0e28a89-45ea-4e40-9d87-46f4e4ee14de-WhatsApp%20Image%202025-04-11%20at%204.27.48%20PM.jpeg",
-          "startMs": 1792782720000,
-          "endMs": 1792782840000
-        },
-        {
-          "title": "الأمسية الدينية",
-          "description": "أمسية دينية سجلت بأحد المساجد فيها تلاوة قرآنية مباركة وفاصل من الابتهال الديني وكلمة لأحد العلماء",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/89662f30-452c-4ddc-8a59-606bf65b1d76-%D8%A3%D9%85%D8%B3%D9%8A%D8%A9%20%D8%AF%D9%8A%D9%86%D9%8A%D8%A9.jpeg",
-          "startMs": 1792782900000,
-          "endMs": 1792785540000
-        },
-        {
-          "title": "قطوف من حدائق الإيمان - م",
-          "description": "يقدم البرنامج قطوفا من الحكم والعظات والمواقف  والأدعية التى تبث فى النفس راحة وطمأنينة ورضا .",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c7ae3451-4387-416b-bd83-826806fa0efe-%D9%82%D8%B7%D9%88%D9%81%20%D9%85%D9%86%20%D8%AD%D8%AF%D8%A7%D8%A6%D9%82%20%D8%A7%D9%84%D8%A7%D9%8A%D9%85%D8%A7%D9%86.jpeg",
-          "startMs": 1792785600000,
-          "endMs": 1792786140000
-        },
-        {
-          "title": "ابتهال",
-          "description": "فاصل من الابتهالات الدينية",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c0e28a89-45ea-4e40-9d87-46f4e4ee14de-WhatsApp%20Image%202025-04-11%20at%204.27.48%20PM.jpeg",
-          "startMs": 1792786200000,
-          "endMs": 1792786320000
-        },
-        {
-          "title": "قرآن السهرة",
-          "description": "تلاوة قرآنية مباركة لأحد كبار القراء",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/fbfbbd44-718e-4515-ab2c-819f20218b55-%D9%82%D8%B1%D8%A7%D9%86%20%D8%A7%D9%84%D8%B3%D9%87%D8%B1%D9%87.jpg",
-          "startMs": 1792786380000,
-          "endMs": 1792789020000
-        },
-        {
-          "title": "الموجات",
-          "description": "التنويه عن الموجات",
-          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/6a03899e-721c-4fd4-96a3-cf34003594c0-%D8%A7%D9%84%D8%AA%D9%86%D9%88%D9%8A%D9%87%20%D8%B9%D9%86%20%D8%A7%D9%84%D8%A7%D8%B1%D8%B3%D8%A7%D9%84.jpg",
-          "startMs": 1792789080000,
-          "endMs": 1792789140000
-        },
         {
           "title": "مع الصحابة والتابعين",
           "description": "يقدم البرنامج أهم الحكم والعبارات التى قالها الصحابة والتابعين مع بيان المواقف التى قيلت فيها والمعنى العام لهذه الأقوال\r\nتقديم عمر سلامة",
@@ -1772,6 +918,909 @@
           "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/6a03899e-721c-4fd4-96a3-cf34003594c0-%D8%A7%D9%84%D8%AA%D9%86%D9%88%D9%8A%D9%87%20%D8%B9%D9%86%20%D8%A7%D9%84%D8%A7%D8%B1%D8%B3%D8%A7%D9%84.jpg",
           "startMs": 1792875480000,
           "endMs": 1792875540000
+        },
+        {
+          "title": "مع الصحابة والتابعين",
+          "description": "يقدم البرنامج أهم الحكم والعبارات التى قالها الصحابة والتابعين مع بيان المواقف التى قيلت فيها والمعنى العام لهذه الأقوال\r\nتقديم عمر سلامة",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/dbb8c873-768b-4cd0-97ee-10c413678d52-%D9%85%D8%B9%20%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D8%A8%D9%87%20%D9%88%D8%A7%D9%84%D8%AA%D8%A7%D8%A8%D8%B9%D9%8A%D9%86.jpg",
+          "startMs": 1792875600000,
+          "endMs": 1792876020000
+        },
+        {
+          "title": "موسوعة الفقه الإسلامى",
+          "description": "عرض للمذاهب الفقهية المختلفة للقضايا الدينية بأسلوب ميسر مبسط\r\nتقديم د. هاجر سعد الدين",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/94480499-4e91-4510-8dd5-78129ca9bf55-%D9%85%D9%88%D8%B3%D9%88%D8%B9%D8%A9%20%D8%A7%D9%84%D9%81%D9%82%D9%87.jpg",
+          "startMs": 1792876080000,
+          "endMs": 1792876440000
+        },
+        {
+          "title": "القرآن المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792876500000,
+          "endMs": 1792878900000
+        },
+        {
+          "title": "الصلاة على النبي صلى الله عليه وسلم",
+          "description": "عَن أَبِي هُرَيرَةَ رضي الله عنه أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ: ((مَنْ صَلَّى عَلَيَّ وَاحِدَةً، صَلَّى الله عَلَيْهِ عَشْرًا))؛ رواه مسلم.",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8b5018df-cc3c-4c14-806d-10a544ac9795-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D9%87%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%86%D8%A8%D9%89.jpg",
+          "startMs": 1792878960000,
+          "endMs": 1792879020000
+        },
+        {
+          "title": "ربط",
+          "description": "إطلالة على محتوى برامج اليوم",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c8eb29a9-59d1-4bbf-a82d-3fefbf230b17-%D9%81%D9%82%D8%B1%D8%A7%D8%AA%20%D8%B1%D8%A8%D8%B7.webp",
+          "startMs": 1792879080000,
+          "endMs": 1792879140000
+        },
+        {
+          "title": "المصحف المرتل للقارئ الشيخ محمد صديق المنشاوي",
+          "description": "{ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا } المزمل 4",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/f9561421-1a00-4196-b008-9e8d17aa0091-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%84%20%D9%84%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%89.jpg",
+          "startMs": 1792879200000,
+          "endMs": 1792880820000
+        },
+        {
+          "title": "ابتهال",
+          "description": "فاصل من الابتهالات الدينية",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c0e28a89-45ea-4e40-9d87-46f4e4ee14de-WhatsApp%20Image%202025-04-11%20at%204.27.48%20PM.jpeg",
+          "startMs": 1792880880000,
+          "endMs": 1792881120000
+        },
+        {
+          "title": "الختمة المرتلة",
+          "description": "ختمة مرتلة تذاع يوميا بأصوات كبار القراء",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/9c057d45-4a9d-4851-914d-5bec013ab1a5-radio.jpeg",
+          "startMs": 1792881180000,
+          "endMs": 1792882980000
+        },
+        {
+          "title": "ربط",
+          "description": "إطلالة على محتوى برامج اليوم",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c8eb29a9-59d1-4bbf-a82d-3fefbf230b17-%D9%81%D9%82%D8%B1%D8%A7%D8%AA%20%D8%B1%D8%A8%D8%B7.webp",
+          "startMs": 1792883040000,
+          "endMs": 1792883100000
+        },
+        {
+          "title": "القرآن المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792883160000,
+          "endMs": 1792884840000
+        },
+        {
+          "title": "الصلاة على النبي صلى الله عليه وسلم",
+          "description": "عَن أَبِي هُرَيرَةَ رضي الله عنه أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ: ((مَنْ صَلَّى عَلَيَّ وَاحِدَةً، صَلَّى الله عَلَيْهِ عَشْرًا))؛ رواه مسلم.",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8b5018df-cc3c-4c14-806d-10a544ac9795-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D9%87%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%86%D8%A8%D9%89.jpg",
+          "startMs": 1792884900000,
+          "endMs": 1792884960000
+        },
+        {
+          "title": "القرآن المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792885020000,
+          "endMs": 1792885860000
+        },
+        {
+          "title": "قيم وسلوكيات",
+          "description": "شرح للسنن والأخلاق والأحاديث النبوية",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/f8b8f821-6f2e-42cb-93bb-3a819c94b5fc-%D9%82%D9%8A%D9%85%20%D9%88%D8%B3%D9%84%D9%88%D9%83%D9%8A%D8%A7%D8%AA.jpg",
+          "startMs": 1792885920000,
+          "endMs": 1792885980000
+        },
+        {
+          "title": "القرآن المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792886040000,
+          "endMs": 1792886880000
+        },
+        {
+          "title": "أدعية للشيخ الشعراوي",
+          "description": "فاصل من الدعاء بصوت الشيخ محمد متولي الشعراوي",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/d1ac42d9-65e4-4144-943b-3d6cdfc89205-%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D8%A7%D9%88%D9%89.jpg",
+          "startMs": 1792886940000,
+          "endMs": 1792887060000
+        },
+        {
+          "title": "المصحف المرتل للقارئ الشيخ محمد صديق المنشاوي",
+          "description": "{ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا } المزمل 4",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/f9561421-1a00-4196-b008-9e8d17aa0091-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%84%20%D9%84%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%89.jpg",
+          "startMs": 1792887120000,
+          "endMs": 1792888740000
+        },
+        {
+          "title": "الصلاة على النبي صلى الله عليه وسلم",
+          "description": "عَن أَبِي هُرَيرَةَ رضي الله عنه أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ: ((مَنْ صَلَّى عَلَيَّ وَاحِدَةً، صَلَّى الله عَلَيْهِ عَشْرًا))؛ رواه مسلم.",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8b5018df-cc3c-4c14-806d-10a544ac9795-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D9%87%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%86%D8%A8%D9%89.jpg",
+          "startMs": 1792888800000,
+          "endMs": 1792888920000
+        },
+        {
+          "title": "المصحف المرتل للقارئ الشيخ محمد صديق المنشاوي",
+          "description": "{ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا } المزمل 4",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/f9561421-1a00-4196-b008-9e8d17aa0091-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%84%20%D9%84%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%89.jpg",
+          "startMs": 1792888980000,
+          "endMs": 1792889940000
+        },
+        {
+          "title": "دعاء",
+          "description": "دعاء",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c2c72a6a-7ff2-4230-a85d-a7bf965470b2-radio.jpeg",
+          "startMs": 1792890000000,
+          "endMs": 1792890120000
+        },
+        {
+          "title": "القرآن المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792890180000,
+          "endMs": 1792890420000
+        },
+        {
+          "title": "ربط",
+          "description": "إطلالة على محتوى برامج اليوم",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c8eb29a9-59d1-4bbf-a82d-3fefbf230b17-%D9%81%D9%82%D8%B1%D8%A7%D8%AA%20%D8%B1%D8%A8%D8%B7.webp",
+          "startMs": 1792890480000,
+          "endMs": 1792890540000
+        },
+        {
+          "title": "القرآن المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792890600000,
+          "endMs": 1792892340000
+        },
+        {
+          "title": "تسابيح",
+          "description": "تقديم  شحاتة العرابي",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/7b3ef674-8f49-466c-90e0-be32b4e147b0-%D8%AA%D8%B3%D8%A7%D8%A8%D9%8A%D8%AD.jpg",
+          "startMs": 1792892400000,
+          "endMs": 1792892640000
+        },
+        {
+          "title": "تواشيح دينية",
+          "description": "فاصل من التواشيح الدينية لأحد كبار المبتهلين وبطانته",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/e81660d3-b21f-4aaf-8e88-d27ed2285ecf-%D8%AA%D9%88%D8%A7%D8%B4%D9%8A%D8%AD%20%D8%AF%D9%8A%D9%86%D9%8A%D8%A9.jpeg",
+          "startMs": 1792892700000,
+          "endMs": 1792892940000
+        },
+        {
+          "title": "صلاة الفجر",
+          "description": "{أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ وَقُرْآنَ الْفَجْرِ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا}.. [الإسراء: 78]\r\n  صلاة الفجر من رحاب الجامع الأزهر الشريف",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/6e404947-fcef-40f4-933f-c0e77df66fc1-%D8%B4%D8%B9%D8%A7%D8%A6%D8%B1%20%D8%B5%D9%84%D8%A7%D8%A9%20%D8%A7%D9%84%D9%81%D8%AC%D8%B1.webp",
+          "startMs": 1792893000000,
+          "endMs": 1792896780000
+        },
+        {
+          "title": "انفصال الموجات",
+          "description": "التنوية عن انفصال الموجات",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/d1ffbe04-58f7-47b4-935b-471e043d55e1-%D8%A7%D9%84%D8%AA%D9%86%D9%88%D9%8A%D9%87%20%D8%B9%D9%86%20%D8%A7%D9%86%D9%81%D8%B5%D8%A7%D9%84%20%D8%A7%D9%84%D9%85%D9%88%D8%AC%D8%A7%D8%AA.jpg",
+          "startMs": 1792896840000,
+          "endMs": 1792896900000
+        },
+        {
+          "title": "أذكار الصباح",
+          "description": "من دعاء النبى صلى الله عليه وسلم \" أصبحنا على فطرة الإسلام وكلِمة الإخلاص، ودين نبينا محمد صلى الله عليه وسلم، ومِلَّةِ أبينا إبراهيم، حنيفاً مسلماً، وما كان من المشركين\". رواه أحمد.",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/bb2eed97-498a-49b4-b7f8-290bc9b3332d-%D8%A7%D8%B0%D9%83%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD%20%281%29.jpg",
+          "startMs": 1792896960000,
+          "endMs": 1792897020000
+        },
+        {
+          "title": "الموجات والشروق",
+          "description": "التنويه عن الموجات والشروق + ابتهال",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/470af9cc-44c8-40a3-876a-d13831b49138-radio.jpeg",
+          "startMs": 1792897080000,
+          "endMs": 1792897140000
+        },
+        {
+          "title": "المصحف المرتل للقارئ الشيخ عبد الباسط عبد الصمد",
+          "description": "{ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا } المزمل 4",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/dbf3c1df-bf58-4d06-83df-9b4ef85e29a3-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%84%20%D9%84%D9%84%D9%82%D8%A7%D8%B1%D9%8A%D8%A1%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D8%B7%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B5%D9%85%D8%AF.jpg",
+          "startMs": 1792897200000,
+          "endMs": 1792898940000
+        },
+        {
+          "title": "بريد الإسلام -ص",
+          "description": "برنامج يجيب عن أسئلة واستفسارات المستمعين فى مختلف مسائل الفقه والفتوى",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/1311c82c-4959-41d4-bbed-4720a71f94d3-%D8%A8%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85.jpg",
+          "startMs": 1792899000000,
+          "endMs": 1792899540000
+        },
+        {
+          "title": "القرآن المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792899600000,
+          "endMs": 1792900140000
+        },
+        {
+          "title": "حديث الصباح",
+          "description": "يقدم البرنامج أحاديث  متعلقة بأركان الإسلام وأخلاقيات المسلم بصوت كبار العلماء\r\nتقديم محمد عبد الحق",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/b3e4ed85-5eb2-48b3-97fd-be932384cceb-%D8%AD%D8%AF%D9%8A%D8%AB%20%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD.jpg",
+          "startMs": 1792900200000,
+          "endMs": 1792900380000
+        },
+        {
+          "title": "الصلاة على النبي صلى الله عليه وسلم",
+          "description": "عَن أَبِي هُرَيرَةَ رضي الله عنه أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ: ((مَنْ صَلَّى عَلَيَّ وَاحِدَةً، صَلَّى الله عَلَيْهِ عَشْرًا))؛ رواه مسلم.",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8b5018df-cc3c-4c14-806d-10a544ac9795-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D9%87%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%86%D8%A8%D9%89.jpg",
+          "startMs": 1792900440000,
+          "endMs": 1792900500000
+        },
+        {
+          "title": "دعاء الخروج من المنزل",
+          "description": "قال النبي صلى الله عليه وسلم : إذا خرج الرجل من بيته فقال: بسم الله توكلت على الله ولا حول ولا قوة إلا بالله قال: يقال حينئذ: هديت وكفيت ووقيت فتتنحى له الشياطين، فيقول له شيطان آخر: كيف لك برجل قد هدي وكفي ووقي.",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/e45bbb72-a281-421e-a5cc-8662d05ea83e-%D8%AF%D8%B9%D8%A7%D8%A1%20%D8%A7%D9%84%D8%AE%D8%B1%D9%88%D8%AC.jpg",
+          "startMs": 1792900560000,
+          "endMs": 1792900620000
+        },
+        {
+          "title": "الموجات",
+          "description": "التنويه عن الموجات",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/6a03899e-721c-4fd4-96a3-cf34003594c0-%D8%A7%D9%84%D8%AA%D9%86%D9%88%D9%8A%D9%87%20%D8%B9%D9%86%20%D8%A7%D9%84%D8%A7%D8%B1%D8%B3%D8%A7%D9%84.jpg",
+          "startMs": 1792900680000,
+          "endMs": 1792900740000
+        },
+        {
+          "title": "القرآن المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792900800000,
+          "endMs": 1792902540000
+        },
+        {
+          "title": "فى ظلال الهدي النبوي",
+          "description": "برنامج يقدم شرحا للأحاديث النبوية الشريفة ويستضيف البرنامج فضيلة أ.د أحمد عمر هاشم",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c70cff56-3b70-441c-972e-bc233c689653-%D9%81%D9%89%20%D8%B8%D9%84%D8%A7%D9%84%20%D8%A7%D9%84%D9%87%D8%AF%D9%89%20%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%89.jpg",
+          "startMs": 1792902600000,
+          "endMs": 1792903140000
+        },
+        {
+          "title": "ابتهال",
+          "description": "فاصل من الابتهالات الدينية",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c0e28a89-45ea-4e40-9d87-46f4e4ee14de-WhatsApp%20Image%202025-04-11%20at%204.27.48%20PM.jpeg",
+          "startMs": 1792903200000,
+          "endMs": 1792903440000
+        },
+        {
+          "title": "خواطر الشيخ محمد متولي الشعراوي",
+          "description": "تقديم عماد الدين عبد الخالق",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c3ddf07f-9bcc-47d6-949d-ebc4e3ddb54f-%D9%85%D9%86%20%D8%AE%D9%88%D8%A7%D8%B7%D8%B1%20%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85%20%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D8%A7%D9%88%D9%89.jpg",
+          "startMs": 1792903500000,
+          "endMs": 1792904220000
+        },
+        {
+          "title": "دقيقة فقهية",
+          "description": "تقديم :د حسن سليمان - الضيف :د مجدى عاشور",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/cdfc24ed-bf1e-404b-bef2-59cadae84b17-WhatsApp%20Image%202025-11-08%20at%208.50.24%20PM%20%281%29.jpeg",
+          "startMs": 1792904280000,
+          "endMs": 1792904340000
+        },
+        {
+          "title": "القرآن المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792904400000,
+          "endMs": 1792906140000
+        },
+        {
+          "title": "منبر الفكر",
+          "description": "يتناول أهم القضايا المجتمعية نظرة الإسلام إليها مثل قضايا التطرف وتصحيح المفاهيم المغلوطة\r\nتقديم  محمد عبد الحق",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/16e6176e-1c64-4938-b3e3-21e314b46b2b-%D9%85%D9%86%D8%A8%D8%B1%20%D8%A7%D9%84%D9%81%D9%83%D8%B1.jpg",
+          "startMs": 1792906200000,
+          "endMs": 1792906500000
+        },
+        {
+          "title": "عرض لبعض فقرات البرنامج اليومي والتلاوات القرآنية",
+          "description": "يقدمه مذيع الهواء",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/09b4f5e1-8dbc-4b2b-9338-b4b73450486c-radio.jpeg",
+          "startMs": 1792906560000,
+          "endMs": 1792906620000
+        },
+        {
+          "title": "القرآن المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792906680000,
+          "endMs": 1792907520000
+        },
+        {
+          "title": "ربط",
+          "description": "إطلالة على محتوى برامج اليوم",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c8eb29a9-59d1-4bbf-a82d-3fefbf230b17-%D9%81%D9%82%D8%B1%D8%A7%D8%AA%20%D8%B1%D8%A8%D8%B7.webp",
+          "startMs": 1792907580000,
+          "endMs": 1792907640000
+        },
+        {
+          "title": "المصحف المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/5f424620-0913-480c-9be2-6dc9dedb5bdf-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792907700000,
+          "endMs": 1792909980000
+        },
+        {
+          "title": "سئل فأجاب",
+          "description": "يتناول سؤال وجه للنبى مع الإجابة عليه ورقائق ومواقف للصحابة والتابعين \r\nتقديم د محمد مصطفى يحيى",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/d6052058-a78b-44ce-aaf2-4d8621004a6c-%D8%B3%D8%A6%D9%84%20%D9%81%D8%A7%D8%AC%D8%A7%D8%A8.jpg",
+          "startMs": 1792910040000,
+          "endMs": 1792910160000
+        },
+        {
+          "title": "ومضة تفسيرية",
+          "description": "يتضمن هذا البرنامج تفسيرا لبعض معاني آيات القرآن الكريم - تقديم د. حسن سليمان - الضيف د: عصام الروبي من علماء الأزهر الشريف",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ae4a2f2d-2fc3-47fe-86cd-f0706c18566f-%D9%88%D9%85%D8%B6%D8%A9%20%D8%AA%D9%81%D8%B3%D9%8A%D8%B1%D9%8A%D8%A9%20Image%202025-11-12%20at%2011.21.47%20AM%20%281%29.jpeg",
+          "startMs": 1792910220000,
+          "endMs": 1792910340000
+        },
+        {
+          "title": "ابتهال",
+          "description": "فاصل من الابتهالات الدينية",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c0e28a89-45ea-4e40-9d87-46f4e4ee14de-WhatsApp%20Image%202025-04-11%20at%204.27.48%20PM.jpeg",
+          "startMs": 1792910400000,
+          "endMs": 1792910580000
+        },
+        {
+          "title": "القرآن المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792910640000,
+          "endMs": 1792911420000
+        },
+        {
+          "title": "الصلاة على النبي صلى الله عليه وسلم",
+          "description": "عَن أَبِي هُرَيرَةَ رضي الله عنه أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ: ((مَنْ صَلَّى عَلَيَّ وَاحِدَةً، صَلَّى الله عَلَيْهِ عَشْرًا))؛ رواه مسلم.",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8b5018df-cc3c-4c14-806d-10a544ac9795-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D9%87%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%86%D8%A8%D9%89.jpg",
+          "startMs": 1792911480000,
+          "endMs": 1792911540000
+        },
+        {
+          "title": "المصحف المرتل للقارئ الشيخ عبد الباسط عبد الصمد",
+          "description": "{ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا } المزمل 4",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/dbf3c1df-bf58-4d06-83df-9b4ef85e29a3-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%84%20%D9%84%D9%84%D9%82%D8%A7%D8%B1%D9%8A%D8%A1%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D8%B7%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B5%D9%85%D8%AF.jpg",
+          "startMs": 1792911600000,
+          "endMs": 1792913340000
+        },
+        {
+          "title": "من كنوز المعرفة",
+          "description": "إعداد أمل سعد",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/fd806478-59c3-4397-bc75-81e90b3a5c51-WhatsApp%20Image%202025-12-09%20at%208.54.41%20AM%20%286%29.jpeg",
+          "startMs": 1792913400000,
+          "endMs": 1792913640000
+        },
+        {
+          "title": "قراءة في كتب التفسير",
+          "description": "يقدم البرنامج قراءة في كتب التفسير ويعرض مختلف آراء المفسرين",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/d5f9bed3-cfc4-4f32-96e1-d2a0d440933e-WhatsApp%20Image%202025-12-15%20at%2010.23.44%20PM.jpeg",
+          "startMs": 1792913700000,
+          "endMs": 1792914240000
+        },
+        {
+          "title": "المصحف المرتل للقارئ الشيخ عبد الباسط عبد الصمد",
+          "description": "{ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا } المزمل 4",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/dbf3c1df-bf58-4d06-83df-9b4ef85e29a3-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%84%20%D9%84%D9%84%D9%82%D8%A7%D8%B1%D9%8A%D8%A1%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D8%B7%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B5%D9%85%D8%AF.jpg",
+          "startMs": 1792914300000,
+          "endMs": 1792916040000
+        },
+        {
+          "title": "أسماء الله الحسنى",
+          "description": "{وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَى فَادْعُوهُ بِهَا} [الأعراف:180]",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/16bcfa0e-671a-4d58-8aca-78b89ddf21f2-WhatsApp%20Image%202025-11-15%20at%2011.41.38%20AM.jpeg",
+          "startMs": 1792916100000,
+          "endMs": 1792916340000
+        },
+        {
+          "title": "القرآن المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792916400000,
+          "endMs": 1792918140000
+        },
+        {
+          "title": "في رحاب السيرة العطرة",
+          "description": "يتناول السيرة العطرة باعتبارها نموذجا تطبيقيا لنصوص القرآن والسنة.  وتقديم صورة كلية لكل جوانب حياة الرسول ﷺ بطريقة علمية ومنهجية من خلال المصادر الموثوق بها، من أجل ترسيخ مفهوم النبوة الحقة لدى الأجيال الناشئة والتأكيد على أن الرسول نبي مؤيد من عند الله تعالى وكل تفاصيل حياته هي أكمل وأجل نموذج للحياة الطيبة التي يسعى إليها الجميع.\r\nإعداد وتقديم : إيمان عرفة",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8acd41d7-8cdc-43d8-8b83-4159f73b6a17-%D9%81%D9%89%20%D8%B1%D8%AD%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%8A%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B7%D8%B1%D8%A9.webp",
+          "startMs": 1792918200000,
+          "endMs": 1792918740000
+        },
+        {
+          "title": "من أقوال الرسول (صلى الله عليه وسلم)",
+          "description": "قراءة يومية لعدد من أحاديث رسول الله صلى الله عليه وسلم تقديم د حسن مدني",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8e857361-a2da-423e-9fa1-0aaf4aad2c6a-%D9%85%D9%86%20%D8%A7%D9%82%D9%88%D8%A7%D9%84%20%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%84.jpg",
+          "startMs": 1792918800000,
+          "endMs": 1792918860000
+        },
+        {
+          "title": "الصلاة على النبي صلى الله عليه وسلم",
+          "description": "عَن أَبِي هُرَيرَةَ رضي الله عنه أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ: ((مَنْ صَلَّى عَلَيَّ وَاحِدَةً، صَلَّى الله عَلَيْهِ عَشْرًا))؛ رواه مسلم.",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8b5018df-cc3c-4c14-806d-10a544ac9795-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D9%87%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%86%D8%A8%D9%89.jpg",
+          "startMs": 1792918920000,
+          "endMs": 1792918980000
+        },
+        {
+          "title": "قرآن الظهيرة",
+          "description": "تلاوة قرآنية مباركة بأصوات كبار القراء",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/7f298df0-b08d-45ce-80fd-785e342bba6e-%D9%82%D8%B1%D8%A7%D9%86%20%D8%A7%D9%84%D8%B8%D9%87%D8%B1.jpg",
+          "startMs": 1792919040000,
+          "endMs": 1792920780000
+        },
+        {
+          "title": "ابتهال",
+          "description": "فاصل من الابتهالات الدينية",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c0e28a89-45ea-4e40-9d87-46f4e4ee14de-WhatsApp%20Image%202025-04-11%20at%204.27.48%20PM.jpeg",
+          "startMs": 1792920840000,
+          "endMs": 1792921080000
+        },
+        {
+          "title": "أذان الظهر",
+          "description": "حسب التوقيت المحلي لمدينة القاهرة",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/942fde27-ec66-42a1-a889-93bc4b4af2b1-%D8%A7%D8%B0%D8%A7%D9%86%20%D8%A7%D9%84%D8%B8%D9%87%D8%B1%20%281%29.jpg",
+          "startMs": 1792921140000,
+          "endMs": 1792921320000
+        },
+        {
+          "title": "دعاء ختم الأذان للشيخ محمد متولي الشعراوي",
+          "description": "\"اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلَاةِ الْقَائِمَةِ، آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ، حَلَّتْ لَهُ شَفَاعَتِي يَوْمَ الْقِيَامَةِ\".",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/fea41ec4-6d3e-4a5f-a63b-cd9a7f20d717-%D8%AF%D8%B9%D8%A7%D8%A1%20%D8%AE%D8%AA%D9%85%20%D8%A7%D9%84%D8%A7%D8%B0%D8%A7%D9%86%20%D9%84%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D8%A7%D9%88%D9%8A.jpeg",
+          "startMs": 1792921380000,
+          "endMs": 1792921440000
+        },
+        {
+          "title": "القرآن المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792921500000,
+          "endMs": 1792921980000
+        },
+        {
+          "title": "كتابات إسلامية",
+          "description": "يعرض البرنامج مقالا دينيا نُشر بإحدى المجلات الدينية أو المواقع الإسلامية",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/0e27cc2b-321a-47b8-b469-4ee29ae6b1c6-%D9%83%D8%AA%D8%A7%D8%A8%D8%A7%D8%AA%20%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D9%87%20%283%29.jpg",
+          "startMs": 1792922040000,
+          "endMs": 1792922280000
+        },
+        {
+          "title": "المصحف المرتل للقارئ الشيخ عبد الباسط عبد الصمد",
+          "description": "{ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا } المزمل 4",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/dbf3c1df-bf58-4d06-83df-9b4ef85e29a3-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%84%20%D9%84%D9%84%D9%82%D8%A7%D8%B1%D9%8A%D8%A1%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D8%B7%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B5%D9%85%D8%AF.jpg",
+          "startMs": 1792922340000,
+          "endMs": 1792924080000
+        },
+        {
+          "title": "براعم الإيمان",
+          "description": "يقدم النماذج المشرفة من أبنائنا حفظة القرآن الكريم\r\nتقديم : زينب يونس",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/906e877b-84a4-4e26-927c-8f06c3bed6e5-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC%20%D8%B7%D9%84%D8%A7%D8%A6%D8%B9%20%D8%A7%D9%84%D8%A7%D9%8A%D9%85%D8%A7%D9%86%20AM.jpeg",
+          "startMs": 1792924140000,
+          "endMs": 1792924680000
+        },
+        {
+          "title": "القرآن المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792924740000,
+          "endMs": 1792924980000
+        },
+        {
+          "title": "الأسرة والمجتمع",
+          "description": "برنامج يتناول كل ما يخص الأسرة المسلمة وتربية الأبناء",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/6032d0e2-c2da-47da-bcbf-d47a1c1c86f4-%D8%A7%D9%84%D8%A7%D8%B3%D8%B1%D8%A9%20%D9%88%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B92.jpg",
+          "startMs": 1792925040000,
+          "endMs": 1792925580000
+        },
+        {
+          "title": "القرآن المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792925640000,
+          "endMs": 1792927380000
+        },
+        {
+          "title": "ابتهال",
+          "description": "فاصل من الابتهالات الدينية",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c0e28a89-45ea-4e40-9d87-46f4e4ee14de-WhatsApp%20Image%202025-04-11%20at%204.27.48%20PM.jpeg",
+          "startMs": 1792927440000,
+          "endMs": 1792927560000
+        },
+        {
+          "title": "القرآن المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792927620000,
+          "endMs": 1792928460000
+        },
+        {
+          "title": "جولة حول العالم الإسلامي",
+          "description": "يقدم البرنامج أخبار المجتمع حول العالم الإسلامي",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/b69fe6ef-2110-4384-8eed-fc0fcce628b0-%D8%AC%D9%88%D9%84%D8%A9%20%D8%AD%D9%88%D9%84%20%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%20%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D9%8A.jpeg",
+          "startMs": 1792928520000,
+          "endMs": 1792929060000
+        },
+        {
+          "title": "رسالة إلى الشباب",
+          "description": "تقديم د. علاء عرابي",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/807dcb67-ca04-44ed-a088-742639a8e573-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9%20%D8%A5%D9%84%D9%89%20%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8.webp",
+          "startMs": 1792929120000,
+          "endMs": 1792929360000
+        },
+        {
+          "title": "القرآن المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792929420000,
+          "endMs": 1792929660000
+        },
+        {
+          "title": "سئل فأجاب",
+          "description": "يتناول سؤال وجه للنبى مع الإجابة عليه ورقائق ومواقف للصحابة والتابعين \r\nتقديم د محمد مصطفى يحيى",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/d6052058-a78b-44ce-aaf2-4d8621004a6c-%D8%B3%D8%A6%D9%84%20%D9%81%D8%A7%D8%AC%D8%A7%D8%A8.jpg",
+          "startMs": 1792929720000,
+          "endMs": 1792929780000
+        },
+        {
+          "title": "من أقوال الرسول (صلى الله عليه وسلم)",
+          "description": "قراءة يومية لعدد من أحاديث رسول الله صلى الله عليه وسلم تقديم د حسن مدني",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8e857361-a2da-423e-9fa1-0aaf4aad2c6a-%D9%85%D9%86%20%D8%A7%D9%82%D9%88%D8%A7%D9%84%20%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%84.jpg",
+          "startMs": 1792929840000,
+          "endMs": 1792929900000
+        },
+        {
+          "title": "الصلاة على النبي صلى الله عليه وسلم",
+          "description": "عَن أَبِي هُرَيرَةَ رضي الله عنه أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ: ((مَنْ صَلَّى عَلَيَّ وَاحِدَةً، صَلَّى الله عَلَيْهِ عَشْرًا))؛ رواه مسلم.",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8b5018df-cc3c-4c14-806d-10a544ac9795-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D9%87%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%86%D8%A8%D9%89.jpg",
+          "startMs": 1792929960000,
+          "endMs": 1792930020000
+        },
+        {
+          "title": "تقدمة التلاوة",
+          "description": "تفسير لآيات الذكر الحكيم يقدمها كبار العلماء والمفسرين",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/f0c64b36-5c99-4f9f-810c-73ebd982ce15-WhatsApp%20Image%202025-11-15%20at%202.39.26%20PM.jpeg",
+          "startMs": 1792930080000,
+          "endMs": 1792930380000
+        },
+        {
+          "title": "المصحف المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/5f424620-0913-480c-9be2-6dc9dedb5bdf-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792930440000,
+          "endMs": 1792932180000
+        },
+        {
+          "title": "ابتهال",
+          "description": "فاصل من الابتهالات الدينية",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c0e28a89-45ea-4e40-9d87-46f4e4ee14de-WhatsApp%20Image%202025-04-11%20at%204.27.48%20PM.jpeg",
+          "startMs": 1792932240000,
+          "endMs": 1792932480000
+        },
+        {
+          "title": "أذان العصر",
+          "description": "حسب التوقيت المحلي لمدينة القاهرة",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/f25468bf-0ec1-4fc8-aefe-6edf674f2db2-%D8%A3%D8%B0%D8%A7%D9%86%20%D8%A7%D9%84%D8%B9%D8%B5%D8%B1.jpeg",
+          "startMs": 1792932540000,
+          "endMs": 1792932720000
+        },
+        {
+          "title": "دعاء ختم الأذان للشيخ محمد متولي الشعراوي",
+          "description": "\"اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلَاةِ الْقَائِمَةِ، آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ، حَلَّتْ لَهُ شَفَاعَتِي يَوْمَ الْقِيَامَةِ\".",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/fea41ec4-6d3e-4a5f-a63b-cd9a7f20d717-%D8%AF%D8%B9%D8%A7%D8%A1%20%D8%AE%D8%AA%D9%85%20%D8%A7%D9%84%D8%A7%D8%B0%D8%A7%D9%86%20%D9%84%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D8%A7%D9%88%D9%8A.jpeg",
+          "startMs": 1792932780000,
+          "endMs": 1792932840000
+        },
+        {
+          "title": "القرآن المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792932900000,
+          "endMs": 1792933080000
+        },
+        {
+          "title": "دقيقة فقهية",
+          "description": "تقديم :د حسن سليمان - الضيف :د مجدى عاشور",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/cdfc24ed-bf1e-404b-bef2-59cadae84b17-WhatsApp%20Image%202025-11-08%20at%208.50.24%20PM%20%281%29.jpeg",
+          "startMs": 1792933140000,
+          "endMs": 1792933200000
+        },
+        {
+          "title": "مع القرآن الكريم",
+          "description": "يقدم البرنامج تفسيرا ميسرا لكتاب الله تعالى بصوت أ.د محمد سيد طنطاوى شيخ الأزهر السابق \r\nتقديم  سعد المطعني",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/bb76050d-39ff-4580-82e6-b38cbaef64cd-%D9%85%D8%B9%20%D8%A7%D9%84%D9%82%D8%B1%D8%A3%D9%86%20%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.jpg",
+          "startMs": 1792933260000,
+          "endMs": 1792933920000
+        },
+        {
+          "title": "المصحف المرتل للقارئ الشيخ عبد الباسط عبد الصمد",
+          "description": "{ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا } المزمل 4",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/dbf3c1df-bf58-4d06-83df-9b4ef85e29a3-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%84%20%D9%84%D9%84%D9%82%D8%A7%D8%B1%D9%8A%D8%A1%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D8%B7%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B5%D9%85%D8%AF.jpg",
+          "startMs": 1792933980000,
+          "endMs": 1792935600000
+        },
+        {
+          "title": "ليعلموا",
+          "description": "تقديم الدكتور محمد عبد الدايم الجندي ( أمين عام مجمع البحوث الإسلامية )",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/9ef3e105-0e4b-4430-a939-373edc97244e-%D9%84%D9%8A%D8%B9%D9%84%D9%85%D9%88%D8%A7%20Image%20%20at%20%20PM.jpeg",
+          "startMs": 1792935660000,
+          "endMs": 1792935900000
+        },
+        {
+          "title": "القرآن المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792935960000,
+          "endMs": 1792936200000
+        },
+        {
+          "title": "اقرؤا القرآن",
+          "description": "تقديم عماد الدين عبد الخالق",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/a6ac5b47-7cad-4763-b4d6-eff37003fdd5-%D8%A7%D9%82%D8%B1%D8%A3%D9%88%D8%A7%20%D8%A7%D9%84%D9%82%D8%B1%D8%A3%D9%86.jpg",
+          "startMs": 1792936260000,
+          "endMs": 1792937100000
+        },
+        {
+          "title": "حديث الإمام الأكبر",
+          "description": "أحاديث أئمة الأزهر منذ مايقرب من مائة عام \r\nتقديم أ: إسماعيل دويدار - أ: إعداد مروة النجار",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/1f924681-7af8-4b26-9da6-44704fcd4398-%D8%AD%D8%AF%D9%8A%D8%AB%20%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85%20%D8%A7%D9%84%D8%A7%D9%83%D8%A8%D8%B1.webp",
+          "startMs": 1792937160000,
+          "endMs": 1792938060000
+        },
+        {
+          "title": "أذكار المساء",
+          "description": "قال رسول الله صلى الله عليه وسلم  \" اللّهُـمَّ ما أَمسى بي مِـنْ نِعْـمَةٍ أَو بِأَحَـدٍ مِـنْ خَلْـقِك ، فَمِـنْكَ وَحْـدَكَ لا شريكَ لَـك ، فَلَـكَ الْحَمْـدُ وَلَـكَ الشُّكْـر.\r\nمن قالها حين يمسى أدى شكر يومه\"",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/770e6c1c-1ea9-4a4a-9cb1-39bb1e72da05-%D8%A7%D8%B0%D9%83%D8%A7%D8%B1%20%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A1.jpg",
+          "startMs": 1792938120000,
+          "endMs": 1792938240000
+        },
+        {
+          "title": "من أقوال الرسول (صلى الله عليه وسلم)",
+          "description": "قراءة يومية لعدد من أحاديث رسول الله صلى الله عليه وسلم تقديم د حسن مدني",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8e857361-a2da-423e-9fa1-0aaf4aad2c6a-%D9%85%D9%86%20%D8%A7%D9%82%D9%88%D8%A7%D9%84%20%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%84.jpg",
+          "startMs": 1792938300000,
+          "endMs": 1792938360000
+        },
+        {
+          "title": "الصلاة على النبي صلى الله عليه وسلم",
+          "description": "عَن أَبِي هُرَيرَةَ رضي الله عنه أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ: ((مَنْ صَلَّى عَلَيَّ وَاحِدَةً، صَلَّى الله عَلَيْهِ عَشْرًا))؛ رواه مسلم.",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8b5018df-cc3c-4c14-806d-10a544ac9795-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D9%87%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%86%D8%A8%D9%89.jpg",
+          "startMs": 1792938420000,
+          "endMs": 1792938480000
+        },
+        {
+          "title": "ابتهال",
+          "description": "فاصل من الابتهالات الدينية",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c0e28a89-45ea-4e40-9d87-46f4e4ee14de-WhatsApp%20Image%202025-04-11%20at%204.27.48%20PM.jpeg",
+          "startMs": 1792938540000,
+          "endMs": 1792938600000
+        },
+        {
+          "title": "القرآن المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792938660000,
+          "endMs": 1792941180000
+        },
+        {
+          "title": "أذان المغرب",
+          "description": "حسب التوقيت المحلي لمدينة القاهرة",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/5ae92fe9-8c40-4596-ad48-2fb33a8e8995-%D8%A7%D8%B0%D8%A7%D9%86%20%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%20%281%29.jpg",
+          "startMs": 1792941240000,
+          "endMs": 1792941420000
+        },
+        {
+          "title": "دعاء ختم الأذان للشيخ محمد متولي الشعراوي",
+          "description": "\"اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلَاةِ الْقَائِمَةِ، آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ، حَلَّتْ لَهُ شَفَاعَتِي يَوْمَ الْقِيَامَةِ\".",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/fea41ec4-6d3e-4a5f-a63b-cd9a7f20d717-%D8%AF%D8%B9%D8%A7%D8%A1%20%D8%AE%D8%AA%D9%85%20%D8%A7%D9%84%D8%A7%D8%B0%D8%A7%D9%86%20%D9%84%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D8%A7%D9%88%D9%8A.jpeg",
+          "startMs": 1792941480000,
+          "endMs": 1792941540000
+        },
+        {
+          "title": "القرآن المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792941600000,
+          "endMs": 1792942920000
+        },
+        {
+          "title": "ربط",
+          "description": "إطلالة على محتوى برامج اليوم",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c8eb29a9-59d1-4bbf-a82d-3fefbf230b17-%D9%81%D9%82%D8%B1%D8%A7%D8%AA%20%D8%B1%D8%A8%D8%B7.webp",
+          "startMs": 1792942980000,
+          "endMs": 1792943040000
+        },
+        {
+          "title": "تقدمة التلاوة",
+          "description": "تفسير لآيات الذكر الحكيم يقدمها كبار العلماء والمفسرين",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/f0c64b36-5c99-4f9f-810c-73ebd982ce15-WhatsApp%20Image%202025-11-15%20at%202.39.26%20PM.jpeg",
+          "startMs": 1792943100000,
+          "endMs": 1792943340000
+        },
+        {
+          "title": "المصحف المرتل للقارئ الشيخ محمود خليل الحصري",
+          "description": "{ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا } المزمل 4",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/157e6128-cc9f-4992-b48a-92477bd25292-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%84%20%D9%84%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D8%AD%D8%B5%D8%B1%D9%8A.jpeg",
+          "startMs": 1792943400000,
+          "endMs": 1792945140000
+        },
+        {
+          "title": "الوقف والابتداء في القرآن الكريم",
+          "description": "يتناول البرنامج أحكام الوقوف والابتداءات  فى القرآن الكريم المتفق عليها والمختلف فيها حسب المعانى والقراءات القرآنية  مع فضيلة أ.د عبدالكريم عوض صالح الأستاذ بجامعة الأزهر\r\nتقديم  فوزي عبد المقصود",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/f0207657-5a9e-4a0b-8fcf-33491b1f799f-%D8%A7%D9%84%D9%88%D9%82%D9%81%20%D9%88%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%D8%A1.jpg",
+          "startMs": 1792945200000,
+          "endMs": 1792945740000
+        },
+        {
+          "title": "ابتهال",
+          "description": "فاصل من الابتهالات الدينية",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c0e28a89-45ea-4e40-9d87-46f4e4ee14de-WhatsApp%20Image%202025-04-11%20at%204.27.48%20PM.jpeg",
+          "startMs": 1792945800000,
+          "endMs": 1792945860000
+        },
+        {
+          "title": "أذان العشاء",
+          "description": "حسب التوقيت المحلي لمدينة القاهرة",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/4d01c010-e676-41f1-ad48-7d1c6c4d0914-%D8%A7%D8%B0%D8%A7%D9%86%20%D8%A7%D9%84%D8%B9%D8%B4%D8%A7%D8%A1%20%281%29.jpg",
+          "startMs": 1792945920000,
+          "endMs": 1792946100000
+        },
+        {
+          "title": "دعاء ختم الأذان للشيخ محمد متولي الشعراوي",
+          "description": "\"اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلَاةِ الْقَائِمَةِ، آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ، حَلَّتْ لَهُ شَفَاعَتِي يَوْمَ الْقِيَامَةِ\".",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/fea41ec4-6d3e-4a5f-a63b-cd9a7f20d717-%D8%AF%D8%B9%D8%A7%D8%A1%20%D8%AE%D8%AA%D9%85%20%D8%A7%D9%84%D8%A7%D8%B0%D8%A7%D9%86%20%D9%84%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D8%A7%D9%88%D9%8A.jpeg",
+          "startMs": 1792946160000,
+          "endMs": 1792946220000
+        },
+        {
+          "title": "القرآن المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792946280000,
+          "endMs": 1792947060000
+        },
+        {
+          "title": "كتابات إسلامية",
+          "description": "يعرض البرنامج مقالا دينيا نُشر بإحدى المجلات الدينية أو المواقع الإسلامية",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/0e27cc2b-321a-47b8-b469-4ee29ae6b1c6-%D9%83%D8%AA%D8%A7%D8%A8%D8%A7%D8%AA%20%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D9%87%20%283%29.jpg",
+          "startMs": 1792947120000,
+          "endMs": 1792947360000
+        },
+        {
+          "title": "الدين المعاملة",
+          "description": "يتحدث البرنامج عن الأخلاق والمعاملات الإسلامية",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/6ad5b883-2705-49ac-ad2d-35bb77326a1f-%D8%A7%D9%84%D8%AF%D9%8A%D9%86%20%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87.jpg",
+          "startMs": 1792947420000,
+          "endMs": 1792947960000
+        },
+        {
+          "title": "القرآن المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792948020000,
+          "endMs": 1792948860000
+        },
+        {
+          "title": "المصحف المعلم",
+          "description": "شرح لأحكام تلاوة القرآن الكريم برواية حفص عن عاصم",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/19ecc574-b8d9-4148-9f7e-0d01d1144535-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85%20%20Image%202025-11-27%20at%204.29.21%20PM.jpeg",
+          "startMs": 1792948920000,
+          "endMs": 1792949460000
+        },
+        {
+          "title": "ومضة تفسيرية",
+          "description": "يتضمن هذا البرنامج تفسيرا لبعض معاني آيات القرآن الكريم - تقديم د. حسن سليمان - الضيف د: عصام الروبي من علماء الأزهر الشريف",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ae4a2f2d-2fc3-47fe-86cd-f0706c18566f-%D9%88%D9%85%D8%B6%D8%A9%20%D8%AA%D9%81%D8%B3%D9%8A%D8%B1%D9%8A%D8%A9%20Image%202025-11-12%20at%2011.21.47%20AM%20%281%29.jpeg",
+          "startMs": 1792949520000,
+          "endMs": 1792949640000
+        },
+        {
+          "title": "ربط",
+          "description": "إطلالة على محتوى برامج اليوم",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c8eb29a9-59d1-4bbf-a82d-3fefbf230b17-%D9%81%D9%82%D8%B1%D8%A7%D8%AA%20%D8%B1%D8%A8%D8%B7.webp",
+          "startMs": 1792949700000,
+          "endMs": 1792949760000
+        },
+        {
+          "title": "تقدمة التلاوة",
+          "description": "تفسير لآيات الذكر الحكيم يقدمها كبار العلماء والمفسرين",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/f0c64b36-5c99-4f9f-810c-73ebd982ce15-WhatsApp%20Image%202025-11-15%20at%202.39.26%20PM.jpeg",
+          "startMs": 1792949820000,
+          "endMs": 1792950000000
+        },
+        {
+          "title": "المصحف المرتل للقارئ الشيخ عبد الباسط عبد الصمد",
+          "description": "{ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا } المزمل 4",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/dbf3c1df-bf58-4d06-83df-9b4ef85e29a3-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%84%20%D9%84%D9%84%D9%82%D8%A7%D8%B1%D9%8A%D8%A1%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D8%B7%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B5%D9%85%D8%AF.jpg",
+          "startMs": 1792950060000,
+          "endMs": 1792951500000
+        },
+        {
+          "title": "حديث ديني",
+          "description": "\"إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ\" (فاطر: 28)",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/608304b0-f720-4d72-90c2-a29a32583edf-%D8%AD%D8%AF%D9%8A%D8%AB%20%D8%AF%D9%8A%D9%86%D9%8A.jpg",
+          "startMs": 1792951560000,
+          "endMs": 1792951800000
+        },
+        {
+          "title": "أسماء الله الحسنى",
+          "description": "{وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَى فَادْعُوهُ بِهَا} [الأعراف:180]",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/16bcfa0e-671a-4d58-8aca-78b89ddf21f2-WhatsApp%20Image%202025-11-15%20at%2011.41.38%20AM.jpeg",
+          "startMs": 1792951860000,
+          "endMs": 1792952040000
+        },
+        {
+          "title": "المصحف المرتل لــطلاب الأزهر الشريف",
+          "description": "يتناول البرنامج ترتيلا للمصحف  الشريف برواية حفص عن عاصم لطلبة الأزهر الشريف - تقديم : إسماعيل دويدار",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/38b8dc5a-cc92-4af5-aae9-3506864e86cb-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81%20%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%84%20%D9%84%D8%B7%D9%84%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A3%D8%B2%D9%87%D8%B1%20%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81%20Image%202025-11-27%20at%204.29.21%20PM%20%281%29.jpeg",
+          "startMs": 1792952100000,
+          "endMs": 1792953660000
+        },
+        {
+          "title": "الصلاة على النبي صلى الله عليه وسلم",
+          "description": "عَن أَبِي هُرَيرَةَ رضي الله عنه أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ: ((مَنْ صَلَّى عَلَيَّ وَاحِدَةً، صَلَّى الله عَلَيْهِ عَشْرًا))؛ رواه مسلم.",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/8b5018df-cc3c-4c14-806d-10a544ac9795-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D9%87%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%86%D8%A8%D9%89.jpg",
+          "startMs": 1792953720000,
+          "endMs": 1792953840000
+        },
+        {
+          "title": "القرآن المجود",
+          "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
+          "startMs": 1792953900000,
+          "endMs": 1792954740000
+        },
+        {
+          "title": "الموجات",
+          "description": "التنويه عن الموجات",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/6a03899e-721c-4fd4-96a3-cf34003594c0-%D8%A7%D9%84%D8%AA%D9%86%D9%88%D9%8A%D9%87%20%D8%B9%D9%86%20%D8%A7%D9%84%D8%A7%D8%B1%D8%B3%D8%A7%D9%84.jpg",
+          "startMs": 1792954800000,
+          "endMs": 1792954860000
+        },
+        {
+          "title": "بريد الإسلام",
+          "description": "برنامج يجيب عن أسئلة واستفسارات المستمعين فى مختلف مسائل الفقه والفتوى",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/b4010d05-c8d2-4c92-87ea-b6d708b23618-%D8%A8%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85.jpg",
+          "startMs": 1792954920000,
+          "endMs": 1792955460000
+        },
+        {
+          "title": "ابتهال",
+          "description": "فاصل من الابتهالات الدينية",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c0e28a89-45ea-4e40-9d87-46f4e4ee14de-WhatsApp%20Image%202025-04-11%20at%204.27.48%20PM.jpeg",
+          "startMs": 1792955520000,
+          "endMs": 1792955640000
+        },
+        {
+          "title": "الأمسية الدينية",
+          "description": "أمسية دينية سجلت بأحد المساجد فيها تلاوة قرآنية مباركة وفاصل من الابتهال الديني وكلمة لأحد العلماء",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/89662f30-452c-4ddc-8a59-606bf65b1d76-%D8%A3%D9%85%D8%B3%D9%8A%D8%A9%20%D8%AF%D9%8A%D9%86%D9%8A%D8%A9.jpeg",
+          "startMs": 1792955700000,
+          "endMs": 1792958340000
+        },
+        {
+          "title": "قطوف من حدائق الإيمان - م",
+          "description": "يقدم البرنامج قطوفا من الحكم والعظات والمواقف  والأدعية التى تبث فى النفس راحة وطمأنينة ورضا .",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c7ae3451-4387-416b-bd83-826806fa0efe-%D9%82%D8%B7%D9%88%D9%81%20%D9%85%D9%86%20%D8%AD%D8%AF%D8%A7%D8%A6%D9%82%20%D8%A7%D9%84%D8%A7%D9%8A%D9%85%D8%A7%D9%86.jpeg",
+          "startMs": 1792958400000,
+          "endMs": 1792959180000
+        },
+        {
+          "title": "ابتهال",
+          "description": "فاصل من الابتهالات الدينية",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c0e28a89-45ea-4e40-9d87-46f4e4ee14de-WhatsApp%20Image%202025-04-11%20at%204.27.48%20PM.jpeg",
+          "startMs": 1792959240000,
+          "endMs": 1792959300000
+        },
+        {
+          "title": "قرآن السهرة",
+          "description": "تلاوة قرآنية مباركة لأحد كبار القراء",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/fbfbbd44-718e-4515-ab2c-819f20218b55-%D9%82%D8%B1%D8%A7%D9%86%20%D8%A7%D9%84%D8%B3%D9%87%D8%B1%D9%87.jpg",
+          "startMs": 1792959360000,
+          "endMs": 1792961820000
+        },
+        {
+          "title": "الموجات",
+          "description": "التنويه عن الموجات",
+          "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/6a03899e-721c-4fd4-96a3-cf34003594c0-%D8%A7%D9%84%D8%AA%D9%86%D9%88%D9%8A%D9%87%20%D8%B9%D9%86%20%D8%A7%D9%84%D8%A7%D8%B1%D8%B3%D8%A7%D9%84.jpg",
+          "startMs": 1792961880000,
+          "endMs": 1792961940000
         }
       ]
     }
