@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAtMs": 1793495094795,
+  "generatedAtMs": 1793551418785,
   "schedules": [
     {
       "source": "cairo",
@@ -966,13 +966,13 @@
           "description": "عرض للمذاهب الفقهية المختلفة للقضايا الدينية بأسلوب ميسر مبسط\r\nتقديم د. هاجر سعد الدين",
           "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/94480499-4e91-4510-8dd5-78129ca9bf55-%D9%85%D9%88%D8%B3%D9%88%D8%B9%D8%A9%20%D8%A7%D9%84%D9%81%D9%82%D9%87.jpg",
           "startMs": 1793571000000,
-          "endMs": 1793571360000
+          "endMs": 1793571240000
         },
         {
           "title": "القرآن المجود",
           "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
           "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1793571420000,
+          "startMs": 1793571300000,
           "endMs": 1793573820000
         },
         {
@@ -1582,20 +1582,20 @@
           "description": "فترة مفتوحة على الهواء تناقش كل ما يخص المجتمع المسلم من قضايا اجتماعية ودينية",
           "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/0ef43d06-0bd4-4de7-a167-f6eb913c68b5-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85%20%D9%88%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D9%87%20%D8%A7%D9%84%D9%81%D8%AA%D8%B1%D9%87%20%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D9%87.jpg",
           "startMs": 1793625300000,
-          "endMs": 1793627940000
+          "endMs": 1793628240000
         },
         {
           "title": "ليعلموا",
           "description": "تقديم الدكتور محمد عبد الدايم الجندي ( أمين عام مجمع البحوث الإسلامية )",
           "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/9ef3e105-0e4b-4430-a939-373edc97244e-%D9%84%D9%8A%D8%B9%D9%84%D9%85%D9%88%D8%A7%20Image%20%20at%20%20PM.jpeg",
-          "startMs": 1793628000000,
-          "endMs": 1793628240000
+          "startMs": 1793628300000,
+          "endMs": 1793628540000
         },
         {
           "title": "القرآن المجود",
           "description": "{ أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ } الرعد 28",
           "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/ef7a869a-e5c6-4da0-b9cb-0fa2182b08c0-%D9%82%D8%B1%D8%A7%D9%86%20%D9%85%D8%AC%D9%88%D8%AF%20%282%29.jpg",
-          "startMs": 1793628300000,
+          "startMs": 1793628600000,
           "endMs": 1793628840000
         },
         {
@@ -1876,20 +1876,20 @@
           "description": "يقدم البرنامج قطوفا من الحكم والعظات والمواقف  والأدعية التى تبث فى النفس راحة وطمأنينة ورضا .",
           "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c7ae3451-4387-416b-bd83-826806fa0efe-%D9%82%D8%B7%D9%88%D9%81%20%D9%85%D9%86%20%D8%AD%D8%AF%D8%A7%D8%A6%D9%82%20%D8%A7%D9%84%D8%A7%D9%8A%D9%85%D8%A7%D9%86.jpeg",
           "startMs": 1793653200000,
-          "endMs": 1793653800000
+          "endMs": 1793653740000
         },
         {
           "title": "ابتهال",
           "description": "فاصل من الابتهالات الدينية",
           "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/c0e28a89-45ea-4e40-9d87-46f4e4ee14de-WhatsApp%20Image%202025-04-11%20at%204.27.48%20PM.jpeg",
-          "startMs": 1793653860000,
-          "endMs": 1793654040000
+          "startMs": 1793653800000,
+          "endMs": 1793653920000
         },
         {
           "title": "قرآن السهرة",
           "description": "تلاوة قرآنية مباركة لأحد كبار القراء",
           "imageUrl": "https://quoranmediastg.blob.core.windows.net/quraanradio/fbfbbd44-718e-4515-ab2c-819f20218b55-%D9%82%D8%B1%D8%A7%D9%86%20%D8%A7%D9%84%D8%B3%D9%87%D8%B1%D9%87.jpg",
-          "startMs": 1793654100000,
+          "startMs": 1793653980000,
           "endMs": 1793656620000
         },
         {
