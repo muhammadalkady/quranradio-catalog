@@ -653,7 +653,8 @@
         "az": "Al-Fatihah (Kitabı açan)",
         "ms": "Al-Fatihah (Pembukaan)",
         "it": "Al-Fatihah (L'Aprente)"
-      }
+      },
+      "streamName": "Al-Fatihah"
     },
     {
       "id": 2,
@@ -673,7 +674,8 @@
         "az": "Al-Baqarah (İnək)",
         "ms": "Al-Baqarah (Lembu Betina)",
         "it": "Al-Baqarah (La Giovenca)"
-      }
+      },
+      "streamName": "Al-Baqarah"
     },
     {
       "id": 3,
@@ -693,7 +695,8 @@
         "az": "Ali 'Imran (İmran ailəsi)",
         "ms": "Ali 'Imran (Keluarga Imran)",
         "it": "Ali 'Imran (La Famiglia di Imran)"
-      }
+      },
+      "streamName": "Aal Imran"
     },
     {
       "id": 4,
@@ -713,7 +716,8 @@
         "az": "An-Nisa (Qadınlar)",
         "ms": "An-Nisa (Wanita)",
         "it": "An-Nisa (Le Donne)"
-      }
+      },
+      "streamName": "An-Nisa'"
     },
     {
       "id": 5,
@@ -733,7 +737,8 @@
         "az": "Al-Ma'idah (Süfrə)",
         "ms": "Al-Ma'idah (Hidangan)",
         "it": "Al-Ma'idah (La Tavola Imbandita)"
-      }
+      },
+      "streamName": "Al-Ma'idah"
     },
     {
       "id": 6,
@@ -753,7 +758,8 @@
         "az": "Al-An'am (Davar)",
         "ms": "Al-An'am (Binatang Ternakan)",
         "it": "Al-An'am (Il bestiame)"
-      }
+      },
+      "streamName": "Al-An'am"
     },
     {
       "id": 7,
@@ -773,7 +779,8 @@
         "az": "Al-A'raf (Sədd)",
         "ms": "Al-A'raf (Tempat Tertinggi)",
         "it": "Al-A'raf (Al-Arтf)"
-      }
+      },
+      "streamName": "Al-A'raf"
     },
     {
       "id": 8,
@@ -793,7 +800,8 @@
         "az": "Al-Anfal (Qənimətlər)",
         "ms": "Al-Anfal (Rampasan Perang)",
         "it": "Al-Anfal (Il Bottino)"
-      }
+      },
+      "streamName": "Al-Anfal"
     },
     {
       "id": 9,
@@ -813,7 +821,8 @@
         "az": "At-Tawbah (Tövbə)",
         "ms": "At-Tawbah (Pengampunan)",
         "it": "At-Tawbah (Il Pentimento o la Disapprovazione)"
-      }
+      },
+      "streamName": "At-Taubah"
     },
     {
       "id": 10,
@@ -833,7 +842,8 @@
         "az": "Yunus (Yunus)",
         "ms": "Yunus (Nabi Yunus a.s.)",
         "it": "Yunus (Giona)"
-      }
+      },
+      "streamName": "Yunus"
     },
     {
       "id": 11,
@@ -851,7 +861,8 @@
         "bn": "Hud (নবী হুদ)",
         "ms": "Hud (Nabi Hud a.s.)",
         "it": "Hud (Hћd)"
-      }
+      },
+      "streamName": "Hood"
     },
     {
       "id": 12,
@@ -870,7 +881,8 @@
         "az": "Yusuf (Yusuf)",
         "ms": "Yusuf (Nabi Yusuf a.s.)",
         "it": "Yusuf (Giuseppe)"
-      }
+      },
+      "streamName": "Yusuf"
     },
     {
       "id": 13,
@@ -890,7 +902,8 @@
         "az": "Ar-Ra'd (Göy gurultusu)",
         "ms": "Ar-Ra'd (Guruh)",
         "it": "Ar-Ra'd (Il Tuono)"
-      }
+      },
+      "streamName": "Ar-Ra'd"
     },
     {
       "id": 14,
@@ -909,7 +922,8 @@
         "az": "Ibrahim (İbrahim)",
         "ms": "Ibrahim (Nabi Ibrahim a.s.)",
         "it": "Ibrahim (Abramo)"
-      }
+      },
+      "streamName": "Ibrahim"
     },
     {
       "id": 15,
@@ -929,7 +943,8 @@
         "az": "Al-Hijr (Hicr)",
         "ms": "Al-Hijr (Kawasan Berbatu)",
         "it": "Al-Hijr (Al-Hijr)"
-      }
+      },
+      "streamName": "Al-Hijr"
     },
     {
       "id": 16,
@@ -949,7 +964,8 @@
         "az": "An-Nahl (Bal arısı)",
         "ms": "An-Nahl (Lebah)",
         "it": "An-Nahl (Le Api)"
-      }
+      },
+      "streamName": "An-Nahl"
     },
     {
       "id": 17,
@@ -969,7 +985,8 @@
         "az": "Al-Isra (Gecə səyahəti)",
         "ms": "Al-Isra (Perjalanan Malam)",
         "it": "Al-Isra (Il Viaggio Notturno)"
-      }
+      },
+      "streamName": "Al-Isra"
     },
     {
       "id": 18,
@@ -989,7 +1006,8 @@
         "az": "Al-Kahf (Mağara)",
         "ms": "Al-Kahf (Gua)",
         "it": "Al-Kahf (La Caverna)"
-      }
+      },
+      "streamName": "Al-Kahf"
     },
     {
       "id": 19,
@@ -1009,7 +1027,8 @@
         "az": "Maryam (Məryəm)",
         "ms": "Maryam (Siti Maryam)",
         "it": "Maryam (Maria)"
-      }
+      },
+      "streamName": "Maryam"
     },
     {
       "id": 20,
@@ -1028,7 +1047,8 @@
         "az": "Taha (Ta-ha)",
         "ms": "Taha (Taahaa)",
         "it": "Taha (Tт-Hт)"
-      }
+      },
+      "streamName": "Ta­Ha"
     },
     {
       "id": 21,
@@ -1048,7 +1068,8 @@
         "az": "Al-Anbya (Peyğəmbərlər)",
         "ms": "Al-Anbya (Para Nabi)",
         "it": "Al-Anbya (I Profeti)"
-      }
+      },
+      "streamName": "Al-Anbiya'"
     },
     {
       "id": 22,
@@ -1068,7 +1089,8 @@
         "az": "Al-Hajj (Həcc)",
         "ms": "Al-Hajj (Haji)",
         "it": "Al-Hajj (Il Pellegrinaggio)"
-      }
+      },
+      "streamName": "Al-Hajj"
     },
     {
       "id": 23,
@@ -1088,7 +1110,8 @@
         "az": "Al-Mu'minun (Möminlər)",
         "ms": "Al-Mu'minun (Golongan yang Beriman)",
         "it": "Al-Mu'minun (I Credenti)"
-      }
+      },
+      "streamName": "Al-Mu'minun"
     },
     {
       "id": 24,
@@ -1108,7 +1131,8 @@
         "az": "An-Nur (Nur)",
         "ms": "An-Nur (Cahaya)",
         "it": "An-Nur (La Luce)"
-      }
+      },
+      "streamName": "An-Nur"
     },
     {
       "id": 25,
@@ -1128,7 +1152,8 @@
         "az": "Al-Furqan (Haqqı batildən ayıran)",
         "ms": "Al-Furqan (Pembeza Kebenaran dan Kebatilan)",
         "it": "Al-Furqan (Il Discrimine)"
-      }
+      },
+      "streamName": "Al-Furqan"
     },
     {
       "id": 26,
@@ -1148,7 +1173,8 @@
         "az": "Ash-Shu'ara (Şairlər)",
         "ms": "Ash-Shu'ara (Para Penyair)",
         "it": "Ash-Shu'ara (I Poeti)"
-      }
+      },
+      "streamName": "Ash-Shu'ara'"
     },
     {
       "id": 27,
@@ -1168,7 +1194,8 @@
         "az": "An-Naml (Qarışqalar)",
         "ms": "An-Naml (Semut)",
         "it": "An-Naml (Le Formiche)"
-      }
+      },
+      "streamName": "An-Naml"
     },
     {
       "id": 28,
@@ -1188,7 +1215,8 @@
         "az": "Al-Qasas (Əhvalat)",
         "ms": "Al-Qasas (Cerita-cerita)",
         "it": "Al-Qasas (Il Racconto)"
-      }
+      },
+      "streamName": "Al-Qasas"
     },
     {
       "id": 29,
@@ -1208,7 +1236,8 @@
         "az": "Al-'Ankabut (Hörümçək)",
         "ms": "Al-'Ankabut (Labah-labah)",
         "it": "Al-'Ankabut (Il Ragno)"
-      }
+      },
+      "streamName": "Al-'Ankabut"
     },
     {
       "id": 30,
@@ -1228,7 +1257,8 @@
         "az": "Ar-Rum (Rumlular)",
         "ms": "Ar-Rum (Bangsa Rom)",
         "it": "Ar-Rum (I Romani)"
-      }
+      },
+      "streamName": "Ar­Room"
     },
     {
       "id": 31,
@@ -1246,7 +1276,8 @@
         "bn": "Luqman (এক জ্ঞানী ব্যাক্তি)",
         "az": "Luqman (Loğman)",
         "it": "Luqman (Luqmрn)"
-      }
+      },
+      "streamName": "Luqman"
     },
     {
       "id": 32,
@@ -1266,7 +1297,8 @@
         "az": "As-Sajdah (Səcdə)",
         "ms": "As-Sajdah (Sujud)",
         "it": "As-Sajdah (La Prosternazione)"
-      }
+      },
+      "streamName": "As­Sajdah"
     },
     {
       "id": 33,
@@ -1286,7 +1318,8 @@
         "az": "Al-Ahzab (Müttəfiqlər)",
         "ms": "Al-Ahzab (Golongan yang Bersekutu)",
         "it": "Al-Ahzab (I Coalizzati)"
-      }
+      },
+      "streamName": "Al­Ahzab"
     },
     {
       "id": 34,
@@ -1306,7 +1339,8 @@
         "az": "Saba (Səba)",
         "ms": "Saba (Kaum Saba’)",
         "it": "Saba (Sabт)"
-      }
+      },
+      "streamName": "Saba'"
     },
     {
       "id": 35,
@@ -1326,7 +1360,8 @@
         "az": "Fatir (Yaradan)",
         "ms": "Fatir (Pencipta)",
         "it": "Fatir (Colui Che dр origine)"
-      }
+      },
+      "streamName": "Fatir"
     },
     {
       "id": 36,
@@ -1346,7 +1381,8 @@
         "az": "Ya-Sin (Yasin)",
         "ms": "Ya-Sin (Yaasin)",
         "it": "Ya-Sin (Yт Sюn)"
-      }
+      },
+      "streamName": "Ya­Sin"
     },
     {
       "id": 37,
@@ -1366,7 +1402,8 @@
         "az": "As-Saffat (Səf-Səf duranlar)",
         "ms": "As-Saffat (Yang Teratur Berbaris)",
         "it": "As-Saffat (I Ranghi)"
-      }
+      },
+      "streamName": "As-Saffat"
     },
     {
       "id": 38,
@@ -1386,7 +1423,8 @@
         "az": "Sad (Sad)",
         "ms": "Sad (Saad)",
         "it": "Sad (Sтd)"
-      }
+      },
+      "streamName": "Sad"
     },
     {
       "id": 39,
@@ -1406,7 +1444,8 @@
         "az": "Az-Zumar (Zümrələr)",
         "ms": "Az-Zumar (Rombongan)",
         "it": "Az-Zumar (I Gruppi)"
-      }
+      },
+      "streamName": "Az-Zumar"
     },
     {
       "id": 40,
@@ -1426,7 +1465,8 @@
         "az": "Ghafir (Bağışlayan)",
         "ms": "Ghafir (Orang yang Beriman)",
         "it": "Ghafir (Il Perdonatore)"
-      }
+      },
+      "streamName": "Ghafir"
     },
     {
       "id": 41,
@@ -1446,7 +1486,8 @@
         "az": "Fussilat (Müfəssəl izah edilmiş)",
         "ms": "Fussilat (Dijelaskan)",
         "it": "Fussilat (Esposti chiaramente)"
-      }
+      },
+      "streamName": "Fussilat"
     },
     {
       "id": 42,
@@ -1466,7 +1507,8 @@
         "az": "Ash-Shuraa (Şura)",
         "ms": "Ash-Shuraa (Permesyuaratan)",
         "it": "Ash-Shuraa (La Consultazione)"
-      }
+      },
+      "streamName": "Ash-Shura"
     },
     {
       "id": 43,
@@ -1486,7 +1528,8 @@
         "az": "Az-Zukhruf (Zinət)",
         "ms": "Az-Zukhruf (Perhiasan Emas)",
         "it": "Az-Zukhruf (Gli Ornamenti d'Oro)"
-      }
+      },
+      "streamName": "Az-Zukhruf"
     },
     {
       "id": 44,
@@ -1506,7 +1549,8 @@
         "az": "Ad-Dukhan (Tüstü)",
         "ms": "Ad-Dukhan (Kabut / Asap)",
         "it": "Ad-Dukhan (Il Fumo)"
-      }
+      },
+      "streamName": "Ad-Dukhan"
     },
     {
       "id": 45,
@@ -1526,7 +1570,8 @@
         "az": "Al-Jathiyah (Diz çökənlər)",
         "ms": "Al-Jathiyah (Yang Berlutut)",
         "it": "Al-Jathiyah (La Genuflessa)"
-      }
+      },
+      "streamName": "Al-Jathiya"
     },
     {
       "id": 46,
@@ -1546,7 +1591,8 @@
         "az": "Al-Ahqaf (Qumsal təpələr)",
         "ms": "Al-Ahqaf (Bukit-bukit Pasir)",
         "it": "Al-Ahqaf (Al-Ahqрf)"
-      }
+      },
+      "streamName": "Al-Ahqaf"
     },
     {
       "id": 47,
@@ -1564,7 +1610,8 @@
         "bn": "Muhammad (নবী মুহাম্মদ)",
         "az": "Muhammad (Muhəmməd)",
         "ms": "Muhammad (Nabi Muhammad SAW)"
-      }
+      },
+      "streamName": "Muhammad"
     },
     {
       "id": 48,
@@ -1584,7 +1631,8 @@
         "az": "Al-Fath (Zəfər)",
         "ms": "Al-Fath (Kemenangan)",
         "it": "Al-Fath (La Vittoria)"
-      }
+      },
+      "streamName": "Al-Fath"
     },
     {
       "id": 49,
@@ -1604,7 +1652,8 @@
         "az": "Al-Hujurat (Otaqlar)",
         "ms": "Al-Hujurat (Bilik-bilik)",
         "it": "Al-Hujurat (Le Stanze Intime)"
-      }
+      },
+      "streamName": "Al-Hujurat"
     },
     {
       "id": 50,
@@ -1624,7 +1673,8 @@
         "az": "Qaf (Qaf)",
         "ms": "Qaf (Qaaf)",
         "it": "Qaf (Qтf)"
-      }
+      },
+      "streamName": "Qaf"
     },
     {
       "id": 51,
@@ -1644,7 +1694,8 @@
         "az": "Adh-Dhariyat (Toz torpağı səpələyənlər)",
         "ms": "Adh-Dhariyat (Angin yang Menerbangkan)",
         "it": "Adh-Dhariyat (Quelle che spargono)"
-      }
+      },
+      "streamName": "Az-Zariyat"
     },
     {
       "id": 52,
@@ -1664,7 +1715,8 @@
         "az": "At-Tur (Dağ)",
         "ms": "At-Tur (Bukit)",
         "it": "At-Tur (Il Monte)"
-      }
+      },
+      "streamName": "At-Tur"
     },
     {
       "id": 53,
@@ -1684,7 +1736,8 @@
         "az": "An-Najm (Ulduz)",
         "ms": "An-Najm (Bintang)",
         "it": "An-Najm (La Stella)"
-      }
+      },
+      "streamName": "An-Najm"
     },
     {
       "id": 54,
@@ -1704,7 +1757,8 @@
         "az": "Al-Qamar (Ay)",
         "ms": "Al-Qamar (Bulan)",
         "it": "Al-Qamar (La Luna)"
-      }
+      },
+      "streamName": "Al-Qamar"
     },
     {
       "id": 55,
@@ -1724,7 +1778,8 @@
         "az": "Ar-Rahman (Rəhmli olan Allah)",
         "ms": "Ar-Rahman (Yang Maha Pemurah)",
         "it": "Ar-Rahman (Il Compassionevole)"
-      }
+      },
+      "streamName": "Ar-Rahman"
     },
     {
       "id": 56,
@@ -1744,7 +1799,8 @@
         "az": "Al-Waqi'ah (Vaqiə)",
         "ms": "Al-Waqi'ah (Peristiwa yang Tidak Dapat Dielakkan)",
         "it": "Al-Waqi'ah (L'Evento)"
-      }
+      },
+      "streamName": "Al-Waqi'ah"
     },
     {
       "id": 57,
@@ -1764,7 +1820,8 @@
         "az": "Al-Hadid (Dəmir)",
         "ms": "Al-Hadid (Besi)",
         "it": "Al-Hadid (Il Ferro)"
-      }
+      },
+      "streamName": "Al-Hadid"
     },
     {
       "id": 58,
@@ -1784,7 +1841,8 @@
         "az": "Al-Mujadila (Mübahisə edən qadın)",
         "ms": "Al-Mujadila (Perempuan yang Merayu)",
         "it": "Al-Mujadila (La Disputante)"
-      }
+      },
+      "streamName": "Al-Mujadilah"
     },
     {
       "id": 59,
@@ -1804,7 +1862,8 @@
         "az": "Al-Hashr (Toplama)",
         "ms": "Al-Hashr (Pengusiran)",
         "it": "Al-Hashr (L'Esodo)"
-      }
+      },
+      "streamName": "Al-Hashr"
     },
     {
       "id": 60,
@@ -1824,7 +1883,8 @@
         "az": "Al-Mumtahanah (İmtahana çəkilən qadın)",
         "ms": "Al-Mumtahanah (Perempuan yang Diuji)",
         "it": "Al-Mumtahanah (L'Esaminata)"
-      }
+      },
+      "streamName": "Al-Mumtahinah"
     },
     {
       "id": 61,
@@ -1844,7 +1904,8 @@
         "az": "As-Saf (Səf)",
         "ms": "As-Saf (Barisan)",
         "it": "As-Saf (I Ranghi Serrati)"
-      }
+      },
+      "streamName": "As-Saff"
     },
     {
       "id": 62,
@@ -1864,7 +1925,8 @@
         "az": "Al-Jumu'ah (Cümə)",
         "ms": "Al-Jumu'ah (Hari Jumaat)",
         "it": "Al-Jumu'ah (Il Venerdь)"
-      }
+      },
+      "streamName": "Al-Jumu'ah"
     },
     {
       "id": 63,
@@ -1884,7 +1946,8 @@
         "az": "Al-Munafiqun (Münafiqlər)",
         "ms": "Al-Munafiqun (Golongan Munafik)",
         "it": "Al-Munafiqun (Gli Ipocriti)"
-      }
+      },
+      "streamName": "Al-Munafiqun"
     },
     {
       "id": 64,
@@ -1904,7 +1967,8 @@
         "az": "At-Taghabun (Qarşılıqlı aldanma)",
         "ms": "At-Taghabun (Dinampakkan Kesalahan)",
         "it": "At-Taghabun (Il Reciproco Inganno)"
-      }
+      },
+      "streamName": "At-Taghabun"
     },
     {
       "id": 65,
@@ -1924,7 +1988,8 @@
         "az": "At-Talaq (Boşanma)",
         "ms": "At-Talaq (Cerai / Talak)",
         "it": "At-Talaq (Il Divorzio)"
-      }
+      },
+      "streamName": "At-Talaq"
     },
     {
       "id": 66,
@@ -1944,7 +2009,8 @@
         "az": "At-Tahrim (Qadağan)",
         "ms": "At-Tahrim (Mengharamkan)",
         "it": "At-Tahrim (L'Interdizione)"
-      }
+      },
+      "streamName": "At-Tahrim"
     },
     {
       "id": 67,
@@ -1964,7 +2030,8 @@
         "az": "Al-Mulk (Mülk)",
         "ms": "Al-Mulk (Kerajaan)",
         "it": "Al-Mulk (La Sovranitр)"
-      }
+      },
+      "streamName": "Al-Mulk"
     },
     {
       "id": 68,
@@ -1984,7 +2051,8 @@
         "az": "Al-Qalam (Qələm)",
         "ms": "Al-Qalam (Pena / Kalam)",
         "it": "Al-Qalam (Il Calamo)"
-      }
+      },
+      "streamName": "Al-Qalam"
     },
     {
       "id": 69,
@@ -2004,7 +2072,8 @@
         "az": "Al-Haqqah (Haqq olan)",
         "ms": "Al-Haqqah (Keadaan Sebenar / Hari Kiamat)",
         "it": "Al-Haqqah (L'Inevitabile)"
-      }
+      },
+      "streamName": "Al-Haqqah"
     },
     {
       "id": 70,
@@ -2024,7 +2093,8 @@
         "az": "Al-Ma'arij (Dərəcələr)",
         "ms": "Al-Ma'arij (Tempat-tempat Naik)",
         "it": "Al-Ma'arij (Le Vie dell'Ascesa)"
-      }
+      },
+      "streamName": "Al-Ma'arij"
     },
     {
       "id": 71,
@@ -2044,7 +2114,8 @@
         "az": "Nuh (Nuh)",
         "ms": "Nuh (Nabi Nuh a.s.)",
         "it": "Nuh (Noш)"
-      }
+      },
+      "streamName": "Nooh"
     },
     {
       "id": 72,
@@ -2064,7 +2135,8 @@
         "az": "Al-Jinn (Cinlər)",
         "ms": "Al-Jinn (Jin)",
         "it": "Al-Jinn (I Dшmoni)"
-      }
+      },
+      "streamName": "Al-Jinn"
     },
     {
       "id": 73,
@@ -2084,7 +2156,8 @@
         "az": "Al-Muzzammil (Bürünmüş)",
         "ms": "Al-Muzzammil (Yang Berselimut)",
         "it": "Al-Muzzammil (L'avvolto)"
-      }
+      },
+      "streamName": "Al-Muzzammil"
     },
     {
       "id": 74,
@@ -2104,7 +2177,8 @@
         "az": "Al-Muddaththir (Örtünmüş)",
         "ms": "Al-Muddaththir (Yang Berselubung)",
         "it": "Al-Muddaththir (L'Avvolto nel Mantello)"
-      }
+      },
+      "streamName": "Al-Muddaththir"
     },
     {
       "id": 75,
@@ -2124,7 +2198,8 @@
         "az": "Al-Qiyamah (Qiyamət)",
         "ms": "Al-Qiyamah (Hari Kebangkitan / Kiamat)",
         "it": "Al-Qiyamah (La Resurrezione)"
-      }
+      },
+      "streamName": "Al-Qiyamah"
     },
     {
       "id": 76,
@@ -2144,7 +2219,8 @@
         "az": "Al-Insan (İnsan)",
         "ms": "Al-Insan (Manusia)",
         "it": "Al-Insan (L'Uomo)"
-      }
+      },
+      "streamName": "Al-Insan"
     },
     {
       "id": 77,
@@ -2164,7 +2240,8 @@
         "az": "Al-Mursalat (Göndərilənlər)",
         "ms": "Al-Mursalat (Malaikat Yang Diutus)",
         "it": "Al-Mursalat (Le Inviate)"
-      }
+      },
+      "streamName": "Al-Mursalat"
     },
     {
       "id": 78,
@@ -2184,7 +2261,8 @@
         "az": "An-Naba (Xəbər)",
         "ms": "An-Naba (Berita Besar)",
         "it": "An-Naba (L'Annuncio)"
-      }
+      },
+      "streamName": "An-Naba'"
     },
     {
       "id": 79,
@@ -2204,7 +2282,8 @@
         "az": "An-Nazi'at (Can alanlar)",
         "ms": "An-Nazi'at (Malaikat Yang Mencabut)",
         "it": "An-Nazi'at (Le Strappanti Violente)"
-      }
+      },
+      "streamName": "An-Nazi'at"
     },
     {
       "id": 80,
@@ -2224,7 +2303,8 @@
         "az": "'Abasa (Qaşqabağını tökdü)",
         "ms": "'Abasa (Dia Bermasam Muka)",
         "it": "'Abasa (Si Accigliђ)"
-      }
+      },
+      "streamName": "Abasa"
     },
     {
       "id": 81,
@@ -2244,7 +2324,8 @@
         "az": "At-Takwir (Sarınma)",
         "ms": "At-Takwir (Menggulung)",
         "it": "At-Takwir (L'Oscuramento)"
-      }
+      },
+      "streamName": "At-Takwir"
     },
     {
       "id": 82,
@@ -2264,7 +2345,8 @@
         "az": "Al-Infitar (Parçalanma)",
         "ms": "Al-Infitar (Terpecah & Terbelah)",
         "it": "Al-Infitar (Lo Squarciarsi)"
-      }
+      },
+      "streamName": "Al-Infitar"
     },
     {
       "id": 83,
@@ -2284,7 +2366,8 @@
         "az": "Al-Mutaffifin (Çəkidə və ölçüdə aldadanlar)",
         "ms": "Al-Mutaffifin (Golongan yang Curang)",
         "it": "Al-Mutaffifin (I Frodatori)"
-      }
+      },
+      "streamName": "Al-Mutaffifin"
     },
     {
       "id": 84,
@@ -2304,7 +2387,8 @@
         "az": "Al-Inshiqaq (Yarılma)",
         "ms": "Al-Inshiqaq (Terbelah)",
         "it": "Al-Inshiqaq (La Fenditura)"
-      }
+      },
+      "streamName": "Al-Inshiqaq"
     },
     {
       "id": 85,
@@ -2324,7 +2408,8 @@
         "az": "Al-Buruj (Bürclər)",
         "ms": "Al-Buruj (Gugusan Bintang)",
         "it": "Al-Buruj (Le Costellazioni)"
-      }
+      },
+      "streamName": "Al-Buruj"
     },
     {
       "id": 86,
@@ -2344,7 +2429,8 @@
         "az": "At-Tariq (Gecə yolçusu)",
         "ms": "At-Tariq (Pengunjung Malam)",
         "it": "At-Tariq (L'Astro Notturno)"
-      }
+      },
+      "streamName": "At-Tariq"
     },
     {
       "id": 87,
@@ -2364,7 +2450,8 @@
         "az": "Al-A'la (Ən uca)",
         "ms": "Al-A'la (Yang Tertinggi)",
         "it": "Al-A'la (L'Altissimo)"
-      }
+      },
+      "streamName": "Al-A'la"
     },
     {
       "id": 88,
@@ -2384,7 +2471,8 @@
         "az": "Al-Ghashiyah (Bürüyən)",
         "ms": "Al-Ghashiyah (Peristiwa Menggelisahkan/Hari Pembalasan)",
         "it": "Al-Ghashiyah (L'Avvolgente)"
-      }
+      },
+      "streamName": "Al-Ghashiyah"
     },
     {
       "id": 89,
@@ -2404,7 +2492,8 @@
         "az": "Al-Fajr (Dan yeri)",
         "ms": "Al-Fajr (Fajar / Sinar Mentari)",
         "it": "Al-Fajr (L'Alba)"
-      }
+      },
+      "streamName": "Al-Fajr"
     },
     {
       "id": 90,
@@ -2424,7 +2513,8 @@
         "az": "Al-Balad (Şəhər)",
         "ms": "Al-Balad (Negeri)",
         "it": "Al-Balad (La Contrada)"
-      }
+      },
+      "streamName": "Al-Balad"
     },
     {
       "id": 91,
@@ -2444,7 +2534,8 @@
         "az": "Ash-Shams (Günəş)",
         "ms": "Ash-Shams (Matahari)",
         "it": "Ash-Shams (Il Sole)"
-      }
+      },
+      "streamName": "Ash-Shams"
     },
     {
       "id": 92,
@@ -2464,7 +2555,8 @@
         "az": "Al-Layl (Gecə)",
         "ms": "Al-Layl (Malam)",
         "it": "Al-Layl (La Notte)"
-      }
+      },
+      "streamName": "Al-Lail"
     },
     {
       "id": 93,
@@ -2484,7 +2576,8 @@
         "az": "Ad-Duhaa (Səhər)",
         "ms": "Ad-Duhaa (Pagi yang Cemerlang / Matahari Meninggi)",
         "it": "Ad-Duhaa (La Luce del Mattino)"
-      }
+      },
+      "streamName": "Ad-Duha"
     },
     {
       "id": 94,
@@ -2504,7 +2597,8 @@
         "az": "Ash-Sharh (Açma)",
         "ms": "Ash-Sharh (Melapangkan)",
         "it": "Ash-Sharh (L'Apertura)"
-      }
+      },
+      "streamName": "Ash-Sharh"
     },
     {
       "id": 95,
@@ -2524,7 +2618,8 @@
         "az": "At-Tin (Əncir)",
         "ms": "At-Tin (Buah Tin / Buah Ara)",
         "it": "At-Tin (Il Fico)"
-      }
+      },
+      "streamName": "At-Tin"
     },
     {
       "id": 96,
@@ -2544,7 +2639,8 @@
         "az": "Al-'Alaq (Laxtalanmış qan)",
         "ms": "Al-'Alaq (Segumpal Darah)",
         "it": "Al-'Alaq (L'Aderenza)"
-      }
+      },
+      "streamName": "Al-'Alaq"
     },
     {
       "id": 97,
@@ -2564,7 +2660,8 @@
         "az": "Al-Qadr (Qədr gecəsi)",
         "ms": "Al-Qadr (Kemuliaan)",
         "it": "Al-Qadr (Il Destino)"
-      }
+      },
+      "streamName": "Al-Qadr"
     },
     {
       "id": 98,
@@ -2584,7 +2681,8 @@
         "az": "Al-Bayyinah (Açıq-aydın dəlil)",
         "ms": "Al-Bayyinah (Bukti yang Nyata)",
         "it": "Al-Bayyinah (La prova)"
-      }
+      },
+      "streamName": "Al-Baiyinah"
     },
     {
       "id": 99,
@@ -2604,7 +2702,8 @@
         "az": "Az-Zalzalah (Zəlzələ)",
         "ms": "Az-Zalzalah (Kegoncangan)",
         "it": "Az-Zalzalah (Il Terremoto)"
-      }
+      },
+      "streamName": "Az-Zalzalah"
     },
     {
       "id": 100,
@@ -2624,7 +2723,8 @@
         "az": "Al-'Adiyat (Çapanlar)",
         "ms": "Al-'Adiyat (Yang Berlari Kencang)",
         "it": "Al-'Adiyat (Le Scalpitanti)"
-      }
+      },
+      "streamName": "Al-'Adiyat"
     },
     {
       "id": 101,
@@ -2644,7 +2744,8 @@
         "az": "Al-Qari'ah (Qorxuya salan)",
         "ms": "Al-Qari'ah (Hari Yang Hingar Bingar / Kiamat)",
         "it": "Al-Qari'ah (La Percotente)"
-      }
+      },
+      "streamName": "Al-Qari'ah"
     },
     {
       "id": 102,
@@ -2664,7 +2765,8 @@
         "az": "At-Takathur (Çoxluqla hərislik)",
         "ms": "At-Takathur (Bermegah-megah)",
         "it": "At-Takathur (Il Rivaleggiare)"
-      }
+      },
+      "streamName": "At-Takathur"
     },
     {
       "id": 103,
@@ -2684,7 +2786,8 @@
         "az": "Al-'Asr (Axşam çağı)",
         "ms": "Al-'Asr (Masa)",
         "it": "Al-'Asr (Il Tempo)"
-      }
+      },
+      "streamName": "Al-'Asr"
     },
     {
       "id": 104,
@@ -2704,7 +2807,8 @@
         "az": "Al-Humazah (Tənə edən)",
         "ms": "Al-Humazah (Pengumpat)",
         "it": "Al-Humazah (Il Diffamatore)"
-      }
+      },
+      "streamName": "Al-Humazah"
     },
     {
       "id": 105,
@@ -2724,7 +2828,8 @@
         "az": "Al-Fil (Fil)",
         "ms": "Al-Fil (Gajah)",
         "it": "Al-Fil (L'Elefante)"
-      }
+      },
+      "streamName": "Al-Fil"
     },
     {
       "id": 106,
@@ -2744,7 +2849,8 @@
         "az": "Quraysh (Qureyş)",
         "ms": "Quraysh (Kaum Quraisy)",
         "it": "Quraysh (I Coreisciti)"
-      }
+      },
+      "streamName": "Quraish"
     },
     {
       "id": 107,
@@ -2764,7 +2870,8 @@
         "az": "Al-Ma'un (Xırda xuruş)",
         "ms": "Al-Ma'un (Barangan Berguna)",
         "it": "Al-Ma'un (L'Utensile)"
-      }
+      },
+      "streamName": "Al-Ma'un"
     },
     {
       "id": 108,
@@ -2784,7 +2891,8 @@
         "az": "Al-Kawthar (Bolluq)",
         "ms": "Al-Kawthar (Sungai Di Syurga)",
         "it": "Al-Kawthar (L'Abbondanza)"
-      }
+      },
+      "streamName": "Al-Kauthar"
     },
     {
       "id": 109,
@@ -2804,7 +2912,8 @@
         "az": "Al-Kafirun (Kafirlər)",
         "ms": "Al-Kafirun (Golongan Kafir)",
         "it": "Al-Kafirun (Miscredenti)"
-      }
+      },
+      "streamName": "Al-Kafirun"
     },
     {
       "id": 110,
@@ -2824,7 +2933,8 @@
         "az": "An-Nasr (Kömək)",
         "ms": "An-Nasr (Pertolongan)",
         "it": "An-Nasr (L'Ausilio)"
-      }
+      },
+      "streamName": "An-Nasr"
     },
     {
       "id": 111,
@@ -2844,7 +2954,8 @@
         "az": "Al-Masad (Xurma lifi)",
         "ms": "Al-Masad (Nyalaan Api)",
         "it": "Al-Masad (Le Fibre di Palma)"
-      }
+      },
+      "streamName": "Al-Masad"
     },
     {
       "id": 112,
@@ -2864,7 +2975,8 @@
         "az": "Al-Ikhlas (Səmimi etiqad)",
         "ms": "Al-Ikhlas (Tulus Ikhlas / Memurnikan Keesaan Allah)",
         "it": "Al-Ikhlas (Il Puro Monoteismo)"
-      }
+      },
+      "streamName": "Al-Ikhlas"
     },
     {
       "id": 113,
@@ -2884,7 +2996,8 @@
         "az": "Al-Falaq (Sübh)",
         "ms": "Al-Falaq (Waktu Subuh / Dinihari)",
         "it": "Al-Falaq (L'Alba Nascente)"
-      }
+      },
+      "streamName": "Al-Falaq"
     },
     {
       "id": 114,
@@ -2904,7 +3017,8 @@
         "az": "An-Nas (İnsanlar)",
         "ms": "An-Nas (Manusia)",
         "it": "An-Nas (Gli Uomini)"
-      }
+      },
+      "streamName": "An-Nas"
     }
   ],
   "reciters": [
